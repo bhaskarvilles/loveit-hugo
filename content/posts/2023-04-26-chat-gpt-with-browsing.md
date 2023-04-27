@@ -11,7 +11,7 @@ description: "The Evolution of AI: Introducing GPT-3.5 With Live Browsing. The N
 
 In recent years, artificial intelligence (AI) and natural language processing (NLP) have made significant advancements with the help of powerful models like GPT-3. Now, OpenAI is taking a leap forward with the latest innovation: GPT-3.5 With Browsing, a model that not only understands natural language but can also access live information from the internet.
 
-![GPT-3.5-with-Browsing-Screenshot](https://github.com/bhaskarvilles/loveit-hugo/blob/master/images/GPTSCREENSHOT.jpg)
+![GPT-3.5-with-Browsing-Screenshot](https://raw.githubusercontent.com/bhaskarvilles/loveit-hugo/master/images/GPTSCREENSHOT.jpg)
 
 ## 1. _What is GPT-3.5 With Browsing?_
 
@@ -38,7 +38,7 @@ d. Customer Support: GPT-3.5 With Browsing can enhance customer support by acces
 -  Ethical Concerns: The use of GPT-3.5 With Browsing raises questions about its potential impact on job displacement, content plagiarism, and the spread of misinformation.
 -  Reliability: Ensuring that the AI provides accurate and reliable information from reputable sources is essential to maintain user trust and credibility.
 
-![GPT-ALPHA](https://github.com/bhaskarvilles/loveit-hugo/blob/master/images/GPTALPHA.jpg)
+![GPT-ALPHA](https://raw.githubusercontent.com/bhaskarvilles/loveit-hugo/master/images/GPTALPHA.jpg)
 
 ## Conclusion
 
