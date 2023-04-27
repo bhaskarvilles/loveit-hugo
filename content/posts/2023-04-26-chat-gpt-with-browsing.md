@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Evolution of AI: Introducing GPT-3.5 With Live Browsing"
-date: 2023-04-24
+date: 2023-04-26
 categories: [ AI, Chat GPT, OpenAI ]
 --- 
 > The Next Frontier in Language Models - Accessing Real-time Information
