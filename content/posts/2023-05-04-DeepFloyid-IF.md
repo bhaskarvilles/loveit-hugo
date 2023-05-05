@@ -15,7 +15,7 @@ DeepFloyd-IF is a pixel-based text-to-image triple-cascaded diffusion model, tha
 
 *Inspired by* [*Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding*](https://arxiv.org/pdf/2205.11487.pdf)
 
-![](https://huggingface.co/DeepFloyd/IF-I-XL-v1.0/resolve/main/pics/deepfloyd_if_scheme.jpg)
+<!-- ![](https://huggingface.co/DeepFloyd/IF-I-XL-v1.0/resolve/main/pics/deepfloyd_if_scheme.jpg) -->
 
 ## Model Details
 
@@ -154,7 +154,7 @@ Test/Valid parts of datasets are not used at any cascade and stage of training. 
 
 - The training process for checkpoint IF-I-XL-v1.0 has 2_420_000 steps at resolution 64x64 on all datasets, OneCycleLR policy, few-bit backward GELU activations, optimizer AdamW8bit + DeepSpeed-Zero1, fully frozen T5-Encoder
 
-![](./images/loss.jpg)
+<!-- ![](./images/loss.jpg) -->
 
 **Hardware:** 64 x 8 x A100 GPUs
 
@@ -165,14 +165,14 @@ Test/Valid parts of datasets are not used at any cascade and stage of training. 
 **Learning rate**: [one-cycle](https://pytorch.org/docs/stable/generated/torch.optim.lr_scheduler.OneCycleLR.html) cosine strategy, warmup 10000 steps, start_lr=2e-6, max_lr=5e-5, final_lr=5e-9
 
 
-![](./images/lr.jpg)
+<!-- ![](./images/lr.jpg) -->
 
 
 ## Evaluation Results
 
 `FID-30K: 6.66`
 
-![](./images/fid30k_if.jpg)
+<!-- ![](./images/fid30k_if.jpg) -->
 
 # Uses
 
