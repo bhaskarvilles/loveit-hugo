@@ -1,4 +1,4 @@
-baseURL = "http://bhaskarvilles.dev/"
+baseURL = ""
 
 # Change the default theme to be use when building the site with Hugo
 theme = "LoveIt"
@@ -34,7 +34,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 [author]
   name = "Bhaskar"
   email = "bhaskarvilles@duck.com"
-  link = "https://bhaskarvilles.dev"
+  link = "https://kerdos.xyz"
 
 # Menu config
 [menu]
