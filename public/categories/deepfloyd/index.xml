@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DeepFloyd on Ram&#39;s Website</title>
+    <link>//localhost:1313/categories/deepfloyd/</link>
+    <description>Recent content in DeepFloyd on Ram&#39;s Website</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>bhaskarvilles@duck.com (Bhaskar)</managingEditor>
+    <webMaster>bhaskarvilles@duck.com (Bhaskar)</webMaster>
+    <copyright>Bhaskar</copyright>
+    <lastBuildDate>Fri, 19 May 2023 19:59:37 +0530</lastBuildDate>
+    <atom:link href="//localhost:1313/categories/deepfloyd/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Designing Your Own Language Model with DeepFloyd AI</title>
+      <link>//localhost:1313/2023-05-18-create-your-own-ai-language-model/</link>
+      <pubDate>Fri, 19 May 2023 00:00:00 +0000</pubDate><author>bhaskarvilles@duck.com (Bhaskar)</author>
+      <guid>//localhost:1313/2023-05-18-create-your-own-ai-language-model/</guid>
+      <description>Designing Your Own Language Model with DeepFloyd AI Artificial Intelligence (AI) is indisputably transforming the landscape of virtually every industry, with Natural Language Processing (NLP) playing a significant role in this revolution. Language models, a primary component of NLP, are capable of understanding, generating, and interacting in human language. Today, we will embark on a journey to build our own language model using DeepFloyd AI, a state-of-the-art machine learning platform. 1.</description>
+    </item>
+    <item>
+      <title>DeepFloyd-IF: A Pixel-Based Triple-Cascaded Diffusion Model for Photorealistic Text-to-Image Generation</title>
+      <link>//localhost:1313/2023-05-04-deepfloyid-if/</link>
+      <pubDate>Thu, 04 May 2023 00:00:00 +0000</pubDate><author>bhaskarvilles@duck.com (Bhaskar)</author>
+      <guid>//localhost:1313/2023-05-04-deepfloyid-if/</guid>
+      <description>IF-I-XL-v1.0 DeepFloyd-IF is a pixel-based text-to-image triple-cascaded diffusion model, that can generate pictures with new state-of-the-art for photorealism and language understanding. The result is a highly efficient model that outperforms current state-of-the-art models, achieving a zero-shot FID-30K score of 6.66 on the COCO dataset.&#xA;Inspired by Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding&#xA;Model Details Developed by: DeepFloyd, StabilityAI Model type: pixel-based text-to-image cascaded diffusion model Cascade Stage: I Num Parameters: 4.</description>
+    </item>
+  </channel>
+</rss>

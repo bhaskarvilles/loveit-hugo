@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hacking on Ram&#39;s Website</title>
+    <link>//localhost:1313/categories/hacking/</link>
+    <description>Recent content in Hacking on Ram&#39;s Website</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>bhaskarvilles@duck.com (Bhaskar)</managingEditor>
+    <webMaster>bhaskarvilles@duck.com (Bhaskar)</webMaster>
+    <copyright>Bhaskar</copyright>
+    <lastBuildDate>Tue, 25 Apr 2023 02:17:39 +0530</lastBuildDate>
+    <atom:link href="//localhost:1313/categories/hacking/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tools for reconnaissance and footprinting</title>
+      <link>//localhost:1313/2023-04-15-awesome-recon-tools/</link>
+      <pubDate>Sat, 15 Apr 2023 00:00:00 +0000</pubDate><author>bhaskarvilles@duck.com (Bhaskar)</author>
+      <guid>//localhost:1313/2023-04-15-awesome-recon-tools/</guid>
+      <description>Recon Tools A compiled list of tools for reconnaissance and footprinting.&#xA;Contents Domain and Network Recon - Tools for grabbing network related information.&#xA;Personal Information and Email Footprinting - Tools for finding personal information such as social networks and emails as well as footprinting tools for mail.&#xA;Hacking with Google - Use Google commands to your advantage&#xA;Domain and Network Recon Robust tools for gathering domain and network information.&#xA;Programs and Web Applications ARIN Whois/RDAP - A public resource that allows a user to retrieve information about IP number resources, organizations, and Points of Contact registered with ARIN.</description>
+    </item>
+    <item>
+      <title>New WhatsApp 0-Day Bug Let Hackers Execute a Code &amp; Take Full App Control Remotely</title>
+      <link>//localhost:1313/2022-09-27-new-whatsapp-0-day-bug-can-access-whatsapp-remotely/</link>
+      <pubDate>Tue, 27 Sep 2022 00:00:00 +0000</pubDate><author>bhaskarvilles@duck.com (Bhaskar)</author>
+      <guid>//localhost:1313/2022-09-27-new-whatsapp-0-day-bug-can-access-whatsapp-remotely/</guid>
+      <description>WhatsApp silently fixed two critical zero-day vulnerabilities that affect both Android &amp;amp; iOS versions allowing attackers to execute an arbitrary code remotely.&#xA;Facebook-owned messenger WhatsApp is one of the Top-ranked Messenger apps with more than Billion users around the world in both Android and iPhone.&#xA;Both vulnerabilities are marked under “critical” severity with a CVE Score of 10/10 and found by the WhatsApp internal security Team.&#xA;Simplifying these following vulnerabilities, Whatsapp could cause your device to be hacked by receiving a Video File or When on a Video call.</description>
+    </item>
+  </channel>
+</rss>
