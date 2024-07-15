@@ -1,0 +1,477 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Ram&#39;s Website</title>
+    <link>//localhost:1313/categories/</link>
+    <description>Recent content in Categories on Ram&#39;s Website</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>bhaskarvilles@duck.com (Bhaskar)</managingEditor>
+    <webMaster>bhaskarvilles@duck.com (Bhaskar)</webMaster>
+    <copyright>Bhaskar</copyright>
+    <lastBuildDate>Wed, 07 Jun 2023 15:36:25 +0530</lastBuildDate>
+    <atom:link href="//localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>&lt;Arketing</title>
+      <link>//localhost:1313/categories/arketing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>bhaskarvilles@duck.com (Bhaskar)</author>
+      <guid>//localhost:1313/categories/arketing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>AI</title>
+      <link>//localhost:1313/categories/ai/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>bhaskarvilles@duck.com (Bhaskar)</author>
+      <guid>//localhost:1313/categories/ai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>GPT</title>
+      <link>//localhost:1313/categories/gpt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>bhaskarvilles@duck.com (Bhaskar)</author>
+      <guid>//localhost:1313/categories/gpt/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Language Model</title>
+      <link>//localhost:1313/categories/language-model/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>bhaskarvilles@duck.com (Bhaskar)</author>
+      <guid>//localhost:1313/categories/language-model/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Machine Learning</title>
+      <link>//localhost:1313/categories/machine-learning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>bhaskarvilles@duck.com (Bhaskar)</author>
+      <guid>//localhost:1313/categories/machine-learning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>DeepFloyd</title>
+      <link>//localhost:1313/categories/deepfloyd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>bhaskarvilles@duck.com (Bhaskar)</author>
+      <guid>//localhost:1313/categories/deepfloyd/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>NLP</title>
+      <link>//localhost:1313/categories/nlp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>bhaskarvilles@duck.com (Bhaskar)</author>
+      <guid>//localhost:1313/categories/nlp/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ChatGPT</title>
+      <link>//localhost:1313/categories/chatgpt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>bhaskarvilles@duck.com (Bhaskar)</author>
+      <guid>//localhost:1313/categories/chatgpt/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Google</title>
+      <link>//localhost:1313/categories/google/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>bhaskarvilles@duck.com (Bhaskar)</author>
+      <guid>//localhost:1313/categories/google/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>HumanIntellegence</title>
+      <link>//localhost:1313/categories/humanintellegence/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>bhaskarvilles@duck.com (Bhaskar)</author>
+      <guid>//localhost:1313/categories/humanintellegence/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>OpenAI</title>
+      <link>//localhost:1313/categories/openai/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>bhaskarvilles@duck.com (Bhaskar)</author>
+      <guid>//localhost:1313/categories/openai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>LanguageModels</title>
+      <link>//localhost:1313/categories/languagemodels/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>bhaskarvilles@duck.com (Bhaskar)</author>
+      <guid>//localhost:1313/categories/languagemodels/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Chat GPT</title>
+      <link>//localhost:1313/categories/chat-gpt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>bhaskarvilles@duck.com (Bhaskar)</author>
+      <guid>//localhost:1313/categories/chat-gpt/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Brain Implants</title>
+      <link>//localhost:1313/categories/brain-implants/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>bhaskarvilles@duck.com (Bhaskar)</author>
+      <guid>//localhost:1313/categories/brain-implants/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Neuralink</title>
+      <link>//localhost:1313/categories/neuralink/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>bhaskarvilles@duck.com (Bhaskar)</author>
+      <guid>//localhost:1313/categories/neuralink/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Footprinting</title>
+      <link>//localhost:1313/categories/footprinting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>bhaskarvilles@duck.com (Bhaskar)</author>
+      <guid>//localhost:1313/categories/footprinting/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hacking</title>
+      <link>//localhost:1313/categories/hacking/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>bhaskarvilles@duck.com (Bhaskar)</author>
+      <guid>//localhost:1313/categories/hacking/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Reconnaissance</title>
+      <link>//localhost:1313/categories/reconnaissance/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>bhaskarvilles@duck.com (Bhaskar)</author>
+      <guid>//localhost:1313/categories/reconnaissance/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ethereum</title>
+      <link>//localhost:1313/categories/ethereum/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>bhaskarvilles@duck.com (Bhaskar)</author>
+      <guid>//localhost:1313/categories/ethereum/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>EVM</title>
+      <link>//localhost:1313/categories/evm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>bhaskarvilles@duck.com (Bhaskar)</author>
+      <guid>//localhost:1313/categories/evm/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Digital Marketing</title>
+      <link>//localhost:1313/categories/digital-marketing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>bhaskarvilles@duck.com (Bhaskar)</author>
+      <guid>//localhost:1313/categories/digital-marketing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SEO</title>
+      <link>//localhost:1313/categories/seo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>bhaskarvilles@duck.com (Bhaskar)</author>
+      <guid>//localhost:1313/categories/seo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Metaverse</title>
+      <link>//localhost:1313/categories/metaverse/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>bhaskarvilles@duck.com (Bhaskar)</author>
+      <guid>//localhost:1313/categories/metaverse/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>NFTs</title>
+      <link>//localhost:1313/categories/nfts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>bhaskarvilles@duck.com (Bhaskar)</author>
+      <guid>//localhost:1313/categories/nfts/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Blockchain</title>
+      <link>//localhost:1313/categories/blockchain/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>bhaskarvilles@duck.com (Bhaskar)</author>
+      <guid>//localhost:1313/categories/blockchain/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>DAOs</title>
+      <link>//localhost:1313/categories/daos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>bhaskarvilles@duck.com (Bhaskar)</author>
+      <guid>//localhost:1313/categories/daos/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Organizations</title>
+      <link>//localhost:1313/categories/organizations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>bhaskarvilles@duck.com (Bhaskar)</author>
+      <guid>//localhost:1313/categories/organizations/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tech</title>
+      <link>//localhost:1313/categories/tech/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>bhaskarvilles@duck.com (Bhaskar)</author>
+      <guid>//localhost:1313/categories/tech/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Neural Networks</title>
+      <link>//localhost:1313/categories/neural-networks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>bhaskarvilles@duck.com (Bhaskar)</author>
+      <guid>//localhost:1313/categories/neural-networks/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Algorithm</title>
+      <link>//localhost:1313/categories/algorithm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>bhaskarvilles@duck.com (Bhaskar)</author>
+      <guid>//localhost:1313/categories/algorithm/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mathematics</title>
+      <link>//localhost:1313/categories/mathematics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>bhaskarvilles@duck.com (Bhaskar)</author>
+      <guid>//localhost:1313/categories/mathematics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Matrix Calculation</title>
+      <link>//localhost:1313/categories/matrix-calculation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>bhaskarvilles@duck.com (Bhaskar)</author>
+      <guid>//localhost:1313/categories/matrix-calculation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Anonymous</title>
+      <link>//localhost:1313/categories/anonymous/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>bhaskarvilles@duck.com (Bhaskar)</author>
+      <guid>//localhost:1313/categories/anonymous/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Investigation</title>
+      <link>//localhost:1313/categories/investigation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>bhaskarvilles@duck.com (Bhaskar)</author>
+      <guid>//localhost:1313/categories/investigation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Princess Diana</title>
+      <link>//localhost:1313/categories/princess-diana/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>bhaskarvilles@duck.com (Bhaskar)</author>
+      <guid>//localhost:1313/categories/princess-diana/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Python</title>
+      <link>//localhost:1313/categories/python/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>bhaskarvilles@duck.com (Bhaskar)</author>
+      <guid>//localhost:1313/categories/python/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Rashahacks</title>
+      <link>//localhost:1313/categories/rashahacks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>bhaskarvilles@duck.com (Bhaskar)</author>
+      <guid>//localhost:1313/categories/rashahacks/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Scappy</title>
+      <link>//localhost:1313/categories/scappy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>bhaskarvilles@duck.com (Bhaskar)</author>
+      <guid>//localhost:1313/categories/scappy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cactus</title>
+      <link>//localhost:1313/categories/cactus/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>bhaskarvilles@duck.com (Bhaskar)</author>
+      <guid>//localhost:1313/categories/cactus/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Github</title>
+      <link>//localhost:1313/categories/github/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>bhaskarvilles@duck.com (Bhaskar)</author>
+      <guid>//localhost:1313/categories/github/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Github Copiolet</title>
+      <link>//localhost:1313/categories/github-copiolet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>bhaskarvilles@duck.com (Bhaskar)</author>
+      <guid>//localhost:1313/categories/github-copiolet/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hyperledger</title>
+      <link>//localhost:1313/categories/hyperledger/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>bhaskarvilles@duck.com (Bhaskar)</author>
+      <guid>//localhost:1313/categories/hyperledger/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Microsoft</title>
+      <link>//localhost:1313/categories/microsoft/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>bhaskarvilles@duck.com (Bhaskar)</author>
+      <guid>//localhost:1313/categories/microsoft/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Google Cloud Node</title>
+      <link>//localhost:1313/categories/google-cloud-node/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>bhaskarvilles@duck.com (Bhaskar)</author>
+      <guid>//localhost:1313/categories/google-cloud-node/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Global Crisis</title>
+      <link>//localhost:1313/categories/global-crisis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>bhaskarvilles@duck.com (Bhaskar)</author>
+      <guid>//localhost:1313/categories/global-crisis/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Gnome</title>
+      <link>//localhost:1313/categories/gnome/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>bhaskarvilles@duck.com (Bhaskar)</author>
+      <guid>//localhost:1313/categories/gnome/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Linux</title>
+      <link>//localhost:1313/categories/linux/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>bhaskarvilles@duck.com (Bhaskar)</author>
+      <guid>//localhost:1313/categories/linux/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>OS</title>
+      <link>//localhost:1313/categories/os/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>bhaskarvilles@duck.com (Bhaskar)</author>
+      <guid>//localhost:1313/categories/os/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Recession</title>
+      <link>//localhost:1313/categories/recession/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>bhaskarvilles@duck.com (Bhaskar)</author>
+      <guid>//localhost:1313/categories/recession/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Security</title>
+      <link>//localhost:1313/categories/security/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>bhaskarvilles@duck.com (Bhaskar)</author>
+      <guid>//localhost:1313/categories/security/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>World Economics</title>
+      <link>//localhost:1313/categories/world-economics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>bhaskarvilles@duck.com (Bhaskar)</author>
+      <guid>//localhost:1313/categories/world-economics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Script</title>
+      <link>//localhost:1313/categories/script/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>bhaskarvilles@duck.com (Bhaskar)</author>
+      <guid>//localhost:1313/categories/script/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Trading</title>
+      <link>//localhost:1313/categories/trading/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>bhaskarvilles@duck.com (Bhaskar)</author>
+      <guid>//localhost:1313/categories/trading/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tradingview</title>
+      <link>//localhost:1313/categories/tradingview/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>bhaskarvilles@duck.com (Bhaskar)</author>
+      <guid>//localhost:1313/categories/tradingview/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Trends</title>
+      <link>//localhost:1313/categories/trends/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>bhaskarvilles@duck.com (Bhaskar)</author>
+      <guid>//localhost:1313/categories/trends/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>0 Day</title>
+      <link>//localhost:1313/categories/0-day/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>bhaskarvilles@duck.com (Bhaskar)</author>
+      <guid>//localhost:1313/categories/0-day/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Whatsapp</title>
+      <link>//localhost:1313/categories/whatsapp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>bhaskarvilles@duck.com (Bhaskar)</author>
+      <guid>//localhost:1313/categories/whatsapp/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Fabric</title>
+      <link>//localhost:1313/categories/fabric/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>bhaskarvilles@duck.com (Bhaskar)</author>
+      <guid>//localhost:1313/categories/fabric/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ethereum 2.0</title>
+      <link>//localhost:1313/categories/ethereum-2.0/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>bhaskarvilles@duck.com (Bhaskar)</author>
+      <guid>//localhost:1313/categories/ethereum-2.0/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Fake SMS</title>
+      <link>//localhost:1313/categories/fake-sms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>bhaskarvilles@duck.com (Bhaskar)</author>
+      <guid>//localhost:1313/categories/fake-sms/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Social Engineering</title>
+      <link>//localhost:1313/categories/social-engineering/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>bhaskarvilles@duck.com (Bhaskar)</author>
+      <guid>//localhost:1313/categories/social-engineering/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hitachi</title>
+      <link>//localhost:1313/categories/hitachi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>bhaskarvilles@duck.com (Bhaskar)</author>
+      <guid>//localhost:1313/categories/hitachi/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Enterprises Project</title>
+      <link>//localhost:1313/categories/enterprises-project/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>bhaskarvilles@duck.com (Bhaskar)</author>
+      <guid>//localhost:1313/categories/enterprises-project/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>First Post</title>
+      <link>//localhost:1313/categories/first-post/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>bhaskarvilles@duck.com (Bhaskar)</author>
+      <guid>//localhost:1313/categories/first-post/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Red Hat</title>
+      <link>//localhost:1313/categories/red-hat/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>bhaskarvilles@duck.com (Bhaskar)</author>
+      <guid>//localhost:1313/categories/red-hat/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Markdown</title>
+      <link>//localhost:1313/categories/markdown/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>bhaskarvilles@duck.com (Bhaskar)</author>
+      <guid>//localhost:1313/categories/markdown/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

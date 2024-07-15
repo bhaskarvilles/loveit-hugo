@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hitachi on Ram&#39;s Website</title>
+    <link>//localhost:1313/categories/hitachi/</link>
+    <description>Recent content in Hitachi on Ram&#39;s Website</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>bhaskarvilles@duck.com (Bhaskar)</managingEditor>
+    <webMaster>bhaskarvilles@duck.com (Bhaskar)</webMaster>
+    <copyright>Bhaskar</copyright>
+    <lastBuildDate>Fri, 07 Apr 2023 01:07:21 +0530</lastBuildDate>
+    <atom:link href="//localhost:1313/categories/hitachi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hitachi Shifts to Paperless, Secure Procurement Contracts with Hyperledger Fabric</title>
+      <link>//localhost:1313/2022-09-07-hitachi/</link>
+      <pubDate>Wed, 07 Sep 2022 11:30:00 +0000</pubDate><author>bhaskarvilles@duck.com (Bhaskar)</author>
+      <guid>//localhost:1313/2022-09-07-hitachi/</guid>
+      <description>Read the full case study here.&#xA;Paper pushing. It’s synonymous with tedious, slow processes. Yet often, the pushed paper is vital to a company’s business. And contracts are especially important paper.&#xA;But digitizing a contract process isn’t as simple as it sounds. As the contract moves between parties, there’s a risk of tampering. Or mismanaging version control.&#xA;Many companies continue to use paper for their contracting processes to maintain security and trust.</description>
+    </item>
+  </channel>
+</rss>

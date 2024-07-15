@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gnome on Ram&#39;s Website</title>
+    <link>//localhost:1313/categories/gnome/</link>
+    <description>Recent content in Gnome on Ram&#39;s Website</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>bhaskarvilles@duck.com (Bhaskar)</managingEditor>
+    <webMaster>bhaskarvilles@duck.com (Bhaskar)</webMaster>
+    <copyright>Bhaskar</copyright>
+    <lastBuildDate>Fri, 07 Apr 2023 01:07:21 +0530</lastBuildDate>
+    <atom:link href="//localhost:1313/categories/gnome/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GNOME 43 Endless Part In Its Creation</title>
+      <link>//localhost:1313/2022-10-14-gnome-43-endless-part-in-its-creation/</link>
+      <pubDate>Wed, 12 Oct 2022 00:00:00 +0000</pubDate><author>bhaskarvilles@duck.com (Bhaskar)</author>
+      <guid>//localhost:1313/2022-10-14-gnome-43-endless-part-in-its-creation/</guid>
+      <description>GNOME 43 is out, and as always there is lots of good stuff in there. (Me circa 2014 would be delighted to see the continuous improvements in GNOME’s built-in RDP support.) During this cycle, the OS team at Endless OS Foundation spent a big chunk of our time on other initiatives, such as bringing Endless Key to more platforms and supporting the Endless Laptop programme. Even so, we made some notable contributions to this GNOME release.</description>
+    </item>
+  </channel>
+</rss>

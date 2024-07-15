@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Social Engineering on Ram&#39;s Website</title>
+    <link>//localhost:1313/categories/social-engineering/</link>
+    <description>Recent content in Social Engineering on Ram&#39;s Website</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>bhaskarvilles@duck.com (Bhaskar)</managingEditor>
+    <webMaster>bhaskarvilles@duck.com (Bhaskar)</webMaster>
+    <copyright>Bhaskar</copyright>
+    <lastBuildDate>Fri, 07 Apr 2023 01:07:21 +0530</lastBuildDate>
+    <atom:link href="//localhost:1313/categories/social-engineering/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Social Engineering Attacks - Creating a Fake SMS Message</title>
+      <link>//localhost:1313/2022-09-09-social-engineering-attacks-fake-sms/</link>
+      <pubDate>Fri, 09 Sep 2022 10:18:00 +0000</pubDate><author>bhaskarvilles@duck.com (Bhaskar)</author>
+      <guid>//localhost:1313/2022-09-09-social-engineering-attacks-fake-sms/</guid>
+      <description>Welcome back, my aspiring cyber warriors!&#xA;Social engineering is a key feature of some of the biggest hacks in history! Many novice hackers are so focused upon mastering the technical aspects of hacking that they ignore at their own peril the power of social engineering. When nation-state actors such as Russia&amp;rsquo;s Sandworm hacking team (one of the most technically advanced hacker organizations) use social engineering to hack Ukraine&amp;rsquo;s electrical grid and the US 2016 Presidential election, that should be a sign that social engineering is important and critical to your hacking toolbox.</description>
+    </item>
+  </channel>
+</rss>

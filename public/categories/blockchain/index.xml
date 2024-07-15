@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blockchain on Ram&#39;s Website</title>
+    <link>//localhost:1313/categories/blockchain/</link>
+    <description>Recent content in Blockchain on Ram&#39;s Website</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>bhaskarvilles@duck.com (Bhaskar)</managingEditor>
+    <webMaster>bhaskarvilles@duck.com (Bhaskar)</webMaster>
+    <copyright>Bhaskar</copyright>
+    <lastBuildDate>Fri, 07 Apr 2023 01:07:21 +0530</lastBuildDate>
+    <atom:link href="//localhost:1313/categories/blockchain/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Filecoin EVM (FEVM) is the Ethereum Virtual Machine (EVM) virtualized as a runtime on top of the Filecoin Virtual Machine (FVM). Before understanding the FEVM you must be familiar with the regular EVM.</title>
+      <link>//localhost:1313/2023-01-20-fvm/</link>
+      <pubDate>Fri, 20 Jan 2023 00:00:00 +0000</pubDate><author>bhaskarvilles@duck.com (Bhaskar)</author>
+      <guid>//localhost:1313/2023-01-20-fvm/</guid>
+      <description>What&amp;rsquo;s it for The FVM enables developers to build many new use cases on top of and with the Filecoin network.&#xA;Data access control One advantage centralized storage solutions have over web3 services is that they can limit individual data access.&#xA;The FVM enables Filecoin network participants to do the same. Threshold encryption networks, like Medusa, can individually or programmatically govern who can access a data collection without any contracts or validators having access to the data themselves.</description>
+    </item>
+    <item>
+      <title>DAOs and the Future of Decentralization - Insights from Bhaskar Developer, ETHGlobal Fellow, and Vitalik Buterin, the founder of Ethereum</title>
+      <link>//localhost:1313/2023-01-16-daos-are-not-corporations-where-decentralization-in-autonomous-organizations-matters/</link>
+      <pubDate>Wed, 21 Dec 2022 00:00:00 +0000</pubDate><author>bhaskarvilles@duck.com (Bhaskar)</author>
+      <guid>//localhost:1313/2023-01-16-daos-are-not-corporations-where-decentralization-in-autonomous-organizations-matters/</guid>
+      <description>DAOs and the Future of Decentralization - Insights from Bhaskar - Developer, ETHGlobal Fellow, and Vitalik Buterin, the founder of Ethereum. Decentralized Autonomous Organizations (DAOs) are digital entities that operate on blockchain technology, and they have been gaining a lot of attention in recent years. Unlike traditional corporations, DAOs are decentralized, meaning that they operate on a consensus-based system where all members have an equal say in decision-making. This is where the term &amp;ldquo;autonomous&amp;rdquo; comes in, as DAOs are able to operate independently without the need for intermediaries.</description>
+    </item>
+    <item>
+      <title>Hyperledger Cactus Project moved to Cacti</title>
+      <link>//localhost:1313/2022-11-05-tsc-approves-cactus-merging-into-cacti/</link>
+      <pubDate>Sat, 05 Nov 2022 00:00:00 +0000</pubDate><author>bhaskarvilles@duck.com (Bhaskar)</author>
+      <guid>//localhost:1313/2022-11-05-tsc-approves-cactus-merging-into-cacti/</guid>
+      <description>TSC Approves Hyperledger Cactus as New Project By Michael Klein, Blockchain and Multiparty Systems Architecture Lead at Accenture, and Hart Montgomery, Fujitsu Laboratories. Building DLT integration protocol We are thrilled to announce that the open source Blockchain Integration Framework that Accenture and Fujitsu jointly contributed to Hyperledger Labs has been welcomed as the latest Hyperledger project. With this, the project receives a formal name, Hyperledger Cactus, and also benefits from the resources and promise of longevity that come with inclusion in the Hyperledger Greenhouse.</description>
+    </item>
+    <item>
+      <title>Hyperledger Fabric Deployment — How We Aced it from Testing to Production</title>
+      <link>//localhost:1313/2022-09-26-fabric-from-development-to-production/</link>
+      <pubDate>Mon, 26 Sep 2022 00:00:00 +0000</pubDate><author>bhaskarvilles@duck.com (Bhaskar)</author>
+      <guid>//localhost:1313/2022-09-26-fabric-from-development-to-production/</guid>
+      <description>You’ve set up your Dev environment, developed your chaincode, designed some decent looking UIs, and passed all your tests to get everything up &amp;amp; running locally. Now what? Is that everything you ever wanted? Of course not! You shouldn’t be satisfied at all. You need to do more. Your next target ought to be to scale the network and stimulate a production-level environment. Added to that, you should also focus on adding multiple orderers, organizations with their own peers and CAs, and try testing it on multiple machines.</description>
+    </item>
+    <item>
+      <title>Ethereum 2.0 Merging</title>
+      <link>//localhost:1313/2022-09-21-ethereum-2-0/</link>
+      <pubDate>Wed, 21 Sep 2022 10:18:00 +0000</pubDate><author>bhaskarvilles@duck.com (Bhaskar)</author>
+      <guid>//localhost:1313/2022-09-21-ethereum-2-0/</guid>
+      <description>Ethereum is moving to proof-of-stake! The transition, known as The Merge, must first be activated on the Beacon Chain with the Bellatrix upgrade. After this, the proof-of-work chain will migrate to proof-of-stake upon hitting a specific Total Difficulty value. The Bellatrix upgrade is scheduled for epoch 144896 on the Beacon Chain &amp;ndash; 11:34:47am UTC on Sept 6, 2022. The Terminal Total Difficulty value triggering The Merge is 58750000000000000000000, expected between Sept 10-20, 2022.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ChatGPT on Ram&#39;s Website</title>
+    <link>//localhost:1313/tags/chatgpt/</link>
+    <description>Recent content in ChatGPT on Ram&#39;s Website</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>bhaskarvilles@duck.com (Bhaskar)</managingEditor>
+    <webMaster>bhaskarvilles@duck.com (Bhaskar)</webMaster>
+    <copyright>Bhaskar</copyright>
+    <lastBuildDate>Mon, 08 May 2023 01:30:13 +0530</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/chatgpt/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ChatGPT vs. Humans: Delving Deeper into Technical and Brain Intelligence Aspects</title>
+      <link>//localhost:1313/2023-05-07-ai-and-human-intelligence/</link>
+      <pubDate>Sun, 07 May 2023 00:00:00 +0000</pubDate><author>bhaskarvilles@duck.com (Bhaskar)</author>
+      <guid>//localhost:1313/2023-05-07-ai-and-human-intelligence/</guid>
+      <description>Introduction: The rise of sophisticated language models like OpenAI&amp;rsquo;s ChatGPT has prompted deeper discussions on the comparison of artificial and human intelligence. In this blog post, we delve into the technical aspects of ChatGPT and the workings of the human brain to gain a more nuanced understanding of their conversational abilities, strengths, and weaknesses.&#xA;- I. Technical aspects of ChatGPT Architecture: ChatGPT is based on the GPT-4 architecture, which utilizes a Transformer model with self-attention mechanisms to process and generate text.</description>
+    </item>
+  </channel>
+</rss>

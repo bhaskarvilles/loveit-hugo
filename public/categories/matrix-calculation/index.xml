@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Matrix Calculation on Ram&#39;s Website</title>
+    <link>//localhost:1313/categories/matrix-calculation/</link>
+    <description>Recent content in Matrix Calculation on Ram&#39;s Website</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>bhaskarvilles@duck.com (Bhaskar)</managingEditor>
+    <webMaster>bhaskarvilles@duck.com (Bhaskar)</webMaster>
+    <copyright>Bhaskar</copyright>
+    <lastBuildDate>Fri, 07 Apr 2023 01:07:21 +0530</lastBuildDate>
+    <atom:link href="//localhost:1313/categories/matrix-calculation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Strassen`s Algorithm</title>
+      <link>//localhost:1313/2022-12-12-strassens-algorithm/</link>
+      <pubDate>Mon, 12 Dec 2022 00:00:00 +0000</pubDate><author>bhaskarvilles@duck.com (Bhaskar)</author>
+      <guid>//localhost:1313/2022-12-12-strassens-algorithm/</guid>
+      <description>Multiplying Matrices #Standard Algorithm:&#xA;Matrix multiplication is one of the most fundamental and ubiquitous operations in all of mathematics. To multiply a pair of n-by-n matrices, each with n2 elements, you multiply and add these elements together in particular combinations to generate the product, a third n-by-n matrix. The standard recipe for multiplying two n-by-n matrices requires n3 multiplication operations, so a 2-by-2 matrix, for example, requires eight multiplications.&#xA;For larger matrices, with thousands of rows and columns, this process quickly becomes cumbersome.</description>
+    </item>
+  </channel>
+</rss>

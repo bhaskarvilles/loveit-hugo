@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AI on Ram&#39;s Website</title>
+    <link>//localhost:1313/categories/ai/</link>
+    <description>Recent content in AI on Ram&#39;s Website</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>bhaskarvilles@duck.com (Bhaskar)</managingEditor>
+    <webMaster>bhaskarvilles@duck.com (Bhaskar)</webMaster>
+    <copyright>Bhaskar</copyright>
+    <lastBuildDate>Wed, 07 Jun 2023 15:36:25 +0530</lastBuildDate>
+    <atom:link href="//localhost:1313/categories/ai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Advanced Digital Marketing: Integrating AI, GPTs, and Blockchain Technologies for and secure record of ad impressions and clicks.</title>
+      <link>//localhost:1313/2023-06-07-ai-gpt-blockchain-in-digital-marketing/</link>
+      <pubDate>Wed, 07 Jun 2023 00:00:00 +0000</pubDate><author>bhaskarvilles@duck.com (Bhaskar)</author>
+      <guid>//localhost:1313/2023-06-07-ai-gpt-blockchain-in-digital-marketing/</guid>
+      <description>Introduction The digital marketing landscape is constantly evolving, with new technologies and strategies emerging to help businesses stay ahead of the curve. In recent years, the integration of artificial intelligence (AI), generative pre-trained transformers (GPTs), and blockchain technologies has revolutionized the way marketers approach their campaigns. This comprehensive guide will delve into the technical aspects of these advanced digital marketing techniques, providing clear explanations and insights into how they can be effectively implemented.</description>
+    </item>
+    <item>
+      <title>Designing Your Own Language Model with DeepFloyd AI</title>
+      <link>//localhost:1313/2023-05-18-create-your-own-ai-language-model/</link>
+      <pubDate>Fri, 19 May 2023 00:00:00 +0000</pubDate><author>bhaskarvilles@duck.com (Bhaskar)</author>
+      <guid>//localhost:1313/2023-05-18-create-your-own-ai-language-model/</guid>
+      <description>Designing Your Own Language Model with DeepFloyd AI Artificial Intelligence (AI) is indisputably transforming the landscape of virtually every industry, with Natural Language Processing (NLP) playing a significant role in this revolution. Language models, a primary component of NLP, are capable of understanding, generating, and interacting in human language. Today, we will embark on a journey to build our own language model using DeepFloyd AI, a state-of-the-art machine learning platform. 1.</description>
+    </item>
+    <item>
+      <title>Google Bard: A Large Language Model Chatbot</title>
+      <link>//localhost:1313/2023-05-16-google-bard/</link>
+      <pubDate>Tue, 16 May 2023 00:00:00 +0000</pubDate><author>bhaskarvilles@duck.com (Bhaskar)</author>
+      <guid>//localhost:1313/2023-05-16-google-bard/</guid>
+      <description>What is Google Bard? Google Bard is a large language model (LLM) chatbot developed by Google AI. It is trained on a massive dataset of text and code, and can generate text, translate languages, write different kinds of creative content, and answer your questions in an informative way. Bard is still under development, but it has learned to perform many kinds of tasks, including&#xA;I will try my best to follow your instructions and complete your requests thoughtfully.</description>
+    </item>
+    <item>
+      <title>ChatGPT vs. Humans: Delving Deeper into Technical and Brain Intelligence Aspects</title>
+      <link>//localhost:1313/2023-05-07-ai-and-human-intelligence/</link>
+      <pubDate>Sun, 07 May 2023 00:00:00 +0000</pubDate><author>bhaskarvilles@duck.com (Bhaskar)</author>
+      <guid>//localhost:1313/2023-05-07-ai-and-human-intelligence/</guid>
+      <description>Introduction: The rise of sophisticated language models like OpenAI&amp;rsquo;s ChatGPT has prompted deeper discussions on the comparison of artificial and human intelligence. In this blog post, we delve into the technical aspects of ChatGPT and the workings of the human brain to gain a more nuanced understanding of their conversational abilities, strengths, and weaknesses.&#xA;- I. Technical aspects of ChatGPT Architecture: ChatGPT is based on the GPT-4 architecture, which utilizes a Transformer model with self-attention mechanisms to process and generate text.</description>
+    </item>
+    <item>
+      <title>DeepFloyd-IF: A Pixel-Based Triple-Cascaded Diffusion Model for Photorealistic Text-to-Image Generation</title>
+      <link>//localhost:1313/2023-05-04-deepfloyid-if/</link>
+      <pubDate>Thu, 04 May 2023 00:00:00 +0000</pubDate><author>bhaskarvilles@duck.com (Bhaskar)</author>
+      <guid>//localhost:1313/2023-05-04-deepfloyid-if/</guid>
+      <description>IF-I-XL-v1.0 DeepFloyd-IF is a pixel-based text-to-image triple-cascaded diffusion model, that can generate pictures with new state-of-the-art for photorealism and language understanding. The result is a highly efficient model that outperforms current state-of-the-art models, achieving a zero-shot FID-30K score of 6.66 on the COCO dataset.&#xA;Inspired by Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding&#xA;Model Details Developed by: DeepFloyd, StabilityAI Model type: pixel-based text-to-image cascaded diffusion model Cascade Stage: I Num Parameters: 4.</description>
+    </item>
+    <item>
+      <title>The Evolution of AI: Introducing GPT-3.5 With Live Browsing</title>
+      <link>//localhost:1313/2023-04-26-chat-gpt-with-browsing/</link>
+      <pubDate>Wed, 26 Apr 2023 00:00:00 +0000</pubDate><author>bhaskarvilles@duck.com (Bhaskar)</author>
+      <guid>//localhost:1313/2023-04-26-chat-gpt-with-browsing/</guid>
+      <description>The Next Frontier in Language Models - Accessing Real-time Information&#xA;Introduction In recent years, artificial intelligence (AI) and natural language processing (NLP) have made significant advancements with the help of powerful models like GPT-3. Now, OpenAI is taking a leap forward with the latest innovation: GPT-3.5 With Browsing, a model that not only understands natural language but can also access live information from the internet.&#xA;1. What is GPT-3.5 With Browsing?</description>
+    </item>
+    <item>
+      <title>Implantable Brain Machines: The Future of Human-Computer Interaction</title>
+      <link>//localhost:1313/2023-04-24-ibms/</link>
+      <pubDate>Mon, 24 Apr 2023 00:00:00 +0000</pubDate><author>bhaskarvilles@duck.com (Bhaskar)</author>
+      <guid>//localhost:1313/2023-04-24-ibms/</guid>
+      <description>Introduction As technology continues to advance at an unprecedented rate, one area that has garnered significant interest is implantable brain machines. These devices have the potential to revolutionize the way we interact with computers, offering new possibilities in communication, education, and even healthcare. In this blog post, we will delve into the world of implantable brain machines, exploring their potential uses, benefits, and the ethical concerns surrounding their implementation.&#xA;What are Implantable Brain Machines?</description>
+    </item>
+    <item>
+      <title>The Rise of ZK-EVMs: How Ethereum&#39;s Multi-Client Philosophy Enables Continued Decentralization</title>
+      <link>//localhost:1313/2023-04-10-how-ethereum-makes-decentralization-possible/</link>
+      <pubDate>Mon, 10 Apr 2023 00:00:00 +0000</pubDate><author>bhaskarvilles@duck.com (Bhaskar)</author>
+      <guid>//localhost:1313/2023-04-10-how-ethereum-makes-decentralization-possible/</guid>
+      <description>My thoughts on EVMs Multi Client repository One important aspect of Ethereum&amp;rsquo;s security and decentralization is its multi-client philosophy. Instead of relying on a single reference client, Ethereum has a specification written in Python and multiple independent implementations of the spec called clients. Each node runs a consensus client to validate blocks and an execution client to check state transitions. Currently, no single client makes up more than two-thirds of either category.</description>
+    </item>
+    <item>
+      <title>Advanced SEO with AI: How Machine Learning and Natural Language Processing Are Changing the Game</title>
+      <link>//localhost:1313/2023-03-07-advanced-seo-with-ai/</link>
+      <pubDate>Tue, 07 Mar 2023 00:00:00 +0000</pubDate><author>bhaskarvilles@duck.com (Bhaskar)</author>
+      <guid>//localhost:1313/2023-03-07-advanced-seo-with-ai/</guid>
+      <description>Search engine optimization (SEO) is the process of optimizing your website to rank higher in search engine results pages (SERPs). While the basic principles of SEO remain the same, the advent of artificial intelligence (AI) is changing the game. AI-powered SEO tools are now available that use machine learning and natural language processing (NLP) to help businesses improve their search engine rankings and increase traffic to their websites.&#xA;In this post, we&amp;rsquo;ll explore the benefits of using AI in SEO and provide examples of AI-powered SEO tools.</description>
+    </item>
+    <item>
+      <title>Layer 1 for Artificial Intelligence</title>
+      <link>//localhost:1313/2023-03-03-layer-1-for-artificial-intelligence/</link>
+      <pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate><author>bhaskarvilles@duck.com (Bhaskar)</author>
+      <guid>//localhost:1313/2023-03-03-layer-1-for-artificial-intelligence/</guid>
+      <description>Layer 1 for Artificial Intelligence Exploring the Importance of AI-Generated Images in the Metaverse The metaverse, a virtual world where users interact with one another and digital objects in a shared environment, is rapidly becoming a reality. As technology continues to advance, the ability to create realistic and immersive virtual experiences is becoming increasingly important. One of the key components of this is the use of AI-generated images as inputs. These images play a crucial role in creating detailed, realistic environments, characters, and objects that enhance the user experience in the metaverse.</description>
+    </item>
+    <item>
+      <title>OpenAI and ChatGPT</title>
+      <link>//localhost:1313/2022-12-21-chat-gpt/</link>
+      <pubDate>Wed, 21 Dec 2022 00:00:00 +0000</pubDate><author>bhaskarvilles@duck.com (Bhaskar)</author>
+      <guid>//localhost:1313/2022-12-21-chat-gpt/</guid>
+      <description>Introduction to OpenAI: OpenAI is a research organization that focuses on developing and promoting friendly artificial intelligence. It was founded in 2015 by a group of entrepreneurs, researchers, and philanthropists who wanted to ensure that AI could be aligned with human values and would be used for the benefit of all humanity.&#xA;Overview of ChatGPT: ChatGPT is a variant of the GPT (Generative Pre-training Transformer) language model developed by OpenAI. It is designed to generate human-like text in a conversational style, making it well-suited for tasks such as chatbots, dialog systems, and question answering systems.</description>
+    </item>
+  </channel>
+</rss>
