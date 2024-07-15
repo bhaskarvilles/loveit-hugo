@@ -187,7 +187,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       # URL of avatar shown in home page
       avatarURL = "/images/avatar.png"
       #  title shown in home page (HTML format is supported)
-      title = "Bhaskar Ram alias bhaskarvilles"
+      title = "Bhaskar Ram aka bhaskarvilles"
       # subtitle shown in home page (HTML format is supported)
       subtitle = "Building the Open Metaverse: Full Stack Web3 Developer Specializing in UI/UX | Contributor to Decentralized Technologies - Ethereum, Filecoin, Hyperledger | Web3 Security Expert and Ethical Hacker with Blockchain Development Skills | Proficient in Smart Contracts and dApps using Solidity, Web3.js, Truffle | Leading the Way in Decentralized Web and Creator Economy | Bridging Traditional Finance to Decentralized Finance: Experienced Full Stack Developer in both TradFi and Web3"
       # whether to use typeit animation for subtitle
