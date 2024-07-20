@@ -189,7 +189,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       #  title shown in home page (HTML format is supported)
       title = "Bhaskar Ram aka bhaskarvilles"
       # subtitle shown in home page (HTML format is supported)
-      subtitle = "Building the Open Metaverse: Full Stack Web3 Developer Specializing in UI/UX | Contributor to Decentralized Technologies - Ethereum, Filecoin, Hyperledger | Web3 Security Expert and Ethical Hacker with Blockchain Development Skills | Proficient in Smart Contracts and dApps using Solidity, Web3.js, Truffle | Leading the Way in Decentralized Web and Creator Economy | Bridging Traditional Finance to Decentralized Finance: Experienced Full Stack Developer in both TradFi and Web3"
+      subtitle = "Bui1diN9 tHe OpeN MetaVerSe: Fu11 St4cK W3b3 DeV3LoPer Specia1izing in UI/UX | ConTriBut0r tO Dec3ntr4LiZed TechNoloGieS - Eth3r3um, Fil3coiN, Hyp3r1edg3r | W3b3 S3cur1ty Exp3rT and Eth1cal HacK3r with Bl0ckchain DeVe1opmenT Ski1lS | ProfiCi3nT in Sm4rT CoNtr4cts and dAppS us1ng So1idity, W3b3.js, TruFfl3 | L3adinG th3 Way in Dec3ntr4lizeD W3b and Cr3aT0r Ec0nomy | BriDginG Trad1ti0n4l Fin4nce to Dec3ntr4liz3d Fin4nce: Exp3rienCed Fu11 Stack Dev3loper in boTh TradFi and W3b3"
       # whether to use typeit animation for subtitle
       typeit = true
       # whether to show social links
