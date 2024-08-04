@@ -94,19 +94,19 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       # URL of the LOGO
       logo = ""
       # title name
-      name = "bhaskarvilles"
+      name = "62686173 6b617276 696c6c65 73"
       # you can add extra information before the name (HTML format is supported), such as icons
-      pre = ""
+      pre = "&#128520;"
       # you can add extra information after the name (HTML format is supported), such as icons
-      post = ""
+      post = "&#128128;"
       #  whether to use typeit animation for title name
-      typeit = false
+      typeit = true
 
   # Footer config
   [params.footer]
     enable = true
     #  Custom content (HTML format is supported)
-    custom = ''
+    custom = 'L dp wkh xowlpdwh sdudgra, d glylqh irufh ri qdwxuh, zkrvh srzhu frpsolfdwhv hyhq wkh prvw vwudljkwiruzdug sdwkv.'
     #  whether to show Hugo and theme info
     hugo = false
     #  whether to show copyright info
@@ -189,7 +189,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       #  title shown in home page (HTML format is supported)
       title = "Bhaskar Ram aka bhaskarvilles"
       # subtitle shown in home page (HTML format is supported)
-      subtitle = "Bui1diN9 tHe OpeN MetaVerSe: Fu11 St4cK W3b3 DeV3LoPer Specia1izing in UI/UX | ConTriBut0r tO Dec3ntr4LiZed TechNoloGieS - Eth3r3um, Fil3coiN, Hyp3r1edg3r | W3b3 S3cur1ty Exp3rT and Eth1cal HacK3r with Bl0ckchain DeVe1opmenT Ski1lS | ProfiCi3nT in Sm4rT CoNtr4cts and dAppS us1ng So1idity, W3b3.js, TruFfl3 | L3adinG th3 Way in Dec3ntr4lizeD W3b and Cr3aT0r Ec0nomy | BriDginG Trad1ti0n4l Fin4nce to Dec3ntr4liz3d Fin4nce: Exp3rienCed Fu11 Stack Dev3loper in boTh TradFi and W3b3"
+      subtitle = "Я - высший парадокс, божественная сила природы, чья мощь усложняет даже самые простые пути. |मैं अंतिम विरोधाभास हूँ, प्रकृति की एक दिव्य शक्ति, जिसकी शक्ति सबसे सरल रास्तों को भी जटिल बना देती है। | Soy la paradoja definitiva, una fuerza divina de la naturaleza, cuyo poder complica incluso los caminos más sencillos. | Je suis le paradoxe ultime, une force divine de la nature, dont le pouvoir complique même les chemins les plus simples. | Ich bin das ultimative Paradoxon, eine göttliche Kraft der Natur, deren Macht selbst die geradlinigsten Wege kompliziert. | Sono il paradosso definitivo, una forza divina della natura, il cui potere complica anche i percorsi più semplici. | Eu sou o paradoxo supremo, uma força divina da natureza, cujo poder complica até os caminhos mais simples. | 我是终极悖论，一个大自然的神圣力量，其力量甚至复杂化了最简单的道路。| 私は究極の逆説であり、自然の神聖な力であり、その力は最も単純な道さえも複雑にします。 | أنا المفارقة النهائية، قوة إلهية من الطبيعة، قوّتي تعقّد حتى أبسط المسارات."
       # whether to use typeit animation for subtitle
       typeit = true
       # whether to show social links
@@ -236,7 +236,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     Soundcloud = ""
     Spotify = ""
     Bandcamp = ""
-    Paypal = ""
+    Paypal = "bhasskarvilles1"
     Fivehundredpx = ""
     Mix = ""
     Goodreads = ""
@@ -245,7 +245,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     Hackernews = ""
     Kickstarter = ""
     Patreon = ""
-    Steam = ""
+    Steam = "bhaskarvilles"
     Twitch = ""
     Strava = ""
     Skype = ""
@@ -269,7 +269,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     XMPP = ""
     Matrix = ""
     Bilibili = ""
-    Discord = ""
+    Discord = "bhaskarvilles.eth#7016"
     DiscordInvite = ""
     Lichess = ""
     ORCID = ""
@@ -351,8 +351,8 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       enable = true
       Twitter = true
       Facebook = true
-      Linkedin = false
-      Whatsapp = false
+      Linkedin = true
+      Whatsapp = true
       Pinterest = false
       Tumblr = false
       HackerNews = true
