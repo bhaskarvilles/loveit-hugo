@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Whistleblower Documents Expose SEBI Chairperson's Alleged Involvement in the Adani Money Siphoning Scandal"
-date: 2024-08-11
+date: 2024-08-10
 categories: [ Financial Scandals, India, Regulatory Affairs ]
 description: "A detailed look into the whistleblower documents implicating SEBI Chairperson Madhabi Buch and her husband in the Adani money siphoning scandal."
 authorLink: "https://linkedin.com/in/bhaskarvilles"
