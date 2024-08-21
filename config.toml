@@ -65,6 +65,14 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     name = "Categories"
     url = "/categories/"
     title = ""
+  [[menu.main]]
+    weight = 4
+    identifier = "Contact"
+    pre = ""
+    post = ""
+    name = "contact"
+    url = "mailto:bhaskar.ram@linux.com"
+    title = ""
 
 [params]
   # site default theme ["auto", "light", "dark"]
