@@ -102,7 +102,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       # URL of the LOGO
       logo = ""
       # title name
-      name = "62686173 6b617276 696c6c65 73"
+      name = "bħåšķäřvĩłļẽş"
       # you can add extra information before the name (HTML format is supported), such as icons
       pre = "&#128520;"
       # you can add extra information after the name (HTML format is supported), such as icons
@@ -195,7 +195,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       # URL of avatar shown in home page
       avatarURL = "/images/avatar.png"
       #  title shown in home page (HTML format is supported)
-      title = "💀42686173 6b617220 52616d20 616b6120 62686173 6b617276 696c6c65 73"
+      title = "<b>Bhaskar Ram</b> aka <b>bhaskarvilles</b>"
       # subtitle shown in home page (HTML format is supported)
       subtitle = "Я - высший парадокс, божественная сила природы, чья мощь усложняет даже самые простые пути | 我是终极悖论，一个大自然的神圣力量，其力量甚至复杂化了最简单的道路。| 私は究極の逆説であり、自然の神聖な力であり、その力は最も単純な道さえも複雑にします。 | أنا المفارقة النهائية، قوة إلهية من الطبيعة، قوّتي تعقّد حتى أبسط المسارات."
       # whether to use typeit animation for subtitle
@@ -203,7 +203,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       # whether to show social links
       social = true
       #  disclaimer (HTML format is supported)
-      disclaimer = ""
+      disclaimer = "The scene you're watching, the truth you've known is NOT TRUE"
     # Home page posts
     [params.home.posts]
       enable = true
