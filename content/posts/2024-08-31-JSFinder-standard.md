@@ -7,7 +7,7 @@ author: "Bhaskar"
 categories: [ Security, Development, Web Scraping, Tools ]
 description: "A detailed guide to JSFinder, a tool for discovering JavaScript files across subdomains, including its features, setup, and advanced usage."
 authorLink: "https://linkedin.com/in/bhaskarvilles"
-images: ["https://raw.githubusercontent.com/bhaskarvilles/JSFinder/JSFinder-main/JSF.png"]  # Replace with an actual image link
+images: ["https://raw.githubusercontent.com/bhaskarvilles/JSFinder/JSFinder-main/JSFinder%20Results.png"]  # Replace with an actual image link
 tags:
 - JavaScript
 - Security
