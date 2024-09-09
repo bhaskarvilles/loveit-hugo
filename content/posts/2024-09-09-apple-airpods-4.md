@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Apple Airpods 4: Apple's next-generation wireless earbuds with improved audio quality, adaptive noise cancellation, and personalized spatial audio."
-date: 2024-09-10
-lastmod: 2024-09-10
+date: 2024-09-09
+lastmod: 2024-09-09
 author: "Bhaskar"
 categories: [ Technology, Gaming, Hardware, Reviews, Apple ]
 description: "Explore the latest in tech with Apple's new releases: the iPhone 16 Series with advanced cameras, the Apple Watch Series 10 and rugged Apple Watch Ultra 2 with enhanced health tracking, the AirPods 4 with adaptive noise cancellation, and the stylish new colors of AirPods Max."
