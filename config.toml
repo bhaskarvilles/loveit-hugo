@@ -114,7 +114,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   [params.footer]
     enable = true
     #  Custom content (HTML format is supported)
-    custom = 'Tech, geopolitics, hacks, truths, activism, and humanitys future explored anonymously.'
+    custom = 'Tech, geopolitics, hacks, truths, activism, and humanitys future explored anonymously. The content shared here is proprietary and intended for educational purposes only. It may contain material from other proprietary sources, which remain the property of their respective owners. Unauthorized use, reproduction, or distribution of this material is prohibited.'
     #  whether to show Hugo and theme info
     hugo = false
     #  whether to show copyright info
