@@ -7,7 +7,7 @@ author: "Bhaskar"
 categories: [ Technology, OpenAI, Artificial Intelligence, Reviews ]
 description: "Introducing OpenAI o1: A New Frontier in AI Reasoning"
 authorLink: "https://linkedin.com/in/bhaskarvilles"
-images: ["https://images.ctfassets.net/kftzwdyauwt9/5KQV9Im89elavhOaw857H7/9bf152dd9b0e38f51264e593a0c6ebac/oai_o1_model_picker.png"]  # Replace with an actual image link
+images: ["https://images.ctfassets.net/kftzwdyauwt9/28i2D9RyoKNOyuTukSGkw/a4c5a97d081a7c2b1d5aa100fd85d28e/o1-preview-general.png"]  # Replace with an actual image link
 tags:
 - Artificial Intelligence
 - Gaming
