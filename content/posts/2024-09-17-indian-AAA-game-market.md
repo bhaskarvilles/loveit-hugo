@@ -7,7 +7,7 @@ author: "Bhaskar"
 categories: [ Gaming, Technology, Game Development, India ]
 description: "An analysis of the success of Black Myth: Wukong and the challenges India faces in replicating such success in the AAA PC game market."
 authorLink: "https://linkedin.com/in/bhaskarvilles"
-images: ["https://www.heishenhua.com/img/screenshot/blackmyth_wukong_screenshot_021.jpg"]  # Replace with an actual image link
+images: ["https://gmedia.playstation.com/is/image/SIEPDC/black-myth-wukong-screenshot-06-en-24jan24?$1600px$"]  # Replace with an actual image link
 tags:
 - Black Myth: Wukong
 - AAA PC Games
@@ -28,7 +28,7 @@ In August 2024, *Black Myth: Wukong*, a Chinese-developed game, set a record wit
 
 The game’s striking visuals, deep mythology rooted in Chinese folklore, and compelling gameplay also contributed to its massive appeal. It's not just a game, it's an experience – a combination of storytelling, art direction, and cutting-edge technology.
 
-![Blackmyth Wukong](https://www.heishenhua.com/img/screenshot/blackmyth_wukong_screenshot_019.jpg)
+![Blackmyth Wukong](https://gmedia.playstation.com/is/image/SIEPDC/black-myth-wukong-screenshot-03-en-24jan24?$1600px$)
 
 ---
 
@@ -41,7 +41,7 @@ Wukong's success is not just about good gameplay. Several strategic decisions we
 
 - **Marketing brilliance**: Game Science capitalized on the global rise of PC gaming in China, along with the launch of Steam in 2021. They utilized platforms and partnerships that gave them unprecedented reach, selling 10 million copies in just three days.
 
-![Blackmyth Wukong](https://www.heishenhua.com/img/screenshot/blackmyth_wukong_screenshot_020.jpg)
+![Blackmyth Wukong](https://gmedia.playstation.com/is/image/SIEPDC/black-myth-wukong-screenshot-02-en-24jan24?$1600px$)
 
 ---
 
@@ -55,7 +55,7 @@ Wukong's success is not just about good gameplay. Several strategic decisions we
 
 4. **Cultural Roadblocks**: Games like *Black Myth: Wukong* tap into Chinese mythology and folklore, providing a unique and culturally resonant experience. If India were to attempt a similar feat, developers would need to tread carefully due to potential sensitivities around mythology and religion. The backlash over creative freedom and artistic interpretation could stifle innovation.
 
-![Blackmyth Wukong](https://www.heishenhua.com/img/screenshot/blackmyth_wukong_screenshot_015.jpg)
+![Blackmyth Wukong](https://gmedia.playstation.com/is/image/SIEPDC/black-myth-wukong-screenshot-05-en-24jan24?$1600px$)
 
 ---
 
@@ -64,14 +64,14 @@ India has the technical talent to develop AAA games. Studios like Rockstar India
 
 However, the real challenge lies in art direction and storytelling. *Black Myth: Wukong* shines not only because of its technical excellence but also its compelling narrative and stunning art direction – something that requires a fusion of artistic and technical expertise. In India, there’s often a disconnect between developers and artists, with each focusing on their domain without much collaboration. Game development, however, requires a seamless integration of both.
 
-![Blackmyth Wukong](https://www.heishenhua.com/img/screenshot/blackmyth_wukong_screenshot_014.jpg)
+![Blackmyth Wukong](https://gmedia.playstation.com/is/image/SIEPDC/black-myth-wukong-screenshot-01-en-24jan24?$1600px$)
 
 ---
 
 #### Cultural and Creative Limitations
 A game like *God of War* or *Black Myth: Wukong* could face significant backlash if based on Indian mythology. Religious sentiments in India run high, and the potential for controversy would likely deter developers from fully exploring the rich tapestry of Indian mythology. This cultural sensitivity could be a significant roadblock to creativity and storytelling in Indian game development.
 
-![Blackmyth Wukong](https://www.heishenhua.com/img/screenshot/blackmyth_wukong_screenshot_013.jpg)
+![Blackmyth Wukong](https://gmedia.playstation.com/is/image/SIEPDC/black-myth-wukong-screenshot-08-en-7Feb24?$1600px$)
 
 ---
 
