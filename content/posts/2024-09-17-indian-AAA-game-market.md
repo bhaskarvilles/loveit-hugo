@@ -7,7 +7,7 @@ author: "Bhaskar"
 categories: [ Gaming, Technology, Game Development, India ]
 description: "An analysis of the success of Black Myth: Wukong and the challenges India faces in replicating such success in the AAA PC game market."
 authorLink: "https://linkedin.com/in/bhaskarvilles"
-images: ["https://gmedia.playstation.com/is/image/SIEPDC/black-myth-wukong-screenshot-06-en-24jan24?$1600px$"]  # Replace with an actual image link
+images: ["https://cdn.k4g.com/blog/app/uploads/2024/02/03224048/Black-Myth-Wukong-1-2048x1152.png"]  # Replace with an actual image link
 tags:
 - Black Myth: Wukong
 - AAA PC Games
@@ -84,7 +84,7 @@ While creating a game like *Black Myth: Wukong* may seem daunting, it’s not im
 
 3. **Creative Freedom and Innovation**: To truly succeed, Indian developers will need to take risks. Storytelling and art direction must become central to the development process, and developers need the freedom to explore bold, creative ideas without fear of backlash.
 
-4. **Building a Market**: With the rise of OTT platforms, Indian film and television content is making waves globally. The gaming industry could take inspiration from this trend. Once a successful AAA PC game emerges from India, it will pave the way for more investment and creativity in this space.
+4. **Building a Market**: With the rise of OTT platforms, Indian film and television content is making waves globally. The gaming industry could take inspiration from this trend. Once a successful AAA PC game emerges from India, it will pave the way for more investment and creativity in this space.,,,`````````````` ```````````````````````````````````````````    `````wwwwwww````````````````````````````````````````````````````````````````````````````````````````  ``````````````````````````````````````````````````````````````` 
 
 ---
 
