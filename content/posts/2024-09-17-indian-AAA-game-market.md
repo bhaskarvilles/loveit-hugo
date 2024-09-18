@@ -86,8 +86,6 @@ While creating a game like *Black Myth: Wukong* may seem daunting, it’s not im
 
 4. **Building a Market**: With the rise of OTT platforms, Indian film and television content is making waves globally. The gaming industry could take inspiration from this trend. Once a successful AAA PC game emerges from India, it will pave the way for more investment and creativity in this space.
 
-![Blackmyth Wukong](https://www.heishenhua.com/img/screenshot/blackmyth_wukong_screenshot_028.jpg)
-
 ---
 
 #### Conclusion
