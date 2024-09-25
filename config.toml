@@ -102,11 +102,11 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       # URL of the LOGO
       logo = ""
       # title name
-      name = "Allam Bhaskara Ram"
+      name = "root@secretcoder"
       # you can add extra information before the name (HTML format is supported), such as icons
-      pre = "&#128520;"
+      pre = ""
       # you can add extra information after the name (HTML format is supported), such as icons
-      post = "&#128128;"
+      post = "⚕"
       #  whether to use typeit animation for title name
       typeit = true
 
