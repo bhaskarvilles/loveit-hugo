@@ -34,7 +34,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 [author]
   name = "Bhaskar"
   email = "bhaskarvilles@duck.com"
-  link = "https://kerdos.xyz"
+  link = "https://kerdos.io"
 
 # Menu config
 [menu]
@@ -42,7 +42,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     weight = 1
     identifier = "posts"
     # you can add extra information before the name (HTML format is supported), such as icons
-    pre = ""
+    pre = "🚀"
     # you can add extra information after the name (HTML format is supported), such as icons
     post = ""
     name = "Posts"
@@ -52,7 +52,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   [[menu.main]]
     weight = 2
     identifier = "tags"
-    pre = ""
+    pre = "🌎"
     post = ""
     name = "Tags"
     url = "/tags/"
@@ -60,18 +60,18 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   [[menu.main]]
     weight = 3
     identifier = "categories"
-    pre = ""
+    pre = "💥"
     post = ""
     name = "Categories"
     url = "/categories/"
     title = ""
   [[menu.main]]
     weight = 4
-    identifier = "Contact"
-    pre = ""
+    identifier = "Github"
+    pre = "🎧"
     post = ""
-    name = "contact"
-    url = "mailto:bhaskar.ram@linux.com"
+    name = "github"
+    url = "https://github.com/bhaskarvilles"
     title = ""
 
 [params]
@@ -81,7 +81,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   gitRepo = "https://github.com/bhaskarvilles"
   #  which hash function used for SRI, when empty, no SRI is used
   # ["sha256", "sha384", "sha512", "md5"]
-  fingerprint = ""
+  fingerprint = "sha512"
   #  date format
   dateFormat = "2006-01-02"
   # website title for Open Graph and Twitter Cards
@@ -102,7 +102,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       # URL of the LOGO
       logo = ""
       # title name
-      name = "bħåšķäřvĩłļẽş"
+      name = "Allam Bhaskara Ram"
       # you can add extra information before the name (HTML format is supported), such as icons
       pre = "&#128520;"
       # you can add extra information after the name (HTML format is supported), such as icons
@@ -149,7 +149,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   #  App icon config
   [params.app]
     # optional site title override for the app when added to an iOS home screen or Android launcher
-    title = "Bhaskar's Website"
+    title = "Ram's Blog"
     # whether to omit favicon resource links
     noFavicon = false
     # modern SVG favicon to use in place of older style .png and .ico files
@@ -157,7 +157,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     # Android browser theme color
     themeColor = "#ffffff"
     # Safari mask icon color
-    iconColor = "#5bbad5"
+    iconColor = "00FFFFFF"
     # Windows v8-10 tile color
     tileColor = "#da532c"
 
@@ -169,7 +169,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     # max index length of the chunked content
     contentLength = 4000
     # placeholder of the search bar
-    placeholder = ""
+    placeholder = "Search Content"
     #  max number of results length
     maxResultLength = 10
     #  snippet length of the result
