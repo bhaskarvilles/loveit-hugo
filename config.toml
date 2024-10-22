@@ -79,9 +79,9 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   # website title for Open Graph and Twitter Cards
   title = "Ram's Website"
   # website description for RSS, SEO, Open Graph and Twitter Cards
-  description = "Tech, geopolitics, hacks, truths, activism, and humanity's future explored anonymously."
+  description = "Explore cutting-edge tech, geopolitics, ethical hacking, activism, and humanity's future. In-depth analysis and insights on global issues and technological advancements."
   # website images for Open Graph and Twitter Cards
-  images = ["/logo.png"]
+  images = ["/logo.png", "/featured-image.jpg", "/author-avatar.png"]
 
   # Header config
   [params.header]
@@ -187,9 +187,9 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       # URL of avatar shown in home page
       avatarURL = "/images/avatar.png"
       #  title shown in home page (HTML format is supported)
-      title = "<b>Bhaskar Ram</b> aka <b>bhaskarvilles</b>"
+      title = "<b>Bhaskar Ram</b> | Tech Analyst & Geopolitical Observer"
       # subtitle shown in home page (HTML format is supported)
-      subtitle = "Я - высший парадокс, божественная сила природы, чья мощь усложняет даже самые простые пути | Tech, geopolitics, hacks, truths, activism, and humanity's future explored anonymously."
+      subtitle = "Decoding the intersection of technology, geopolitics, and human progress | Ethical hacking insights | Activism for a better future"
       # whether to use typeit animation for subtitle
       typeit = true
       # whether to show social links
@@ -302,7 +302,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     # whether to show link to Raw Markdown content of the content
     linkToMarkdown = true
     #  whether to show the full text content in RSS
-    rssFullText = false
+    rssFullText = true
     #  Table of the contents config
     [params.page.toc]
       # whether to enable the table of the contents
@@ -492,18 +492,18 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 
   # Site verification code config for Google/Bing/Yandex/Pinterest/Baidu
   [params.verification]
-    google = ""
-    bing = ""
-    yandex = ""
+    google = "your-google-site-verification-code"
+    bing = "your-bing-site-verification-code"
+    yandex = "your-yandex-site-verification-code"
     pinterest = ""
     baidu = ""
 
   #  Site SEO config
   [params.seo]
     # image URL
-    image = ""
+    image = "https://raw.githubusercontent.com/bhaskarvilles/loveit-hugo/refs/heads/master/images/avatar.png"
     # thumbnail URL
-    thumbnailUrl = ""
+    thumbnailUrl = "https://raw.githubusercontent.com/bhaskarvilles/loveit-hugo/refs/heads/master/images/avatar.png"
 
   #  Analytics config
   [params.analytics]
@@ -581,14 +581,14 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 
 # Sitemap config
 [sitemap]
-  changefreq = "weekly"
+  changefreq = "daily"
   filename = "sitemap.xml"
-  priority = 0.5
+  priority = 0.8
 
 # Permalinks config
 [Permalinks]
   # posts = ":year/:month/:filename"
-  posts = ":filename"
+  posts = "/:year/:month/:slug/"
 
 # Privacy config
 [privacy]
@@ -619,3 +619,4 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   section = ["HTML", "RSS"]
   taxonomy = ["HTML", "RSS"]
   taxonomyTerm = ["HTML"]
+
