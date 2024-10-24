@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Technical Deep Dive: How Claude AI Can Control Computers"
-date: 2024-03-21
-lastmod: 2024-03-21
+date: 2024-10-23
+lastmod: 2024-10-23
 author: "Bhaskar"
 authorlink: "https://linkedin.com/in/bhaskarvilles"
 categories: ["AI", "Technical", "Automation"]
