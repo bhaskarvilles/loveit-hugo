@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Building the Future of OpenSearch: Community-Driven Innovation"
-date: 2024-11-03
-lastmod: 2024-11-03
+date: 2024-11-01
+lastmod: 2024-11-01
 author: "Bhaskar"
 authorlink: "https://linkedin.com/in/bhaskarvilles"
 categories: ["Technology", "Open Source"]
