@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "https://secretcoder.org"
 
 # Change the default theme to be use when building the site with Hugo
 theme = "LoveIt"
@@ -13,8 +13,11 @@ languageName = "English"
 # whether to include Chinese/Japanese/Korean
 hasCJKLanguage = true
 
-# default amount of posts in each pages
-paginate = 12
+# New configuration for pagination
+[params.pagination]
+  enable = true
+  size = 12
+
 # google analytics code [UA-XXXXXXXX-X]
 googleAnalytics = ""
 # copyright description used only for seo schema
@@ -34,7 +37,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 [author]
   name = "Bhaskar"
   email = "bhaskarvilles@duck.com"
-  link = "https://kerdos.io"
+  link = "https://secretcoder.org"
 
 # Menu config
 [menu]
@@ -79,45 +82,61 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   # website title for Open Graph and Twitter Cards
   title = "Ram's Website"
   # website description for RSS, SEO, Open Graph and Twitter Cards
-  description = "Explore cutting-edge tech, geopolitics, ethical hacking, activism, and humanity's future. In-depth analysis and insights on global issues and technological advancements."
+  description = "Explore cutting-edge tech, geopolitics, ethical hacking, activism, and humanity's future."
   # website images for Open Graph and Twitter Cards
   images = ["/logo.png", "/featured-image.jpg", "/author-avatar.png"]
 
+  # Image Processing
+  [params.image]
+    preload = true
+    lazyload = true
+    cdn_url = ""
+
+  # PWA Support
+  [params.pwa]
+    enable = true
+    manifest = "/manifest.json"
+    manifest_icon = "/images/logo.png"
+    theme_color = "#fff"
+    background_color = "#fff"
+
+  # Performance Optimization
+  [params.performance]
+    maxConcurrentReqs = 6
+    disableSpeculativePrefetch = false
+    prefetch = true
+    preconnect = true
+    preload = true
+
+  # UI/UX Improvements
+  [params.ui]
+    darkModeToggle = true
+    scrollToTop = true
+    tocAutoCollapse = true
+    copyCode = true
+    socialShare = true
+    search = true
+    smoothScroll = true
+
   # Header config
   [params.header]
-    # desktop header mode ["fixed", "normal", "auto"]
     desktopMode = "fixed"
-    # mobile header mode ["fixed", "normal", "auto"]
     mobileMode = "auto"
-    #  Header title config
     [params.header.title]
-      # URL of the LOGO
       logo = ""
-      # title name
       name = "root@secretcoder"
-      # you can add extra information before the name (HTML format is supported), such as icons
-      pre = ""
-      # you can add extra information after the name (HTML format is supported), such as icons
+      pre = ""
       post = "⚕"
-      #  whether to use typeit animation for title name
       typeit = true
 
   # Footer config
   [params.footer]
     enable = true
-    #  Custom content (HTML format is supported)
-    custom = 'Tech, geopolitics, hacks, truths, activism, and humanitys future explored anonymously. The content shared here is proprietary and intended for educational purposes only. It may contain material from other proprietary sources, which remain the property of their respective owners. Unauthorized use, reproduction, or distribution of this material is prohibited.'
-    #  whether to show Hugo and theme info
+    custom = 'Tech, geopolitics, hacks, truths, activism, and humanitys future explored anonymously.'
     hugo = false
-    #  whether to show copyright info
     copyright = true
-    #  whether to show the author
     author = true
-    # Site creation time
     since = 1999
-    # ICP info only in China (HTML format is supported)
-    icp = ""
-    # license info (HTML format is supported)
     license = '<a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a>'
 
   #  Section (all posts) page config
@@ -153,59 +172,22 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     # Windows v8-10 tile color
     tileColor = "#da532c"
 
-  #  Search config
-  [params.search]
-    enable = true
-    # type of search engine ["lunr", "algolia"]
-    type = "lunr"
-    # max index length of the chunked content
-    contentLength = 4000
-    # placeholder of the search bar
-    placeholder = "Search Content"
-    #  max number of results length
-    maxResultLength = 10
-    #  snippet length of the result
-    snippetLength = 30
-    #  HTML tag name of the highlight part in results
-    highlightTag = "em"
-    #  whether to use the absolute URL based on the baseURL in search index
-    absoluteURL = false
-    [params.search.algolia]
-      index = ""
-      appID = ""
-      searchKey = ""
-
   # Home page config
   [params.home]
-    #  amount of RSS pages
     rss = 10
-    # Home page profile
     [params.home.profile]
       enable = true
-      # Gravatar Email for preferred avatar in home page
       gravatarEmail = "bhaskarvilles@gmail.com"
-      # URL of avatar shown in home page
       avatarURL = "/images/avatar.png"
-      #  title shown in home page (HTML format is supported)
       title = "<b>Bhaskar Ram</b> | Tech Analyst & Geopolitical Observer"
-      # subtitle shown in home page (HTML format is supported)
-      subtitle = "Decoding the intersection of technology, geopolitics, and human progress | Ethical hacking insights | Activism for a better future"
-      # whether to use typeit animation for subtitle
+      subtitle = "Decoding the intersection of technology, geopolitics, and human progress"
       typeit = true
-      # whether to show social links
       social = true
-      #  disclaimer (HTML format is supported)
-      disclaimer = "The scene you're watching, the truth you've known is NOT TRUE"
-    # Home page posts
     [params.home.posts]
       enable = true
-      # special amount of posts in each home posts page
       paginate = 6
-      #  replaced with hiddenFromHomePage in params.page
-      # default behavior when you don't set "hiddenFromHomePage" in front matter
-      defaultHiddenFromHomePage = false
 
-  # Social config about the author
+  # Social config
   [params.social]
     GitHub = "bhaskarvilles"
     Linkedin = "bhaskarvilles"
@@ -281,7 +263,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     RootMe= ""
     Phone = "+919490470485"
     Email = "bhaskarvilles@duck.com"
-    RSS = true # 
+    RSS = true
 
   #  Page global config
   [params.page]
@@ -492,9 +474,9 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 
   # Site verification code config for Google/Bing/Yandex/Pinterest/Baidu
   [params.verification]
-    google = "your-google-site-verification-code"
-    bing = "your-bing-site-verification-code"
-    yandex = "your-yandex-site-verification-code"
+    google = ""
+    bing = ""
+    yandex = ""
     pinterest = ""
     baidu = ""
 
@@ -505,50 +487,33 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     # thumbnail URL
     thumbnailUrl = "https://raw.githubusercontent.com/bhaskarvilles/loveit-hugo/refs/heads/master/images/avatar.png"
 
-  #  Analytics config
+  # Analytics config
   [params.analytics]
-    enable = false
-    # Google Analytics
+    enable = true
     [params.analytics.google]
       id = ""
-      # whether to anonymize IP
       anonymizeIP = true
-    # Fathom Analytics
-    [params.analytics.fathom]
-      id = ""
-      # server url for your tracker if you're self hosting
-      server = ""
-    # Plausible Analytics
     [params.analytics.plausible]
-      dataDomain = ""
-    # Yandex Metrica
-    [params.analytics.yandexMetrica]
-      id = ""
+      domain = "secretcoder.org"
 
-  #  Cookie consent config
-  [params.cookieconsent]
-    enable = true
-    # text strings used for Cookie consent banner
-    [params.cookieconsent.content]
-      message = ""
-      dismiss = ""
-      link = ""
-
-  #  CDN config for third-party library files
-  [params.cdn]
-    # CDN data file name, disabled by default
-    # ["jsdelivr.yml"]
-    # located in "themes/LoveIt/assets/data/cdn/" directory
-    # you can store your own data files in the same path under your project:
-    # "assets/data/cdn/"
-    data = ""
-
-  #  Compatibility config
-  [params.compatibility]
-    # whether to use Polyfill.io to be compatible with older browsers
-    polyfill = false
-    # whether to use object-fit-images to be compatible with older browsers
-    objectFit = false
+# Search config
+[params.search]
+  enable = true
+  type = "fuse"
+  contentLength = 4000
+  placeholder = "Search..."
+  maxResultLength = 10
+  snippetLength = 30
+  highlightTag = "em"
+  absoluteURL = false
+  [params.search.fuse]
+    isCaseSensitive = false
+    shouldSort = true
+    location = 0
+    distance = 100
+    threshold = 0.3
+    minMatchCharLength = 2
+    keys = ["title", "permalink", "summary", "content"]
 
 # Markup related config in Hugo
 [markup]
@@ -558,10 +523,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     guessSyntax = true
     lineNos = true
     lineNumbersInTable = true
-    # false is a necessary configuration
-    # (https://github.com/dillonzq/LoveIt/issues/158)
     noClasses = false
-  # Goldmark is from Hugo 0.60 the default library used for Markdown
   [markup.goldmark]
     [markup.goldmark.extensions]
       definitionList = true
@@ -572,9 +534,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       taskList = true
       typographer = true
     [markup.goldmark.renderer]
-      # whether to use HTML tags directly in the document
       unsafe = true
-  # Table Of Contents settings
   [markup.tableOfContents]
     startLevel = 2
     endLevel = 6
@@ -587,36 +547,31 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 
 # Permalinks config
 [Permalinks]
-  # posts = ":year/:month/:filename"
   posts = "/:year/:month/:slug/"
 
 # Privacy config
 [privacy]
-  #  privacy of the Google Analytics (replaced by params.analytics.google)
-  [privacy.googleAnalytics]
-    # ...
   [privacy.twitter]
     enableDNT = true
   [privacy.youtube]
     privacyEnhanced = true
 
-# Options to make output .md files
-[mediaTypes]
-  [mediaTypes."text/plain"]
-    suffixes = ["md"]
-
-# Options to make output .md files
-[outputFormats.MarkDown]
-  mediaType = "text/plain"
-  isPlainText = true
-  isHTML = false
-
-# Options to make hugo output files
+# Output formats
 [outputs]
-  # 
   home = ["HTML", "RSS", "JSON"]
-  page = ["HTML", "MarkDown"]
+  page = ["HTML"]
   section = ["HTML", "RSS"]
   taxonomy = ["HTML", "RSS"]
-  taxonomyTerm = ["HTML"]
+  term = ["HTML", "RSS"]
+
+# Image processing
+[imaging]
+  quality = 85
+  resampleFilter = "Lanczos"
+  anchor = "Smart"
+  [imaging.exif]
+    disableDate = true
+    disableLatLong = true
+    excludeFields = ''
+    includeFields = ''
 
