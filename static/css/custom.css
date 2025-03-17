@@ -1,0 +1,63 @@
+/* Custom CSS */
+
+/* Improve readability */
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+  line-height: 1.6;
+}
+
+/* Use SF Pro font */
+@font-face {
+  font-family: 'SF Pro';
+  src: local('SF Pro Display'), local('SF Pro Text'), local('SF Pro'), 
+       url('https://applesocial.s3.amazonaws.com/assets/styles/fonts/sanfrancisco/sanfranciscodisplay-regular-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Improve readability with SF Pro */
+body {
+  font-family: "SF Pro Text", "SF Pro Display", "SF Pro", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Style headings with SF Pro */
+h1, h2, h3, h4, h5, h6 {
+  font-family: "SF Pro Display", "SF Pro", -apple-system, BlinkMacSystemFont, sans-serif;
+  font-weight: 600;
+  letter-spacing: -0.02em;
+}
+
+/* Style code blocks */
+pre, code {
+  font-family: "SF Mono", Menlo, Monaco, Consolas, "Courier New", monospace;
+  border-radius: 3px;
+}
+
+/* Style blockquotes */
+blockquote {
+  border-left: 4px solid #e22d30;
+  padding-left: 1rem;
+  font-style: italic;
+  color: #666;
+}
+
+/* Style links */
+a {
+  transition: color 0.3s ease;
+}
+
+/* Custom styles for post cards */
+.post__content {
+  margin-bottom: 1.5rem;
+}
+
+/* Improve mobile experience */
+@media (max-width: 620px) {
+  .container {
+    padding: 0 10px;
+  }
+} 

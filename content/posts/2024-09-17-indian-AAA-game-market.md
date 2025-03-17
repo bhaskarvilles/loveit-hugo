@@ -8,12 +8,7 @@ categories: [ Gaming, Technology, Game Development, India ]
 description: "An analysis of the success of Black Myth: Wukong and the challenges India faces in replicating such success in the AAA PC game market."
 authorLink: "https://linkedin.com/in/bhaskarvilles"
 images: ["https://cdn.k4g.com/blog/app/uploads/2024/02/03224048/Black-Myth-Wukong-1-2048x1152.png"]  # Replace with an actual image link
-tags:
-- Black Myth: Wukong
-- AAA PC Games
-- Gaming Industry
-- Game Development
-- India
+tags: ["Black Myth Wukong", "AAA PC Games", "Gaming Industry", "Game Development", "India"]
 ---
 
 ### Title: *Why India Can't Yet Replicate the Success of Black Myth: Wukong in the AAA PC Game Market*
@@ -24,9 +19,9 @@ tags:
 In August 2024, *Black Myth: Wukong*, a Chinese-developed game, set a record with 2.2 million concurrent players on Steam, surpassing every other single-player game in history. The game's success is a testament not only to its quality but also to the business acumen behind it. While the gaming world celebrates this achievement, one question lingers: Can India create something similar?
 
 #### The Unprecedented Success of Black Myth: Wukong
-*Black Myth: Wukong* was not an overnight success. Game Science, the developers, released its first demo in 2020, strategically building hype over the years. Partnerships with tech giants like Nvidia and non-traditional collaborators like Luckin Coffee played a crucial role in this success. Tencent’s 5% stake in the company ensured that Game Science had the capital and network needed to market the game effectively, both in China and internationally. 
+*Black Myth: Wukong* was not an overnight success. Game Science, the developers, released its first demo in 2020, strategically building hype over the years. Partnerships with tech giants like Nvidia and non-traditional collaborators like Luckin Coffee played a crucial role in this success. Tencent's 5% stake in the company ensured that Game Science had the capital and network needed to market the game effectively, both in China and internationally. 
 
-The game’s striking visuals, deep mythology rooted in Chinese folklore, and compelling gameplay also contributed to its massive appeal. It's not just a game, it's an experience – a combination of storytelling, art direction, and cutting-edge technology.
+The game's striking visuals, deep mythology rooted in Chinese folklore, and compelling gameplay also contributed to its massive appeal. It's not just a game, it's an experience – a combination of storytelling, art direction, and cutting-edge technology.
 
 ![Blackmyth Wukong](https://gmedia.playstation.com/is/image/SIEPDC/black-myth-wukong-screenshot-03-en-24jan24?$1600px$)
 
@@ -49,9 +44,9 @@ Wukong's success is not just about good gameplay. Several strategic decisions we
 
 1. **Lack of AAA PC Gaming Market**: The PC gaming market in India is minuscule. With less than 10% of the mobile market share, it's difficult for developers to find a substantial audience. India has fewer Steam users compared to China, and the infrastructure for high-end PC gaming is lacking. Most Indian gamers play on mobile, which limits the viability of creating AAA PC games.
 
-2. **Investment & Funding Issues**: *Black Myth: Wukong* cost $75 million to develop, approximately ₹555 crore. Indian investors are not yet ready to invest in PC gaming at such a scale. There’s no proven track record for PC games in India, and investors are more comfortable funding mobile game developers, which have had relative success.
+2. **Investment & Funding Issues**: *Black Myth: Wukong* cost $75 million to develop, approximately ₹555 crore. Indian investors are not yet ready to invest in PC gaming at such a scale. There's no proven track record for PC games in India, and investors are more comfortable funding mobile game developers, which have had relative success.
 
-3. **Marketing Challenges**: Even if a game is developed, the challenge of marketing it globally remains. India’s distribution channels for PC games are underdeveloped, and without a successful precedent, it’s difficult to attract attention from international markets.
+3. **Marketing Challenges**: Even if a game is developed, the challenge of marketing it globally remains. India's distribution channels for PC games are underdeveloped, and without a successful precedent, it's difficult to attract attention from international markets.
 
 4. **Cultural Roadblocks**: Games like *Black Myth: Wukong* tap into Chinese mythology and folklore, providing a unique and culturally resonant experience. If India were to attempt a similar feat, developers would need to tread carefully due to potential sensitivities around mythology and religion. The backlash over creative freedom and artistic interpretation could stifle innovation.
 
@@ -62,7 +57,7 @@ Wukong's success is not just about good gameplay. Several strategic decisions we
 #### Technological Capability: India is Ready, But...
 India has the technical talent to develop AAA games. Studios like Rockstar India have contributed to major projects like *Red Dead Redemption 2*, and many Hollywood blockbusters have been animated in Indian studios. With tools like Unreal Engine and AI-powered software available, creating high-quality games has become more accessible.
 
-However, the real challenge lies in art direction and storytelling. *Black Myth: Wukong* shines not only because of its technical excellence but also its compelling narrative and stunning art direction – something that requires a fusion of artistic and technical expertise. In India, there’s often a disconnect between developers and artists, with each focusing on their domain without much collaboration. Game development, however, requires a seamless integration of both.
+However, the real challenge lies in art direction and storytelling. *Black Myth: Wukong* shines not only because of its technical excellence but also its compelling narrative and stunning art direction – something that requires a fusion of artistic and technical expertise. In India, there's often a disconnect between developers and artists, with each focusing on their domain without much collaboration. Game development, however, requires a seamless integration of both.
 
 ![Blackmyth Wukong](https://gmedia.playstation.com/is/image/SIEPDC/black-myth-wukong-screenshot-01-en-24jan24?$1600px$)
 
@@ -76,9 +71,9 @@ A game like *God of War* or *Black Myth: Wukong* could face significant backlash
 ---
 
 #### The Way Forward: What India Can Learn
-While creating a game like *Black Myth: Wukong* may seem daunting, it’s not impossible. Here’s what India needs:
+While creating a game like *Black Myth: Wukong* may seem daunting, it's not impossible. Here's what India needs:
 
-1. **Patience and Long-term Investment**: The success of *Black Myth* wasn’t instant. It took years of careful planning, development, and strategic partnerships. Indian developers and investors need to adopt a long-term vision, much like Game Science did.
+1. **Patience and Long-term Investment**: The success of *Black Myth* wasn't instant. It took years of careful planning, development, and strategic partnerships. Indian developers and investors need to adopt a long-term vision, much like Game Science did.
 
 2. **Cross-industry Collaborations**: Game development is no longer confined to just software companies. Partnerships with global brands and non-tech sectors can create wider visibility and cultural penetration.
 

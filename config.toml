@@ -1,7 +1,7 @@
 baseURL = "https://secretcoder.org"
 
 # Change the default theme to be use when building the site with Hugo
-theme = "LoveIt"
+theme = "mainroad"
 
 # website title
 title = "Ram's Website"
@@ -11,7 +11,7 @@ languageCode = "en"
 # language name ["English", "简体中文", "Français", "Polski", ...]
 languageName = "English"
 # whether to include Chinese/Japanese/Korean
-hasCJKLanguage = true
+hasCJKLanguage = false
 
 # New configuration for pagination
 [params.pagination]
@@ -26,7 +26,7 @@ copyright = "Bhaskar"
 # whether to use robots.txt
 enableRobotsTXT = true
 # whether to use git commit log
-enableGitInfo = true
+enableGitInfo = false
 # whether to use emoji code
 enableEmoji = true
 
@@ -36,8 +36,8 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 # Author config
 [author]
   name = "Bhaskar"
-  email = "bhaskarvilles@duck.com"
-  link = "https://secretcoder.org"
+  bio = "Tech Analyst & Geopolitical Observer"
+  avatar = "img/avatar.png"
 
 # Menu config
 [menu]
@@ -94,9 +94,9 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 
   # PWA Support
   [params.pwa]
-    enable = true
+    enable = false
     manifest = "/manifest.json"
-    manifest_icon = "/images/logo.png"
+    manifest_icon = ""
     theme_color = "#fff"
     background_color = "#fff"
 
@@ -127,7 +127,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       name = "root@secretcoder"
       pre = ""
       post = "⚕"
-      typeit = true
+      typeit = false
 
   # Footer config
   [params.footer]
@@ -177,11 +177,12 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     rss = 10
     [params.home.profile]
       enable = true
-      gravatarEmail = "bhaskarvilles@gmail.com"
+      # Disable Gravatar to use local avatar
+      # gravatarEmail = "bhaskarvilles@gmail.com"
       avatarURL = "/images/avatar.png"
-      title = "<b>Bhaskar Ram</b> | Tech Analyst & Geopolitical Observer"
+      title = "Bhaskar Ram | Tech Analyst & Geopolitical Observer"
       subtitle = "Decoding the intersection of technology, geopolitics, and human progress"
-      typeit = true
+      typeit = false
       social = true
     [params.home.posts]
       enable = true
@@ -192,7 +193,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     GitHub = "bhaskarvilles"
     Linkedin = "bhaskarvilles"
     Twitter = "bhaskarvilles"
-    Instagram = "iamram5555"
+    Instagram = "bhaskarvilles"
     Facebook = "bhaskarvilles"
     Telegram = "bhaskarvilles"
     Medium = "bhaskarvilles"
@@ -276,11 +277,11 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     # whether to enable lightgallery
     lightgallery = false
     #  whether to enable the ruby extended syntax
-    ruby = true
+    ruby = false
     #  whether to enable the fraction extended syntax
-    fraction = true
+    fraction = false
     #  whether to enable the fontawesome extended syntax
-    fontawesome = true
+    fontawesome = false
     # whether to show link to Raw Markdown content of the content
     linkToMarkdown = true
     #  whether to show the full text content in RSS
@@ -546,7 +547,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   priority = 0.8
 
 # Permalinks config
-[Permalinks]
+[permalinks]
   posts = "/:year/:month/:slug/"
 
 # Privacy config
@@ -566,12 +567,33 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 
 # Image processing
 [imaging]
-  quality = 85
-  resampleFilter = "Lanczos"
+  quality = 75
+  resampleFilter = "Box"
   anchor = "Smart"
   [imaging.exif]
     disableDate = true
     disableLatLong = true
     excludeFields = ''
     includeFields = ''
+
+[params.sidebar]
+  home = "right"
+  list = "right"
+  single = "right"
+  # Enable widgets in given order
+  widgets = ["search", "recent", "categories", "taglist", "social"]
+
+[params.widgets]
+  recent_num = 5
+  categories_counter = true
+  tags_counter = true
+
+[params.widgets.social]
+  github = "bhaskarvilles"
+  twitter = "bhaskarvilles"
+  linkedin = "bhaskarvilles"
+  telegram = "bhaskarvilles"
+  instagram = "bhaskarvilles"
+  facebook = "bhaskarvilles"
+  email = "bhaskarvilles@duck.com"
 
