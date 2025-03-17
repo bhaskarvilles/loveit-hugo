@@ -1,0 +1,33 @@
+# Hugo default output directory
+/public/
+
+# Generated files by hugo
+/resources/
+/resources 2/
+.hugo_build.lock
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Dependency directories
+/node_modules/
+
+# Other files
+fix_tags.sh
+posts.html
+mainroad.zip
+
+# Large font files
+static/fonts/sf-pro/sf-pro-display-regular.woff2 
