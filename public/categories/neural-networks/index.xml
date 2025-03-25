@@ -1,22 +1,6 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Neural Networks on Ram&#39;s Website</title>
-    <link>//localhost:1313/categories/neural-networks/</link>
-    <description>Recent content in Neural Networks on Ram&#39;s Website</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <managingEditor>bhaskarvilles@duck.com (Bhaskar)</managingEditor>
-    <webMaster>bhaskarvilles@duck.com (Bhaskar)</webMaster>
-    <copyright>Bhaskar</copyright>
-    <lastBuildDate>Fri, 07 Apr 2023 01:07:21 +0530</lastBuildDate>
-    <atom:link href="//localhost:1313/categories/neural-networks/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>OpenAI and ChatGPT</title>
-      <link>//localhost:1313/2022-12-21-chat-gpt/</link>
-      <pubDate>Wed, 21 Dec 2022 00:00:00 +0000</pubDate><author>bhaskarvilles@duck.com (Bhaskar)</author>
-      <guid>//localhost:1313/2022-12-21-chat-gpt/</guid>
-      <description>Introduction to OpenAI: OpenAI is a research organization that focuses on developing and promoting friendly artificial intelligence. It was founded in 2015 by a group of entrepreneurs, researchers, and philanthropists who wanted to ensure that AI could be aligned with human values and would be used for the benefit of all humanity.&#xA;Overview of ChatGPT: ChatGPT is a variant of the GPT (Generative Pre-training Transformer) language model developed by OpenAI. It is designed to generate human-like text in a conversational style, making it well-suited for tasks such as chatbots, dialog systems, and question answering systems.</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Neural Networks on Ram's Website</title><link>https://secretcoder.org/categories/neural-networks/</link><description>Recent content in Neural Networks on Ram's Website</description><generator>Hugo</generator><language>en</language><lastBuildDate>Mon, 29 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://secretcoder.org/categories/neural-networks/index.xml" rel="self" type="application/rss+xml"/><item><title>Understanding Artificial Neural Networks (ANNs) and Convolutional Neural Networks (CNNs)</title><link>https://secretcoder.org/2024/07/understanding-artificial-neural-networks-anns-and-convolutional-neural-networks-cnns/</link><pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate><guid>https://secretcoder.org/2024/07/understanding-artificial-neural-networks-anns-and-convolutional-neural-networks-cnns/</guid><description>&lt;h1 id="understanding-artificial-neural-networks-anns-and-convolutional-neural-networks-cnns">Understanding Artificial Neural Networks (ANNs) and Convolutional Neural Networks (CNNs)&lt;/h1>
+&lt;p>Neural networks have revolutionized the field of artificial intelligence and machine learning. Their ability to model complex patterns and relationships has led to significant advancements in various domains, from computer vision to natural language processing. Among the myriad types of neural networks, Artificial Neural Networks (ANNs) and Convolutional Neural Networks (CNNs) are two of the most prominent and widely used architectures.&lt;/p></description></item><item><title>OpenAI and ChatGPT</title><link>https://secretcoder.org/2022/12/openai-and-chatgpt/</link><pubDate>Wed, 21 Dec 2022 00:00:00 +0000</pubDate><guid>https://secretcoder.org/2022/12/openai-and-chatgpt/</guid><description>&lt;h2 id="introduction-to-openai">Introduction to OpenAI:&lt;/h2>
+&lt;p>OpenAI is a research organization that focuses on developing and promoting friendly artificial intelligence. It was founded in 2015 by a group of entrepreneurs, researchers, and philanthropists who wanted to ensure that AI could be aligned with human values and would be used for the benefit of all humanity.&lt;/p>
+&lt;p>&lt;img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/OpenAI_Logo.svg/1280px-OpenAI_Logo.svg.png" alt="alt">&lt;/p>
+&lt;h2 id="overview-of-chatgpt">Overview of ChatGPT:&lt;/h2>
+&lt;p>ChatGPT is a variant of the GPT (Generative Pre-training Transformer) language model developed by OpenAI. It is designed to generate human-like text in a conversational style, making it well-suited for tasks such as chatbots, dialog systems, and question answering systems. ChatGPT is trained on a large dataset of human conversations and can generate responses to a wide range of prompts, including open-ended questions and prompts that require the model to provide information or perform a specific task.&lt;/p></description></item></channel></rss>

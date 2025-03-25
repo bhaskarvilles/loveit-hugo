@@ -1,0 +1,24 @@
+{{- $tags := .Site.Taxonomies.tags }}
+{{- if gt (len $tags) 0 }}
+<div class="widget-taglist widget">
+	<h4 class="widget__title">{{ T "tags_title" }}</h4>
+	<div class="widget__content">
+	{{- $count := 0 }}
+	{{- range $name, $taxonomy := $tags }}
+		{{- if lt $count 10 }}
+			{{- with $.Site.GetPage (printf "/tags/%s" $name) }}
+			<a class="widget-taglist__link widget__link btn" href="{{ .RelPermalink }}" title="{{ .Title }}">
+				{{- .Title -}}{{- if .Site.Params.widgets.tags_counter }} ({{ $taxonomy.Count }}){{ end -}}
+			</a>
+			{{- $count = add $count 1 }}
+			{{- end }}
+		{{- end }}
+	{{- end }}
+	{{- if gt (len $tags) 10 }}
+	<div class="widget__more">
+		<a href="/tags/" class="widget__more-link">More tags...</a>
+	</div>
+	{{- end }}
+	</div>
+</div>
+{{- end }} 

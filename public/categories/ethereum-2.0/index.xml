@@ -1,22 +1,7 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Ethereum 2.0 on Ram&#39;s Website</title>
-    <link>//localhost:1313/categories/ethereum-2.0/</link>
-    <description>Recent content in Ethereum 2.0 on Ram&#39;s Website</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <managingEditor>bhaskarvilles@duck.com (Bhaskar)</managingEditor>
-    <webMaster>bhaskarvilles@duck.com (Bhaskar)</webMaster>
-    <copyright>Bhaskar</copyright>
-    <lastBuildDate>Fri, 07 Apr 2023 01:07:21 +0530</lastBuildDate>
-    <atom:link href="//localhost:1313/categories/ethereum-2.0/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Ethereum 2.0 Merging</title>
-      <link>//localhost:1313/2022-09-21-ethereum-2-0/</link>
-      <pubDate>Wed, 21 Sep 2022 10:18:00 +0000</pubDate><author>bhaskarvilles@duck.com (Bhaskar)</author>
-      <guid>//localhost:1313/2022-09-21-ethereum-2-0/</guid>
-      <description>Ethereum is moving to proof-of-stake! The transition, known as The Merge, must first be activated on the Beacon Chain with the Bellatrix upgrade. After this, the proof-of-work chain will migrate to proof-of-stake upon hitting a specific Total Difficulty value. The Bellatrix upgrade is scheduled for epoch 144896 on the Beacon Chain &amp;ndash; 11:34:47am UTC on Sept 6, 2022. The Terminal Total Difficulty value triggering The Merge is 58750000000000000000000, expected between Sept 10-20, 2022.</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Ethereum 2.0 on Ram's Website</title><link>https://secretcoder.org/categories/ethereum-2.0/</link><description>Recent content in Ethereum 2.0 on Ram's Website</description><generator>Hugo</generator><language>en</language><lastBuildDate>Wed, 21 Sep 2022 10:18:00 +0000</lastBuildDate><atom:link href="https://secretcoder.org/categories/ethereum-2.0/index.xml" rel="self" type="application/rss+xml"/><item><title>Ethereum 2.0 Merging</title><link>https://secretcoder.org/2022/09/ethereum-2.0-merging/</link><pubDate>Wed, 21 Sep 2022 10:18:00 +0000</pubDate><guid>https://secretcoder.org/2022/09/ethereum-2.0-merging/</guid><description>&lt;ul>
+&lt;li>Ethereum is moving to proof-of-stake! The transition, known as The Merge, must first be activated on the Beacon Chain with the Bellatrix upgrade. After this, the proof-of-work chain will migrate to proof-of-stake upon hitting a specific Total Difficulty value.&lt;/li>
+&lt;li>The Bellatrix upgrade is scheduled for epoch 144896 on the Beacon Chain &amp;ndash; 11:34:47am UTC on Sept 6, 2022.&lt;/li>
+&lt;li>The Terminal Total Difficulty value triggering The Merge is 58750000000000000000000, expected between Sept 10-20, 2022.&lt;/li>
+&lt;li>Note: as announced earlier, the Kiln testnet is being sunset. Operators will shut down on September 6, 2022.&lt;/li>
+&lt;/ul>
+&lt;p>&lt;img src="https://raw.githubusercontent.com/bhaskarvilles/chirpy-images/8b6e67b1083da49817878039a3d040194fbdbebd/commons/https___storage.googleap_ethereum.jpeg" alt="alt">&lt;/p></description></item></channel></rss>

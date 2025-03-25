@@ -1,22 +1,2 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Fake SMS on Ram&#39;s Website</title>
-    <link>//localhost:1313/categories/fake-sms/</link>
-    <description>Recent content in Fake SMS on Ram&#39;s Website</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <managingEditor>bhaskarvilles@duck.com (Bhaskar)</managingEditor>
-    <webMaster>bhaskarvilles@duck.com (Bhaskar)</webMaster>
-    <copyright>Bhaskar</copyright>
-    <lastBuildDate>Fri, 07 Apr 2023 01:07:21 +0530</lastBuildDate>
-    <atom:link href="//localhost:1313/categories/fake-sms/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Social Engineering Attacks - Creating a Fake SMS Message</title>
-      <link>//localhost:1313/2022-09-09-social-engineering-attacks-fake-sms/</link>
-      <pubDate>Fri, 09 Sep 2022 10:18:00 +0000</pubDate><author>bhaskarvilles@duck.com (Bhaskar)</author>
-      <guid>//localhost:1313/2022-09-09-social-engineering-attacks-fake-sms/</guid>
-      <description>Welcome back, my aspiring cyber warriors!&#xA;Social engineering is a key feature of some of the biggest hacks in history! Many novice hackers are so focused upon mastering the technical aspects of hacking that they ignore at their own peril the power of social engineering. When nation-state actors such as Russia&amp;rsquo;s Sandworm hacking team (one of the most technically advanced hacker organizations) use social engineering to hack Ukraine&amp;rsquo;s electrical grid and the US 2016 Presidential election, that should be a sign that social engineering is important and critical to your hacking toolbox.</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Fake SMS on Ram's Website</title><link>https://secretcoder.org/categories/fake-sms/</link><description>Recent content in Fake SMS on Ram's Website</description><generator>Hugo</generator><language>en</language><lastBuildDate>Fri, 09 Sep 2022 10:18:00 +0000</lastBuildDate><atom:link href="https://secretcoder.org/categories/fake-sms/index.xml" rel="self" type="application/rss+xml"/><item><title>Social Engineering Attacks - Creating a Fake SMS Message</title><link>https://secretcoder.org/2022/09/social-engineering-attacks-creating-a-fake-sms-message/</link><pubDate>Fri, 09 Sep 2022 10:18:00 +0000</pubDate><guid>https://secretcoder.org/2022/09/social-engineering-attacks-creating-a-fake-sms-message/</guid><description>&lt;p>&lt;strong>Welcome back, my aspiring cyber warriors!&lt;/strong>&lt;/p>
+&lt;p>Social engineering is a key feature of some of the biggest hacks in history! Many novice hackers are so focused upon mastering the technical aspects of hacking that they ignore at their own peril the power of social engineering. When nation-state actors such as Russia&amp;rsquo;s Sandworm hacking team (one of the most technically advanced hacker organizations) use social engineering to hack Ukraine&amp;rsquo;s electrical grid and the US 2016 Presidential election, that should be a sign that social engineering is important and critical to your hacking toolbox.&lt;/p></description></item></channel></rss>

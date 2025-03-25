@@ -1,29 +1,5 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Ethereum on Ram&#39;s Website</title>
-    <link>//localhost:1313/categories/ethereum/</link>
-    <description>Recent content in Ethereum on Ram&#39;s Website</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <managingEditor>bhaskarvilles@duck.com (Bhaskar)</managingEditor>
-    <webMaster>bhaskarvilles@duck.com (Bhaskar)</webMaster>
-    <copyright>Bhaskar</copyright>
-    <lastBuildDate>Fri, 14 Apr 2023 02:03:35 +0530</lastBuildDate>
-    <atom:link href="//localhost:1313/categories/ethereum/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>The Rise of ZK-EVMs: How Ethereum&#39;s Multi-Client Philosophy Enables Continued Decentralization</title>
-      <link>//localhost:1313/2023-04-10-how-ethereum-makes-decentralization-possible/</link>
-      <pubDate>Mon, 10 Apr 2023 00:00:00 +0000</pubDate><author>bhaskarvilles@duck.com (Bhaskar)</author>
-      <guid>//localhost:1313/2023-04-10-how-ethereum-makes-decentralization-possible/</guid>
-      <description>My thoughts on EVMs Multi Client repository One important aspect of Ethereum&amp;rsquo;s security and decentralization is its multi-client philosophy. Instead of relying on a single reference client, Ethereum has a specification written in Python and multiple independent implementations of the spec called clients. Each node runs a consensus client to validate blocks and an execution client to check state transitions. Currently, no single client makes up more than two-thirds of either category.</description>
-    </item>
-    <item>
-      <title>Google wants to become a key infrastructure provider for Web3</title>
-      <link>//localhost:1313/2022-10-30-google-launched-blockchain-nodes/</link>
-      <pubDate>Sun, 30 Oct 2022 00:00:00 +0000</pubDate><author>bhaskarvilles@duck.com (Bhaskar)</author>
-      <guid>//localhost:1313/2022-10-30-google-launched-blockchain-nodes/</guid>
-      <description>Google Launches Cloud Node Engine For Ethereum Developers Google is launching a cloud-based node engine service for Ethereum developers and projects, the tech company announced Thursday.&#xA;Officially called Blockchain Node Engine, Google’s offering is a “fully managed service,” meaning customers won’t have to hire their own teams to maintain or monitor their nodes. Instead, Google says it “actively monitors the nodes and restarts them if anything goes wrong.”&#xA;The Blockchain Node Engine also includes various security features like Google’s Cloud Armor, which is designed to prevent denial-of-service (DDos) attacks that spam and slow down networks.</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Ethereum on Ram's Website</title><link>https://secretcoder.org/categories/ethereum/</link><description>Recent content in Ethereum on Ram's Website</description><generator>Hugo</generator><language>en</language><lastBuildDate>Mon, 10 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://secretcoder.org/categories/ethereum/index.xml" rel="self" type="application/rss+xml"/><item><title>The Rise of ZK-EVMs: How Ethereum's Multi-Client Philosophy Enables Continued Decentralization</title><link>https://secretcoder.org/2023/04/the-rise-of-zk-evms-how-ethereums-multi-client-philosophy-enables-continued-decentralization/</link><pubDate>Mon, 10 Apr 2023 00:00:00 +0000</pubDate><guid>https://secretcoder.org/2023/04/the-rise-of-zk-evms-how-ethereums-multi-client-philosophy-enables-continued-decentralization/</guid><description>&lt;h2 id="my-thoughts-on-evms-multi-client-repository">My thoughts on EVMs Multi Client repository&lt;/h2>
+&lt;p>One important aspect of Ethereum&amp;rsquo;s security and decentralization is its multi-client philosophy. Instead of relying on a single reference client, Ethereum has a specification written in Python and multiple independent implementations of the spec called clients. Each node runs a consensus client to validate blocks and an execution client to check state transitions. Currently, no single client makes up more than two-thirds of either category. This ensures that bugs in any one client will not cripple the network.&lt;/p></description></item><item><title>Google wants to become a key infrastructure provider for Web3</title><link>https://secretcoder.org/2022/10/google-wants-to-become-a-key-infrastructure-provider-for-web3/</link><pubDate>Sun, 30 Oct 2022 00:00:00 +0000</pubDate><guid>https://secretcoder.org/2022/10/google-wants-to-become-a-key-infrastructure-provider-for-web3/</guid><description>&lt;h1 id="google-launches-cloud-node-engine-for-ethereum-developers">Google Launches Cloud Node Engine For Ethereum Developers&lt;/h1>
+&lt;p>Google is launching a cloud-based node engine service for Ethereum developers and projects, the tech company announced Thursday.&lt;/p>
+&lt;p>Officially called Blockchain Node Engine, Google’s offering is a “fully managed service,” meaning customers won’t have to hire their own teams to maintain or monitor their nodes. Instead, Google says it “actively monitors the nodes and restarts them if anything goes wrong.”&lt;/p>
+&lt;p>The Blockchain Node Engine also includes various security features like Google’s Cloud Armor, which is designed to prevent denial-of-service (DDos) attacks that spam and slow down networks.&lt;/p></description></item></channel></rss>

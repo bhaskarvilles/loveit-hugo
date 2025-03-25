@@ -1,22 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>If on Ram&#39;s Website</title>
-    <link>//localhost:1313/tags/if/</link>
-    <description>Recent content in If on Ram&#39;s Website</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <managingEditor>bhaskarvilles@duck.com (Bhaskar)</managingEditor>
-    <webMaster>bhaskarvilles@duck.com (Bhaskar)</webMaster>
-    <copyright>Bhaskar</copyright>
-    <lastBuildDate>Fri, 05 May 2023 12:27:34 +0530</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/if/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>DeepFloyd-IF: A Pixel-Based Triple-Cascaded Diffusion Model for Photorealistic Text-to-Image Generation</title>
-      <link>//localhost:1313/2023-05-04-deepfloyid-if/</link>
-      <pubDate>Thu, 04 May 2023 00:00:00 +0000</pubDate><author>bhaskarvilles@duck.com (Bhaskar)</author>
-      <guid>//localhost:1313/2023-05-04-deepfloyid-if/</guid>
-      <description>IF-I-XL-v1.0 DeepFloyd-IF is a pixel-based text-to-image triple-cascaded diffusion model, that can generate pictures with new state-of-the-art for photorealism and language understanding. The result is a highly efficient model that outperforms current state-of-the-art models, achieving a zero-shot FID-30K score of 6.66 on the COCO dataset.&#xA;Inspired by Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding&#xA;Model Details Developed by: DeepFloyd, StabilityAI Model type: pixel-based text-to-image cascaded diffusion model Cascade Stage: I Num Parameters: 4.</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>If on Ram's Website</title><link>https://secretcoder.org/tags/if/</link><description>Recent content in If on Ram's Website</description><generator>Hugo</generator><language>en</language><lastBuildDate>Thu, 04 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://secretcoder.org/tags/if/index.xml" rel="self" type="application/rss+xml"/><item><title>DeepFloyd-IF: A Pixel-Based Triple-Cascaded Diffusion Model for Photorealistic Text-to-Image Generation</title><link>https://secretcoder.org/2023/05/deepfloyd-if-a-pixel-based-triple-cascaded-diffusion-model-for-photorealistic-text-to-image-generation/</link><pubDate>Thu, 04 May 2023 00:00:00 +0000</pubDate><guid>https://secretcoder.org/2023/05/deepfloyd-if-a-pixel-based-triple-cascaded-diffusion-model-for-photorealistic-text-to-image-generation/</guid><description>&lt;h1 id="if-i-xl-v10">IF-I-XL-v1.0&lt;/h1>
+&lt;p>DeepFloyd-IF is a pixel-based text-to-image triple-cascaded diffusion model, that can generate pictures with new state-of-the-art for photorealism and language understanding. The result is a highly efficient model that outperforms current state-of-the-art models, achieving a zero-shot FID-30K score of &lt;code>6.66&lt;/code> on the COCO dataset.&lt;/p>
+&lt;p>&lt;em>Inspired by&lt;/em> &lt;a href="https://arxiv.org/pdf/2205.11487.pdf">&lt;em>Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding&lt;/em>&lt;/a>&lt;/p>
+&lt;!-- ![](https://huggingface.co/DeepFloyd/IF-I-XL-v1.0/resolve/main/pics/deepfloyd_if_scheme.jpg) -->
+&lt;h2 id="model-details">Model Details&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Developed by:&lt;/strong> DeepFloyd, StabilityAI&lt;/li>
+&lt;li>&lt;strong>Model type:&lt;/strong> pixel-based text-to-image cascaded diffusion model&lt;/li>
+&lt;li>&lt;strong>Cascade Stage:&lt;/strong> I&lt;/li>
+&lt;li>&lt;strong>Num Parameters:&lt;/strong> 4.3B&lt;/li>
+&lt;li>&lt;strong>Language(s):&lt;/strong> primarily English and, to a lesser extent, other Romance languages&lt;/li>
+&lt;li>&lt;strong>License:&lt;/strong> &lt;span style="color:blue">&lt;a href="https://huggingface.co/spaces/DeepFloyd/deepfloyd-if-license">DeepFloyd IF License Agreement&lt;/a>&lt;/span>&lt;/li>
+&lt;li>&lt;strong>Model Description:&lt;/strong> DeepFloyd-IF is modular composed of frozen text mode and three pixel cascaded diffusion modules, each designed to generate images of increasing resolution: 64x64, 256x256, and 1024x1024. All stages of the model utilize a frozen text encoder based on the T5 transformer to extract text embeddings, which are then fed into a UNet architecture enhanced with cross-attention and attention-pooling&lt;/li>
+&lt;li>&lt;strong>Resources for more information:&lt;/strong> &lt;a href="https://github.com/deep-floyd/IF">GitHub&lt;/a>, &lt;a href="https://deepfloyd.ai">deepfloyd.ai&lt;/a>, &lt;a href="https://linktr.ee/deepfloyd">All Links&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Cite as (Soon):&lt;/strong> -&lt;/li>
+&lt;/ul>
+&lt;h2 id="using-with-diffusers">Using with &lt;code>diffusers&lt;/code>&lt;/h2>
+&lt;p>IF is integrated with the 🤗 Hugging Face &lt;a href="https://github.com/huggingface/diffusers/">🧨 diffusers library&lt;/a>, which is optimized to run on GPUs with as little as 14 GB of VRAM.&lt;/p></description></item></channel></rss>

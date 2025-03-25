@@ -1,50 +1,37 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Blockchain on Ram&#39;s Website</title>
-    <link>//localhost:1313/categories/blockchain/</link>
-    <description>Recent content in Blockchain on Ram&#39;s Website</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <managingEditor>bhaskarvilles@duck.com (Bhaskar)</managingEditor>
-    <webMaster>bhaskarvilles@duck.com (Bhaskar)</webMaster>
-    <copyright>Bhaskar</copyright>
-    <lastBuildDate>Fri, 07 Apr 2023 01:07:21 +0530</lastBuildDate>
-    <atom:link href="//localhost:1313/categories/blockchain/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>The Filecoin EVM (FEVM) is the Ethereum Virtual Machine (EVM) virtualized as a runtime on top of the Filecoin Virtual Machine (FVM). Before understanding the FEVM you must be familiar with the regular EVM.</title>
-      <link>//localhost:1313/2023-01-20-fvm/</link>
-      <pubDate>Fri, 20 Jan 2023 00:00:00 +0000</pubDate><author>bhaskarvilles@duck.com (Bhaskar)</author>
-      <guid>//localhost:1313/2023-01-20-fvm/</guid>
-      <description>What&amp;rsquo;s it for The FVM enables developers to build many new use cases on top of and with the Filecoin network.&#xA;Data access control One advantage centralized storage solutions have over web3 services is that they can limit individual data access.&#xA;The FVM enables Filecoin network participants to do the same. Threshold encryption networks, like Medusa, can individually or programmatically govern who can access a data collection without any contracts or validators having access to the data themselves.</description>
-    </item>
-    <item>
-      <title>DAOs and the Future of Decentralization - Insights from Bhaskar Developer, ETHGlobal Fellow, and Vitalik Buterin, the founder of Ethereum</title>
-      <link>//localhost:1313/2023-01-16-daos-are-not-corporations-where-decentralization-in-autonomous-organizations-matters/</link>
-      <pubDate>Wed, 21 Dec 2022 00:00:00 +0000</pubDate><author>bhaskarvilles@duck.com (Bhaskar)</author>
-      <guid>//localhost:1313/2023-01-16-daos-are-not-corporations-where-decentralization-in-autonomous-organizations-matters/</guid>
-      <description>DAOs and the Future of Decentralization - Insights from Bhaskar - Developer, ETHGlobal Fellow, and Vitalik Buterin, the founder of Ethereum. Decentralized Autonomous Organizations (DAOs) are digital entities that operate on blockchain technology, and they have been gaining a lot of attention in recent years. Unlike traditional corporations, DAOs are decentralized, meaning that they operate on a consensus-based system where all members have an equal say in decision-making. This is where the term &amp;ldquo;autonomous&amp;rdquo; comes in, as DAOs are able to operate independently without the need for intermediaries.</description>
-    </item>
-    <item>
-      <title>Hyperledger Cactus Project moved to Cacti</title>
-      <link>//localhost:1313/2022-11-05-tsc-approves-cactus-merging-into-cacti/</link>
-      <pubDate>Sat, 05 Nov 2022 00:00:00 +0000</pubDate><author>bhaskarvilles@duck.com (Bhaskar)</author>
-      <guid>//localhost:1313/2022-11-05-tsc-approves-cactus-merging-into-cacti/</guid>
-      <description>TSC Approves Hyperledger Cactus as New Project By Michael Klein, Blockchain and Multiparty Systems Architecture Lead at Accenture, and Hart Montgomery, Fujitsu Laboratories. Building DLT integration protocol We are thrilled to announce that the open source Blockchain Integration Framework that Accenture and Fujitsu jointly contributed to Hyperledger Labs has been welcomed as the latest Hyperledger project. With this, the project receives a formal name, Hyperledger Cactus, and also benefits from the resources and promise of longevity that come with inclusion in the Hyperledger Greenhouse.</description>
-    </item>
-    <item>
-      <title>Hyperledger Fabric Deployment — How We Aced it from Testing to Production</title>
-      <link>//localhost:1313/2022-09-26-fabric-from-development-to-production/</link>
-      <pubDate>Mon, 26 Sep 2022 00:00:00 +0000</pubDate><author>bhaskarvilles@duck.com (Bhaskar)</author>
-      <guid>//localhost:1313/2022-09-26-fabric-from-development-to-production/</guid>
-      <description>You’ve set up your Dev environment, developed your chaincode, designed some decent looking UIs, and passed all your tests to get everything up &amp;amp; running locally. Now what? Is that everything you ever wanted? Of course not! You shouldn’t be satisfied at all. You need to do more. Your next target ought to be to scale the network and stimulate a production-level environment. Added to that, you should also focus on adding multiple orderers, organizations with their own peers and CAs, and try testing it on multiple machines.</description>
-    </item>
-    <item>
-      <title>Ethereum 2.0 Merging</title>
-      <link>//localhost:1313/2022-09-21-ethereum-2-0/</link>
-      <pubDate>Wed, 21 Sep 2022 10:18:00 +0000</pubDate><author>bhaskarvilles@duck.com (Bhaskar)</author>
-      <guid>//localhost:1313/2022-09-21-ethereum-2-0/</guid>
-      <description>Ethereum is moving to proof-of-stake! The transition, known as The Merge, must first be activated on the Beacon Chain with the Bellatrix upgrade. After this, the proof-of-work chain will migrate to proof-of-stake upon hitting a specific Total Difficulty value. The Bellatrix upgrade is scheduled for epoch 144896 on the Beacon Chain &amp;ndash; 11:34:47am UTC on Sept 6, 2022. The Terminal Total Difficulty value triggering The Merge is 58750000000000000000000, expected between Sept 10-20, 2022.</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Blockchain on Ram's Website</title><link>https://secretcoder.org/categories/blockchain/</link><description>Recent content in Blockchain on Ram's Website</description><generator>Hugo</generator><language>en</language><lastBuildDate>Thu, 18 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://secretcoder.org/categories/blockchain/index.xml" rel="self" type="application/rss+xml"/><item><title>Contributions to Open Source Projects</title><link>https://secretcoder.org/2024/07/contributions-to-open-source-projects/</link><pubDate>Thu, 18 Jul 2024 00:00:00 +0000</pubDate><guid>https://secretcoder.org/2024/07/contributions-to-open-source-projects/</guid><description>&lt;h1 id="contributions-overview">Contributions Overview&lt;/h1>
+&lt;h2 id="nationalsecurityagencyghidra-3802">&lt;a href="https://github.com/NationalSecurityAgency/ghidra/pull/3802">NationalSecurityAgency/ghidra #3802&lt;/a>&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Title:&lt;/strong> Update run configurations and documentation&lt;/li>
+&lt;li>&lt;strong>Summary:&lt;/strong> This pull request updates the run configurations and documentation for Ghidra. It includes changes to enhance usability and address issues with existing configurations. The update aims to streamline the setup process for developers working with Ghidra.&lt;/li>
+&lt;/ul>
+&lt;h3 id="details">Details:&lt;/h3>
+&lt;blockquote>
+&lt;p>This PR includes updates to the run configurations for Ghidra, addressing issues with existing setups and enhancing usability for developers.&lt;/p>&lt;/blockquote>
+&lt;h2 id="filecoin-projectlotus-8204">&lt;a href="https://github.com/filecoin-project/lotus/pull/8204">filecoin-project/lotus #8204&lt;/a>&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Title:&lt;/strong> feat: add snapshot creation to lotus-miner&lt;/li>
+&lt;li>&lt;strong>Summary:&lt;/strong> This pull request adds a new feature to the Lotus miner, enabling snapshot creation. This feature allows for capturing the state of the miner at a specific point in time, which can be useful for backups, state inspection, and recovery purposes.&lt;/li>
+&lt;/ul>
+&lt;h3 id="details-1">Details:&lt;/h3>
+&lt;blockquote>
+&lt;p>Adds functionality for creating snapshots of the miner&amp;rsquo;s state, facilitating easier backups and state inspections.&lt;/p></description></item><item><title>Zero Knowledge Protocols (ZK)</title><link>https://secretcoder.org/2024/07/zero-knowledge-protocols-zk/</link><pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate><guid>https://secretcoder.org/2024/07/zero-knowledge-protocols-zk/</guid><description>&lt;h2 id="understanding-zero-knowledge-protocols">Understanding Zero-Knowledge Protocols&lt;/h2>
+&lt;p>Zero-knowledge protocols are fascinating cryptographic systems that allow one party (the prover) to prove to another party (the verifier) that a given statement is true, without conveying any information apart from the fact that the statement is indeed true. This can have profound implications for privacy and security in digital communications and transactions.&lt;/p>
+&lt;h3 id="what-are-zero-knowledge-proofs">What are Zero-Knowledge Proofs?&lt;/h3>
+&lt;p>Zero-knowledge proofs (ZKPs) are a method by which one party can prove to another that they know a value x, without conveying any information apart from the fact that they know the value x. The essence of ZKPs lies in the ability to verify the truthfulness of an assertion without revealing anything else about the underlying data.&lt;/p></description></item><item><title>The Filecoin EVM (FEVM) is the Ethereum Virtual Machine (EVM) virtualized as a runtime on top of the Filecoin Virtual Machine (FVM). Before understanding the FEVM you must be familiar with the regular EVM.</title><link>https://secretcoder.org/2023/01/the-filecoin-evm-fevm-is-the-ethereum-virtual-machine-evm-virtualized-as-a-runtime-on-top-of-the-filecoin-virtual-machine-fvm.-before-understanding-the-fevm-you-must-be-familiar-with-the-regular-evm./</link><pubDate>Fri, 20 Jan 2023 00:00:00 +0000</pubDate><guid>https://secretcoder.org/2023/01/the-filecoin-evm-fevm-is-the-ethereum-virtual-machine-evm-virtualized-as-a-runtime-on-top-of-the-filecoin-virtual-machine-fvm.-before-understanding-the-fevm-you-must-be-familiar-with-the-regular-evm./</guid><description>&lt;h2 id="whats-it-for">What&amp;rsquo;s it for&lt;/h2>
+&lt;p>The FVM enables developers to build many new use cases on top of and with the Filecoin network.&lt;/p>
+&lt;h3 id="data-access-control">Data access control&lt;/h3>
+&lt;p>One advantage centralized storage solutions have over web3 services is that they can limit individual data access.&lt;/p>
+&lt;p>The FVM enables Filecoin network participants to do the same. Threshold encryption networks, like Medusa, can individually or programmatically govern who can access a data collection without any contracts or validators having access to the data themselves.&lt;/p></description></item><item><title>DAOs and the Future of Decentralization - Insights from Bhaskar Developer, ETHGlobal Fellow, and Vitalik Buterin, the founder of Ethereum</title><link>https://secretcoder.org/2022/12/daos-and-the-future-of-decentralization-insights-from-bhaskar-developer-ethglobal-fellow-and-vitalik-buterin-the-founder-of-ethereum/</link><pubDate>Wed, 21 Dec 2022 00:00:00 +0000</pubDate><guid>https://secretcoder.org/2022/12/daos-and-the-future-of-decentralization-insights-from-bhaskar-developer-ethglobal-fellow-and-vitalik-buterin-the-founder-of-ethereum/</guid><description>&lt;h3 id="daos-and-the-future-of-decentralization---insights-from-bhaskar---developer-ethglobal-fellow-and-vitalik-buterin-the-founder-of-ethereum">DAOs and the Future of Decentralization - Insights from Bhaskar - Developer, ETHGlobal Fellow, and Vitalik Buterin, the founder of Ethereum.&lt;/h3>
+&lt;p>Decentralized Autonomous Organizations (DAOs) are digital entities that operate on blockchain technology, and they have been gaining a lot of attention in recent years. Unlike traditional corporations, DAOs are decentralized, meaning that they operate on a consensus-based system where all members have an equal say in decision-making. This is where the term &amp;ldquo;autonomous&amp;rdquo; comes in, as DAOs are able to operate independently without the need for intermediaries.&lt;/p></description></item><item><title>Hyperledger Cactus Project moved to Cacti</title><link>https://secretcoder.org/2022/11/hyperledger-cactus-project-moved-to-cacti/</link><pubDate>Sat, 05 Nov 2022 00:00:00 +0000</pubDate><guid>https://secretcoder.org/2022/11/hyperledger-cactus-project-moved-to-cacti/</guid><description>&lt;h1 id="tsc-approves-hyperledger-cactus-as-new-project">TSC Approves Hyperledger Cactus as New Project&lt;/h1>
+&lt;ul>
+&lt;li>By Michael Klein, Blockchain and Multiparty Systems Architecture Lead at Accenture, and Hart Montgomery, Fujitsu Laboratories.&lt;/li>
+&lt;/ul>
+&lt;p>&lt;img src="https://www.hyperledger.org/wp-content/uploads/2020/05/HL_Website_TwitterImages_Cactus.png" alt="alt">&lt;/p>
+&lt;h2 id="building-dlt-integration-protocol">Building DLT integration protocol&lt;/h2>
+&lt;p>We are thrilled to announce that the open source Blockchain Integration Framework that Accenture and Fujitsu jointly contributed to Hyperledger Labs has been welcomed as the latest Hyperledger project. With this, the project receives a formal name, Hyperledger Cactus, and also benefits from the resources and promise of longevity that come with inclusion in the Hyperledger Greenhouse.&lt;/p></description></item><item><title>Hyperledger Fabric Deployment — How We Aced it from Testing to Production</title><link>https://secretcoder.org/2022/09/hyperledger-fabric-deployment-how-we-aced-it-from-testing-to-production/</link><pubDate>Mon, 26 Sep 2022 00:00:00 +0000</pubDate><guid>https://secretcoder.org/2022/09/hyperledger-fabric-deployment-how-we-aced-it-from-testing-to-production/</guid><description>&lt;p>You’ve set up your Dev environment, developed your chaincode, designed some decent looking UIs, and passed all your tests to get everything up &amp;amp; running locally. Now what? Is that everything you ever wanted? Of course not! You shouldn’t be satisfied at all. You need to do more. Your next target ought to be to scale the network and stimulate a production-level environment. Added to that, you should also focus on adding multiple orderers, organizations with their own peers and CAs, and try testing it on multiple machines.&lt;/p></description></item><item><title>Ethereum 2.0 Merging</title><link>https://secretcoder.org/2022/09/ethereum-2.0-merging/</link><pubDate>Wed, 21 Sep 2022 10:18:00 +0000</pubDate><guid>https://secretcoder.org/2022/09/ethereum-2.0-merging/</guid><description>&lt;ul>
+&lt;li>Ethereum is moving to proof-of-stake! The transition, known as The Merge, must first be activated on the Beacon Chain with the Bellatrix upgrade. After this, the proof-of-work chain will migrate to proof-of-stake upon hitting a specific Total Difficulty value.&lt;/li>
+&lt;li>The Bellatrix upgrade is scheduled for epoch 144896 on the Beacon Chain &amp;ndash; 11:34:47am UTC on Sept 6, 2022.&lt;/li>
+&lt;li>The Terminal Total Difficulty value triggering The Merge is 58750000000000000000000, expected between Sept 10-20, 2022.&lt;/li>
+&lt;li>Note: as announced earlier, the Kiln testnet is being sunset. Operators will shut down on September 6, 2022.&lt;/li>
+&lt;/ul>
+&lt;p>&lt;img src="https://raw.githubusercontent.com/bhaskarvilles/chirpy-images/8b6e67b1083da49817878039a3d040194fbdbebd/commons/https___storage.googleap_ethereum.jpeg" alt="alt">&lt;/p></description></item></channel></rss>

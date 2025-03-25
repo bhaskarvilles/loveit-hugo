@@ -1,22 +1,5 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>0 Day on Ram&#39;s Website</title>
-    <link>//localhost:1313/categories/0-day/</link>
-    <description>Recent content in 0 Day on Ram&#39;s Website</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <managingEditor>bhaskarvilles@duck.com (Bhaskar)</managingEditor>
-    <webMaster>bhaskarvilles@duck.com (Bhaskar)</webMaster>
-    <copyright>Bhaskar</copyright>
-    <lastBuildDate>Fri, 07 Apr 2023 01:07:21 +0530</lastBuildDate>
-    <atom:link href="//localhost:1313/categories/0-day/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>New WhatsApp 0-Day Bug Let Hackers Execute a Code &amp; Take Full App Control Remotely</title>
-      <link>//localhost:1313/2022-09-27-new-whatsapp-0-day-bug-can-access-whatsapp-remotely/</link>
-      <pubDate>Tue, 27 Sep 2022 00:00:00 +0000</pubDate><author>bhaskarvilles@duck.com (Bhaskar)</author>
-      <guid>//localhost:1313/2022-09-27-new-whatsapp-0-day-bug-can-access-whatsapp-remotely/</guid>
-      <description>WhatsApp silently fixed two critical zero-day vulnerabilities that affect both Android &amp;amp; iOS versions allowing attackers to execute an arbitrary code remotely.&#xA;Facebook-owned messenger WhatsApp is one of the Top-ranked Messenger apps with more than Billion users around the world in both Android and iPhone.&#xA;Both vulnerabilities are marked under “critical” severity with a CVE Score of 10/10 and found by the WhatsApp internal security Team.&#xA;Simplifying these following vulnerabilities, Whatsapp could cause your device to be hacked by receiving a Video File or When on a Video call.</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>0 Day on Ram's Website</title><link>https://secretcoder.org/categories/0-day/</link><description>Recent content in 0 Day on Ram's Website</description><generator>Hugo</generator><language>en</language><lastBuildDate>Tue, 27 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://secretcoder.org/categories/0-day/index.xml" rel="self" type="application/rss+xml"/><item><title>New WhatsApp 0-Day Bug Let Hackers Execute a Code &amp; Take Full App Control Remotely</title><link>https://secretcoder.org/2022/09/new-whatsapp-0-day-bug-let-hackers-execute-a-code-take-full-app-control-remotely/</link><pubDate>Tue, 27 Sep 2022 00:00:00 +0000</pubDate><guid>https://secretcoder.org/2022/09/new-whatsapp-0-day-bug-let-hackers-execute-a-code-take-full-app-control-remotely/</guid><description>&lt;p>WhatsApp silently fixed two critical zero-day vulnerabilities that affect both Android &amp;amp; iOS versions allowing attackers to execute an arbitrary code remotely.&lt;/p>
+&lt;p>&lt;img src="https://i0.wp.com/blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyqCX58BbzMt4b6AorcIFMeo51MA8QTbY-UKNN2-xETgunEOyZMXjIZx95yi9szSSQPXA6PuDhvpqutIJ2AHIsmtrokxs6tt7_XuZugAnDq132gz7MCW-tsYQTXXNUzVhd7pD4d01D821IcyCN321Kko15fmlssSZQBAq89z6lw4yRej_6EPwdqwBzNQ/s16000/WhatsApp%200-Day%20Bug.png" alt="alt">&lt;/p>
+&lt;p>Facebook-owned messenger WhatsApp is one of the Top-ranked Messenger apps with more than Billion users around the world in both Android and iPhone.&lt;/p>
+&lt;p>Both vulnerabilities are marked under “critical” severity with a CVE Score of 10/10 and found by the WhatsApp internal security Team.&lt;/p>
+&lt;p>Simplifying these following vulnerabilities, Whatsapp could cause your device to be hacked by receiving a Video File or When on a Video call.&lt;/p></description></item></channel></rss>

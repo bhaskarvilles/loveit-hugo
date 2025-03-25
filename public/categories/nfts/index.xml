@@ -1,22 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>NFTs on Ram&#39;s Website</title>
-    <link>//localhost:1313/categories/nfts/</link>
-    <description>Recent content in NFTs on Ram&#39;s Website</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <managingEditor>bhaskarvilles@duck.com (Bhaskar)</managingEditor>
-    <webMaster>bhaskarvilles@duck.com (Bhaskar)</webMaster>
-    <copyright>Bhaskar</copyright>
-    <lastBuildDate>Fri, 07 Apr 2023 01:07:21 +0530</lastBuildDate>
-    <atom:link href="//localhost:1313/categories/nfts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Layer 1 for Artificial Intelligence</title>
-      <link>//localhost:1313/2023-03-03-layer-1-for-artificial-intelligence/</link>
-      <pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate><author>bhaskarvilles@duck.com (Bhaskar)</author>
-      <guid>//localhost:1313/2023-03-03-layer-1-for-artificial-intelligence/</guid>
-      <description>Layer 1 for Artificial Intelligence Exploring the Importance of AI-Generated Images in the Metaverse The metaverse, a virtual world where users interact with one another and digital objects in a shared environment, is rapidly becoming a reality. As technology continues to advance, the ability to create realistic and immersive virtual experiences is becoming increasingly important. One of the key components of this is the use of AI-generated images as inputs. These images play a crucial role in creating detailed, realistic environments, characters, and objects that enhance the user experience in the metaverse.</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>NFTs on Ram's Website</title><link>https://secretcoder.org/categories/nfts/</link><description>Recent content in NFTs on Ram's Website</description><generator>Hugo</generator><language>en</language><lastBuildDate>Fri, 03 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://secretcoder.org/categories/nfts/index.xml" rel="self" type="application/rss+xml"/><item><title>Layer 1 for Artificial Intelligence</title><link>https://secretcoder.org/2023/03/layer-1-for-artificial-intelligence/</link><pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate><guid>https://secretcoder.org/2023/03/layer-1-for-artificial-intelligence/</guid><description>&lt;h1 id="layer-1-for-artificial-intelligence">Layer 1 for Artificial Intelligence&lt;/h1>
+&lt;p>&lt;img src="https://openfabric.ai/media/2023/01/AI_NFts.png" alt="alt">&lt;/p>
+&lt;h2 id="exploring-the-importance-of-ai-generated-images-in-the-metaverse">Exploring the Importance of AI-Generated Images in the Metaverse&lt;/h2>
+&lt;p>The metaverse, a virtual world where users interact with one another and digital objects in a shared environment, is rapidly becoming a reality. As technology continues to advance, the ability to create realistic and immersive virtual experiences is becoming increasingly important. One of the key components of this is the use of AI-generated images as inputs. These images play a crucial role in creating detailed, realistic environments, characters, and objects that enhance the user experience in the metaverse.&lt;/p></description></item></channel></rss>

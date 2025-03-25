@@ -1,22 +1,15 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Script on Ram&#39;s Website</title>
-    <link>//localhost:1313/categories/script/</link>
-    <description>Recent content in Script on Ram&#39;s Website</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <managingEditor>bhaskarvilles@duck.com (Bhaskar)</managingEditor>
-    <webMaster>bhaskarvilles@duck.com (Bhaskar)</webMaster>
-    <copyright>Bhaskar</copyright>
-    <lastBuildDate>Fri, 07 Apr 2023 01:07:21 +0530</lastBuildDate>
-    <atom:link href="//localhost:1313/categories/script/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Trendlines With Breaks Script</title>
-      <link>//localhost:1313/2022-10-08-trend-lines-with-breaks/</link>
-      <pubDate>Sat, 08 Oct 2022 00:00:00 +0000</pubDate><author>bhaskarvilles@duck.com (Bhaskar)</author>
-      <guid>//localhost:1313/2022-10-08-trend-lines-with-breaks/</guid>
-      <description>Trendlines With Breaks [Bhaskarvilles] by bhaskarvilles on TradingView.com&#xA;Chart As Image https://www.tradingview.com/i/d3HaLDmE/&#xA;Link to the Chart https://www.tradingview.com/script/d3HaLDmE-Trendlines-With-Breaks-Bhaskarvilles/</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Script on Ram's Website</title><link>https://secretcoder.org/categories/script/</link><description>Recent content in Script on Ram's Website</description><generator>Hugo</generator><language>en</language><lastBuildDate>Sat, 08 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://secretcoder.org/categories/script/index.xml" rel="self" type="application/rss+xml"/><item><title>Trendlines With Breaks Script</title><link>https://secretcoder.org/2022/10/trendlines-with-breaks-script/</link><pubDate>Sat, 08 Oct 2022 00:00:00 +0000</pubDate><guid>https://secretcoder.org/2022/10/trendlines-with-breaks-script/</guid><description>&lt;!-- TradingView Chart BEGIN -->
+&lt;script type="text/javascript" src="https://s3.tradingview.com/tv.js">&lt;/script>
+&lt;script type="text/javascript">
+var tradingview_embed_options = {};
+tradingview_embed_options.width = '640';
+tradingview_embed_options.height = '400';
+tradingview_embed_options.chart = 'd3HaLDmE';
+new TradingView.chart(tradingview_embed_options);
+&lt;/script>
+&lt;p>&lt;a href="https://www.tradingview.com/script/d3HaLDmE-Trendlines-With-Breaks-Bhaskarvilles/">Trendlines With Breaks [Bhaskarvilles]&lt;/a> by &lt;a href="https://www.tradingview.com/u/bhaskarvilles/">bhaskarvilles&lt;/a> on &lt;a href="https://www.tradingview.com/">TradingView.com&lt;/a>&lt;/p>
+&lt;!-- TradingView Chart END -->
+&lt;h2 id="chart-as-image">Chart As Image&lt;/h2>
+&lt;p>&lt;a href="https://www.tradingview.com/i/d3HaLDmE/">https://www.tradingview.com/i/d3HaLDmE/&lt;/a>&lt;/p>
+&lt;h2 id="link-to-the-chart">Link to the Chart&lt;/h2>
+&lt;p>&lt;a href="https://www.tradingview.com/script/d3HaLDmE-Trendlines-With-Breaks-Bhaskarvilles/">https://www.tradingview.com/script/d3HaLDmE-Trendlines-With-Breaks-Bhaskarvilles/&lt;/a>&lt;/p></description></item></channel></rss>

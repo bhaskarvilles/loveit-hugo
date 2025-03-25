@@ -1,22 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Trading on Ram&#39;s Website</title>
-    <link>//localhost:1313/categories/trading/</link>
-    <description>Recent content in Trading on Ram&#39;s Website</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <managingEditor>bhaskarvilles@duck.com (Bhaskar)</managingEditor>
-    <webMaster>bhaskarvilles@duck.com (Bhaskar)</webMaster>
-    <copyright>Bhaskar</copyright>
-    <lastBuildDate>Fri, 07 Apr 2023 01:07:21 +0530</lastBuildDate>
-    <atom:link href="//localhost:1313/categories/trading/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Trendlines With Breaks Script</title>
-      <link>//localhost:1313/2022-10-08-trend-lines-with-breaks/</link>
-      <pubDate>Sat, 08 Oct 2022 00:00:00 +0000</pubDate><author>bhaskarvilles@duck.com (Bhaskar)</author>
-      <guid>//localhost:1313/2022-10-08-trend-lines-with-breaks/</guid>
-      <description>Trendlines With Breaks [Bhaskarvilles] by bhaskarvilles on TradingView.com&#xA;Chart As Image https://www.tradingview.com/i/d3HaLDmE/&#xA;Link to the Chart https://www.tradingview.com/script/d3HaLDmE-Trendlines-With-Breaks-Bhaskarvilles/</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Trading on Ram's Website</title><link>https://secretcoder.org/categories/trading/</link><description>Recent content in Trading on Ram's Website</description><generator>Hugo</generator><language>en</language><lastBuildDate>Sat, 05 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://secretcoder.org/categories/trading/index.xml" rel="self" type="application/rss+xml"/><item><title>From $20 to $52,000 in 30 Days: Exploring the 20 Pips a Day Challenge Strategy</title><link>https://secretcoder.org/2024/10/from-20-to-52000-in-30-days-exploring-the-20-pips-a-day-challenge-strategy/</link><pubDate>Sat, 05 Oct 2024 00:00:00 +0000</pubDate><guid>https://secretcoder.org/2024/10/from-20-to-52000-in-30-days-exploring-the-20-pips-a-day-challenge-strategy/</guid><description>&lt;h2 id="from-20-to-52000-in-30-days-exploring-the-20-pips-a-day-challenge-strategy">&lt;strong>From $20 to $52,000 in 30 Days: Exploring the 20 Pips a Day Challenge Strategy&lt;/strong>&lt;/h2>
+&lt;p>Have you ever wondered if it’s possible to turn $20 into over $50,000 in just 30 days of trading? It sounds like a dream, right? Well, it might be possible with a fast account growth strategy known as the &lt;strong>20 Pips a Day Challenge&lt;/strong>.&lt;/p>
+&lt;p>&lt;img src="https://img.freepik.com/free-vector/forex-trading-chart-background-exchange-digital-money-fund_1017-44910.jpg" alt="Trading Challenge">&lt;/p>
+&lt;p>This strategy was shared with me by a Patreon supporter, and after testing it thoroughly, I can say it’s one of the most intriguing approaches I’ve come across in my 8 years of trading. With the help of 1,000 trading bots using this exact strategy, I analyzed the performance and viability of this challenge. Here’s a detailed breakdown of the strategy, how it works, and the results I uncovered.&lt;/p></description></item><item><title>The Remarkable Journey of a Japanese Trader: From $15K to $150 Million</title><link>https://secretcoder.org/2024/10/the-remarkable-journey-of-a-japanese-trader-from-15k-to-150-million/</link><pubDate>Fri, 04 Oct 2024 00:00:00 +0000</pubDate><guid>https://secretcoder.org/2024/10/the-remarkable-journey-of-a-japanese-trader-from-15k-to-150-million/</guid><description>&lt;h1 id="the-remarkable-journey-of-a-japanese-trader-from-15k-to-150-million">The Remarkable Journey of a Japanese Trader: From $15K to $150 Million&lt;/h1>
+&lt;p>In the world of high-stakes trading, few stories capture the imagination quite like that of a Japanese trader known as BNF. His journey from starting with $15,000 to amassing a fortune of over $150 million is nothing short of legendary. The most astonishing part of his story? Making $17 million in under 10 minutes due to a mispricing error.&lt;/p></description></item><item><title>Trendlines With Breaks Script</title><link>https://secretcoder.org/2022/10/trendlines-with-breaks-script/</link><pubDate>Sat, 08 Oct 2022 00:00:00 +0000</pubDate><guid>https://secretcoder.org/2022/10/trendlines-with-breaks-script/</guid><description>&lt;!-- TradingView Chart BEGIN -->
+&lt;script type="text/javascript" src="https://s3.tradingview.com/tv.js">&lt;/script>
+&lt;script type="text/javascript">
+var tradingview_embed_options = {};
+tradingview_embed_options.width = '640';
+tradingview_embed_options.height = '400';
+tradingview_embed_options.chart = 'd3HaLDmE';
+new TradingView.chart(tradingview_embed_options);
+&lt;/script>
+&lt;p>&lt;a href="https://www.tradingview.com/script/d3HaLDmE-Trendlines-With-Breaks-Bhaskarvilles/">Trendlines With Breaks [Bhaskarvilles]&lt;/a> by &lt;a href="https://www.tradingview.com/u/bhaskarvilles/">bhaskarvilles&lt;/a> on &lt;a href="https://www.tradingview.com/">TradingView.com&lt;/a>&lt;/p>
+&lt;!-- TradingView Chart END -->
+&lt;h2 id="chart-as-image">Chart As Image&lt;/h2>
+&lt;p>&lt;a href="https://www.tradingview.com/i/d3HaLDmE/">https://www.tradingview.com/i/d3HaLDmE/&lt;/a>&lt;/p>
+&lt;h2 id="link-to-the-chart">Link to the Chart&lt;/h2>
+&lt;p>&lt;a href="https://www.tradingview.com/script/d3HaLDmE-Trendlines-With-Breaks-Bhaskarvilles/">https://www.tradingview.com/script/d3HaLDmE-Trendlines-With-Breaks-Bhaskarvilles/&lt;/a>&lt;/p></description></item></channel></rss>
