@@ -1,3 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>NLP on Ram's Website</title><link>https://secretcoder.org/categories/nlp/</link><description>Recent content in NLP on Ram's Website</description><generator>Hugo</generator><language>en</language><lastBuildDate>Fri, 19 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://secretcoder.org/categories/nlp/index.xml" rel="self" type="application/rss+xml"/><item><title>Designing Your Own Language Model with DeepFloyd AI</title><link>https://secretcoder.org/2023/05/designing-your-own-language-model-with-deepfloyd-ai/</link><pubDate>Fri, 19 May 2023 00:00:00 +0000</pubDate><guid>https://secretcoder.org/2023/05/designing-your-own-language-model-with-deepfloyd-ai/</guid><description>&lt;h1 id="designing-your-own-language-model-with-deepfloyd-ai">Designing Your Own Language Model with DeepFloyd AI&lt;/h1>
-&lt;p>Artificial Intelligence (AI) is indisputably transforming the landscape of virtually every industry, with Natural Language Processing (NLP) playing a significant role in this revolution. Language models, a primary component of NLP, are capable of understanding, generating, and interacting in human language. Today, we will embark on a journey to build our own language model using DeepFloyd AI, a state-of-the-art machine learning platform.
-&lt;img src="https://assets.forefront.ai/generated_images/12f68338-48f7-42ce-bd63-3babc6be5968-1684506464.jpg" alt="AI">&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NLP on Ram&#39;s Website</title>
+    <link>http://localhost:1313/categories/nlp/</link>
+    <description>Recent content in NLP on Ram&#39;s Website</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 19 May 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/nlp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Designing Your Own Language Model with DeepFloyd AI</title>
+      <link>http://localhost:1313/2023/05/designing-your-own-language-model-with-deepfloyd-ai/</link>
+      <pubDate>Fri, 19 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2023/05/designing-your-own-language-model-with-deepfloyd-ai/</guid>
+      <description>&lt;h1 id=&#34;designing-your-own-language-model-with-deepfloyd-ai&#34;&gt;Designing Your Own Language Model with DeepFloyd AI&lt;/h1&gt;&#xA;&lt;p&gt;Artificial Intelligence (AI) is indisputably transforming the landscape of virtually every industry, with Natural Language Processing (NLP) playing a significant role in this revolution. Language models, a primary component of NLP, are capable of understanding, generating, and interacting in human language. Today, we will embark on a journey to build our own language model using DeepFloyd AI, a state-of-the-art machine learning platform.&#xA;&lt;img src=&#34;https://assets.forefront.ai/generated_images/12f68338-48f7-42ce-bd63-3babc6be5968-1684506464.jpg&#34; alt=&#34;AI&#34;&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

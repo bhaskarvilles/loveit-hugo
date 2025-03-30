@@ -1,21 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Reconnaissance on Ram's Website</title><link>https://secretcoder.org/categories/reconnaissance/</link><description>Recent content in Reconnaissance on Ram's Website</description><generator>Hugo</generator><language>en</language><lastBuildDate>Sat, 15 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://secretcoder.org/categories/reconnaissance/index.xml" rel="self" type="application/rss+xml"/><item><title>Tools for reconnaissance and footprinting</title><link>https://secretcoder.org/2023/04/tools-for-reconnaissance-and-footprinting/</link><pubDate>Sat, 15 Apr 2023 00:00:00 +0000</pubDate><guid>https://secretcoder.org/2023/04/tools-for-reconnaissance-and-footprinting/</guid><description>&lt;h1 id="recon-tools">Recon Tools&lt;/h1>
-&lt;p>A compiled list of tools for reconnaissance and footprinting.&lt;/p>
-&lt;h2 id="contents">Contents&lt;/h2>
-&lt;ul>
-&lt;li>
-&lt;p>&lt;a href="#Domain-and-Network-Recon">Domain and Network Recon&lt;/a> - Tools for grabbing network related information.&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;a href="#Personal-Information-and-Email-Footprinting">Personal Information and Email Footprinting&lt;/a> - Tools for finding personal information such as social networks and emails as well as footprinting tools for mail.&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;a href="#Hacking-with-Google">Hacking with Google&lt;/a> - Use Google commands to your advantage&lt;/p>
-&lt;/li>
-&lt;/ul>
-&lt;h2 id="domain-and-network-recon">Domain and Network Recon&lt;/h2>
-&lt;blockquote>
-&lt;p>Robust tools for gathering domain and network information.&lt;/p>&lt;/blockquote>
-&lt;h3 id="programs-and-web-applications">Programs and Web Applications&lt;/h3>
-&lt;ul>
-&lt;li>
-&lt;p>&lt;a href="https://arin.net/about/welcom/region">ARIN Whois/RDAP&lt;/a> - A public resource that allows a user to retrieve information about IP number resources, organizations, and Points of Contact registered with ARIN.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reconnaissance on Ram&#39;s Website</title>
+    <link>http://localhost:1313/categories/reconnaissance/</link>
+    <description>Recent content in Reconnaissance on Ram&#39;s Website</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 15 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/reconnaissance/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tools for reconnaissance and footprinting</title>
+      <link>http://localhost:1313/2023/04/tools-for-reconnaissance-and-footprinting/</link>
+      <pubDate>Sat, 15 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2023/04/tools-for-reconnaissance-and-footprinting/</guid>
+      <description>&lt;h1 id=&#34;recon-tools&#34;&gt;Recon Tools&lt;/h1&gt;&#xA;&lt;p&gt;A compiled list of tools for reconnaissance and footprinting.&lt;/p&gt;&#xA;&lt;h2 id=&#34;contents&#34;&gt;Contents&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;#Domain-and-Network-Recon&#34;&gt;Domain and Network Recon&lt;/a&gt; - Tools for grabbing network related information.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;#Personal-Information-and-Email-Footprinting&#34;&gt;Personal Information and Email Footprinting&lt;/a&gt; - Tools for finding personal information such as social networks and emails as well as footprinting tools for mail.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;#Hacking-with-Google&#34;&gt;Hacking with Google&lt;/a&gt; - Use Google commands to your advantage&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;domain-and-network-recon&#34;&gt;Domain and Network Recon&lt;/h2&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Robust tools for gathering domain and network information.&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;h3 id=&#34;programs-and-web-applications&#34;&gt;Programs and Web Applications&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://arin.net/about/welcom/region&#34;&gt;ARIN Whois/RDAP&lt;/a&gt; - A public resource that allows a user to retrieve information about IP number resources, organizations, and Points of Contact registered with ARIN.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

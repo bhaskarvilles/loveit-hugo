@@ -1,2 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>First Post on Ram's Website</title><link>https://secretcoder.org/categories/first-post/</link><description>Recent content in First Post on Ram's Website</description><generator>Hugo</generator><language>en</language><lastBuildDate>Tue, 06 Sep 2022 10:30:00 +0000</lastBuildDate><atom:link href="https://secretcoder.org/categories/first-post/index.xml" rel="self" type="application/rss+xml"/><item><title>Digital transformation - 4 key building blocks</title><link>https://secretcoder.org/2022/09/digital-transformation-4-key-building-blocks/</link><pubDate>Tue, 06 Sep 2022 10:30:00 +0000</pubDate><guid>https://secretcoder.org/2022/09/digital-transformation-4-key-building-blocks/</guid><description>&lt;h2 id="here-are-four-foundational-elements-on-which-to-build-your-digital-transformation-strategy--plus-a-few-barriers-to-avoid">Here are four foundational elements on which to build your digital transformation strategy – plus a few barriers to avoid&lt;/h2>
-&lt;p>Digital transformation isn’t just about building great websites and mobile applications. It isn’t simply about providing a better user experience. While these are certainly critical enablers for success, truly reimagining how a business operates to thrive in a digital world requires much more – and skipping or failing to prioritize the “more” is where many organizations fall short of meeting their digital transformation goals.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>First Post on Ram&#39;s Website</title>
+    <link>http://localhost:1313/categories/first-post/</link>
+    <description>Recent content in First Post on Ram&#39;s Website</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 06 Sep 2022 10:30:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/first-post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Digital transformation - 4 key building blocks</title>
+      <link>http://localhost:1313/2022/09/digital-transformation-4-key-building-blocks/</link>
+      <pubDate>Tue, 06 Sep 2022 10:30:00 +0000</pubDate>
+      <guid>http://localhost:1313/2022/09/digital-transformation-4-key-building-blocks/</guid>
+      <description>&lt;h2 id=&#34;here-are-four-foundational-elements-on-which-to-build-your-digital-transformation-strategy--plus-a-few-barriers-to-avoid&#34;&gt;Here are four foundational elements on which to build your digital transformation strategy – plus a few barriers to avoid&lt;/h2&gt;&#xA;&lt;p&gt;Digital transformation isn’t just about building great websites and mobile applications. It isn’t simply about providing a better user experience. While these are certainly critical enablers for success, truly reimagining how a business operates to thrive in a digital world requires much more – and skipping or failing to prioritize the “more” is where many organizations fall short of meeting their digital transformation goals.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

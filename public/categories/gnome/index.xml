@@ -1,1 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gnome on Ram's Website</title><link>https://secretcoder.org/categories/gnome/</link><description>Recent content in Gnome on Ram's Website</description><generator>Hugo</generator><language>en</language><lastBuildDate>Wed, 12 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://secretcoder.org/categories/gnome/index.xml" rel="self" type="application/rss+xml"/><item><title>GNOME 43 Endless Part In Its Creation</title><link>https://secretcoder.org/2022/10/gnome-43-endless-part-in-its-creation/</link><pubDate>Wed, 12 Oct 2022 00:00:00 +0000</pubDate><guid>https://secretcoder.org/2022/10/gnome-43-endless-part-in-its-creation/</guid><description>&lt;p>GNOME 43 is out, and as always there is lots of good stuff in there. (Me circa 2014 would be delighted to see the continuous improvements in GNOME’s built-in RDP support.) During this cycle, the OS team at Endless OS Foundation spent a big chunk of our time on other initiatives, such as bringing Endless Key to more platforms and supporting the Endless Laptop programme. Even so, we made some notable contributions to this GNOME release. Here are a few of them!&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gnome on Ram&#39;s Website</title>
+    <link>http://localhost:1313/categories/gnome/</link>
+    <description>Recent content in Gnome on Ram&#39;s Website</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 12 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/gnome/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GNOME 43 Endless Part In Its Creation</title>
+      <link>http://localhost:1313/2022/10/gnome-43-endless-part-in-its-creation/</link>
+      <pubDate>Wed, 12 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2022/10/gnome-43-endless-part-in-its-creation/</guid>
+      <description>&lt;p&gt;GNOME 43 is out, and as always there is lots of good stuff in there. (Me circa 2014 would be delighted to see the continuous improvements in GNOME’s built-in RDP support.) During this cycle, the OS team at Endless OS Foundation spent a big chunk of our time on other initiatives, such as bringing Endless Key to more platforms and supporting the Endless Laptop programme. Even so, we made some notable contributions to this GNOME release. Here are a few of them!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

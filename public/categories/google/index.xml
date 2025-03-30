@@ -1,16 +1,33 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Google on Ram's Website</title><link>https://secretcoder.org/categories/google/</link><description>Recent content in Google on Ram's Website</description><generator>Hugo</generator><language>en</language><lastBuildDate>Tue, 16 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://secretcoder.org/categories/google/index.xml" rel="self" type="application/rss+xml"/><item><title>Google Bard: A Large Language Model Chatbot</title><link>https://secretcoder.org/2023/05/google-bard-a-large-language-model-chatbot/</link><pubDate>Tue, 16 May 2023 00:00:00 +0000</pubDate><guid>https://secretcoder.org/2023/05/google-bard-a-large-language-model-chatbot/</guid><description>&lt;h2 id="what-is-google-bard">What is Google Bard?&lt;/h2>
-&lt;p>Google Bard is a large language model (LLM) chatbot developed by Google AI. It is trained on a massive dataset of text and code, and can generate text, translate languages, write different kinds of creative content, and answer your questions in an informative way. Bard is still under development, but it has learned to perform many kinds of tasks, including&lt;/p>
-&lt;ul>
-&lt;li>I will try my best to follow your instructions and complete your requests thoughtfully.&lt;/li>
-&lt;li>I will use my knowledge to answer your questions in a comprehensive and informative way, even if they are open ended, challenging, or strange.&lt;/li>
-&lt;li>I will generate different creative text formats of text content, like poems, code, scripts, musical pieces, email, letters, etc. I will try my best to fulfill all your requirements.&lt;/li>
-&lt;/ul>
-&lt;h2 id="how-to-use-google-bard-in-the-real-world">How to Use Google Bard in the Real World&lt;/h2>
-&lt;p>Google Bard can be used in a variety of ways in the real world. Here are a few examples:&lt;/p></description></item><item><title>Google wants to become a key infrastructure provider for Web3</title><link>https://secretcoder.org/2022/10/google-wants-to-become-a-key-infrastructure-provider-for-web3/</link><pubDate>Sun, 30 Oct 2022 00:00:00 +0000</pubDate><guid>https://secretcoder.org/2022/10/google-wants-to-become-a-key-infrastructure-provider-for-web3/</guid><description>&lt;h1 id="google-launches-cloud-node-engine-for-ethereum-developers">Google Launches Cloud Node Engine For Ethereum Developers&lt;/h1>
-&lt;p>Google is launching a cloud-based node engine service for Ethereum developers and projects, the tech company announced Thursday.&lt;/p>
-&lt;p>Officially called Blockchain Node Engine, Google’s offering is a “fully managed service,” meaning customers won’t have to hire their own teams to maintain or monitor their nodes. Instead, Google says it “actively monitors the nodes and restarts them if anything goes wrong.”&lt;/p>
-&lt;p>The Blockchain Node Engine also includes various security features like Google’s Cloud Armor, which is designed to prevent denial-of-service (DDos) attacks that spam and slow down networks.&lt;/p></description></item><item><title>Google's new password less authentication technology</title><link>https://secretcoder.org/2022/10/googles-new-password-less-authentication-technology/</link><pubDate>Wed, 12 Oct 2022 00:00:00 +0000</pubDate><guid>https://secretcoder.org/2022/10/googles-new-password-less-authentication-technology/</guid><description>&lt;h1 id="google-rolling-out-passkey-passwordless-login-support-to-android-and-chrome">Google Rolling Out Passkey Passwordless Login Support to Android and Chrome&lt;/h1>
-&lt;p>&lt;img src="https://thehackernews.com/new-images/img/b/R29vZ2xl/AVvXsEigP4kNVXusoxtj-wk5GeI6xhh35bNbr78UBQVPz7STpEiye2petx9nDDVo87pS3J2OxNVyc8TC1rLUdSAT1V2z_xiawBgUsUlmqXSDCAH038SrP2Mo-hDfQlwp8luJShPB9P3PIzsNfStKo7PgGUTCDsODElL0TFKu1ZJQAJ3AZHiwR0BrSCNWm0jx/s728-e1000/login.jpg" alt="alt">&lt;/p>
-&lt;p>Google on Wednesday officially rolled out support for passkeys, the next-generation authentication standard, to both Android and Chrome.&lt;/p>
-&lt;p>&amp;ldquo;Passkeys are a significantly safer replacement for passwords and other phishable authentication factors,&amp;rdquo; the tech giant said. &amp;ldquo;They cannot be reused, don&amp;rsquo;t leak in server breaches, and protect users from phishing attacks.&amp;rdquo;&lt;/p>
-&lt;p>To that end, creating a passkey requires confirmation from the end-user about the account that will be used to log in to the online service, followed by using their biometric information or the device passcode.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Google on Ram&#39;s Website</title>
+    <link>http://localhost:1313/categories/google/</link>
+    <description>Recent content in Google on Ram&#39;s Website</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 16 May 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/google/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Google Bard: A Large Language Model Chatbot</title>
+      <link>http://localhost:1313/2023/05/google-bard-a-large-language-model-chatbot/</link>
+      <pubDate>Tue, 16 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2023/05/google-bard-a-large-language-model-chatbot/</guid>
+      <description>&lt;h2 id=&#34;what-is-google-bard&#34;&gt;What is Google Bard?&lt;/h2&gt;&#xA;&lt;p&gt;Google Bard is a large language model (LLM) chatbot developed by Google AI. It is trained on a massive dataset of text and code, and can generate text, translate languages, write different kinds of creative content, and answer your questions in an informative way. Bard is still under development, but it has learned to perform many kinds of tasks, including&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;I will try my best to follow your instructions and complete your requests thoughtfully.&lt;/li&gt;&#xA;&lt;li&gt;I will use my knowledge to answer your questions in a comprehensive and informative way, even if they are open ended, challenging, or strange.&lt;/li&gt;&#xA;&lt;li&gt;I will generate different creative text formats of text content, like poems, code, scripts, musical pieces, email, letters, etc. I will try my best to fulfill all your requirements.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;how-to-use-google-bard-in-the-real-world&#34;&gt;How to Use Google Bard in the Real World&lt;/h2&gt;&#xA;&lt;p&gt;Google Bard can be used in a variety of ways in the real world. Here are a few examples:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Google wants to become a key infrastructure provider for Web3</title>
+      <link>http://localhost:1313/2022/10/google-wants-to-become-a-key-infrastructure-provider-for-web3/</link>
+      <pubDate>Sun, 30 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2022/10/google-wants-to-become-a-key-infrastructure-provider-for-web3/</guid>
+      <description>&lt;h1 id=&#34;google-launches-cloud-node-engine-for-ethereum-developers&#34;&gt;Google Launches Cloud Node Engine For Ethereum Developers&lt;/h1&gt;&#xA;&lt;p&gt;Google is launching a cloud-based node engine service for Ethereum developers and projects, the tech company announced Thursday.&lt;/p&gt;&#xA;&lt;p&gt;Officially called Blockchain Node Engine, Google’s offering is a “fully managed service,” meaning customers won’t have to hire their own teams to maintain or monitor their nodes. Instead, Google says it “actively monitors the nodes and restarts them if anything goes wrong.”&lt;/p&gt;&#xA;&lt;p&gt;The Blockchain Node Engine also includes various security features like Google’s Cloud Armor, which is designed to prevent denial-of-service (DDos) attacks that spam and slow down networks.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Google&#39;s new password less authentication technology</title>
+      <link>http://localhost:1313/2022/10/googles-new-password-less-authentication-technology/</link>
+      <pubDate>Wed, 12 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2022/10/googles-new-password-less-authentication-technology/</guid>
+      <description>&lt;h1 id=&#34;google-rolling-out-passkey-passwordless-login-support-to-android-and-chrome&#34;&gt;Google Rolling Out Passkey Passwordless Login Support to Android and Chrome&lt;/h1&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://thehackernews.com/new-images/img/b/R29vZ2xl/AVvXsEigP4kNVXusoxtj-wk5GeI6xhh35bNbr78UBQVPz7STpEiye2petx9nDDVo87pS3J2OxNVyc8TC1rLUdSAT1V2z_xiawBgUsUlmqXSDCAH038SrP2Mo-hDfQlwp8luJShPB9P3PIzsNfStKo7PgGUTCDsODElL0TFKu1ZJQAJ3AZHiwR0BrSCNWm0jx/s728-e1000/login.jpg&#34; alt=&#34;alt&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Google on Wednesday officially rolled out support for passkeys, the next-generation authentication standard, to both Android and Chrome.&lt;/p&gt;&#xA;&lt;p&gt;&amp;ldquo;Passkeys are a significantly safer replacement for passwords and other phishable authentication factors,&amp;rdquo; the tech giant said. &amp;ldquo;They cannot be reused, don&amp;rsquo;t leak in server breaches, and protect users from phishing attacks.&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;To that end, creating a passkey requires confirmation from the end-user about the account that will be used to log in to the online service, followed by using their biometric information or the device passcode.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,5 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GPT on Ram's Website</title><link>https://secretcoder.org/categories/gpt/</link><description>Recent content in GPT on Ram's Website</description><generator>Hugo</generator><language>en</language><lastBuildDate>Mon, 15 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://secretcoder.org/categories/gpt/index.xml" rel="self" type="application/rss+xml"/><item><title>Zero Knowledge Protocols (ZK)</title><link>https://secretcoder.org/2024/07/zero-knowledge-protocols-zk/</link><pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate><guid>https://secretcoder.org/2024/07/zero-knowledge-protocols-zk/</guid><description>&lt;h2 id="understanding-zero-knowledge-protocols">Understanding Zero-Knowledge Protocols&lt;/h2>
-&lt;p>Zero-knowledge protocols are fascinating cryptographic systems that allow one party (the prover) to prove to another party (the verifier) that a given statement is true, without conveying any information apart from the fact that the statement is indeed true. This can have profound implications for privacy and security in digital communications and transactions.&lt;/p>
-&lt;h3 id="what-are-zero-knowledge-proofs">What are Zero-Knowledge Proofs?&lt;/h3>
-&lt;p>Zero-knowledge proofs (ZKPs) are a method by which one party can prove to another that they know a value x, without conveying any information apart from the fact that they know the value x. The essence of ZKPs lies in the ability to verify the truthfulness of an assertion without revealing anything else about the underlying data.&lt;/p></description></item><item><title>Advanced Digital Marketing: Integrating AI, GPTs, and Blockchain Technologies for and secure record of ad impressions and clicks.</title><link>https://secretcoder.org/2023/06/advanced-digital-marketing-integrating-ai-gpts-and-blockchain-technologies-for-and-secure-record-of-ad-impressions-and-clicks./</link><pubDate>Wed, 07 Jun 2023 00:00:00 +0000</pubDate><guid>https://secretcoder.org/2023/06/advanced-digital-marketing-integrating-ai-gpts-and-blockchain-technologies-for-and-secure-record-of-ad-impressions-and-clicks./</guid><description>&lt;h1 id="introduction">Introduction&lt;/h1>
-&lt;p>The digital marketing landscape is constantly evolving, with new technologies and strategies emerging to help businesses stay ahead of the curve. In recent years, the integration of artificial intelligence (AI), generative pre-trained transformers (GPTs), and blockchain technologies has revolutionized the way marketers approach their campaigns. This comprehensive guide will delve into the technical aspects of these advanced digital marketing techniques, providing clear explanations and insights into how they can be effectively implemented.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GPT on Ram&#39;s Website</title>
+    <link>http://localhost:1313/categories/gpt/</link>
+    <description>Recent content in GPT on Ram&#39;s Website</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 15 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/gpt/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Zero Knowledge Protocols (ZK)</title>
+      <link>http://localhost:1313/2024/07/zero-knowledge-protocols-zk/</link>
+      <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2024/07/zero-knowledge-protocols-zk/</guid>
+      <description>&lt;h2 id=&#34;understanding-zero-knowledge-protocols&#34;&gt;Understanding Zero-Knowledge Protocols&lt;/h2&gt;&#xA;&lt;p&gt;Zero-knowledge protocols are fascinating cryptographic systems that allow one party (the prover) to prove to another party (the verifier) that a given statement is true, without conveying any information apart from the fact that the statement is indeed true. This can have profound implications for privacy and security in digital communications and transactions.&lt;/p&gt;&#xA;&lt;h3 id=&#34;what-are-zero-knowledge-proofs&#34;&gt;What are Zero-Knowledge Proofs?&lt;/h3&gt;&#xA;&lt;p&gt;Zero-knowledge proofs (ZKPs) are a method by which one party can prove to another that they know a value x, without conveying any information apart from the fact that they know the value x. The essence of ZKPs lies in the ability to verify the truthfulness of an assertion without revealing anything else about the underlying data.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Advanced Digital Marketing: Integrating AI, GPTs, and Blockchain Technologies for and secure record of ad impressions and clicks.</title>
+      <link>http://localhost:1313/2023/06/advanced-digital-marketing-integrating-ai-gpts-and-blockchain-technologies-for-and-secure-record-of-ad-impressions-and-clicks./</link>
+      <pubDate>Wed, 07 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2023/06/advanced-digital-marketing-integrating-ai-gpts-and-blockchain-technologies-for-and-secure-record-of-ad-impressions-and-clicks./</guid>
+      <description>&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;&#xA;&lt;p&gt;The digital marketing landscape is constantly evolving, with new technologies and strategies emerging to help businesses stay ahead of the curve. In recent years, the integration of artificial intelligence (AI), generative pre-trained transformers (GPTs), and blockchain technologies has revolutionized the way marketers approach their campaigns. This comprehensive guide will delve into the technical aspects of these advanced digital marketing techniques, providing clear explanations and insights into how they can be effectively implemented.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

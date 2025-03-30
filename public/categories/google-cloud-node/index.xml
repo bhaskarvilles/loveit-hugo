@@ -1,4 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Google Cloud Node on Ram's Website</title><link>https://secretcoder.org/categories/google-cloud-node/</link><description>Recent content in Google Cloud Node on Ram's Website</description><generator>Hugo</generator><language>en</language><lastBuildDate>Sun, 30 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://secretcoder.org/categories/google-cloud-node/index.xml" rel="self" type="application/rss+xml"/><item><title>Google wants to become a key infrastructure provider for Web3</title><link>https://secretcoder.org/2022/10/google-wants-to-become-a-key-infrastructure-provider-for-web3/</link><pubDate>Sun, 30 Oct 2022 00:00:00 +0000</pubDate><guid>https://secretcoder.org/2022/10/google-wants-to-become-a-key-infrastructure-provider-for-web3/</guid><description>&lt;h1 id="google-launches-cloud-node-engine-for-ethereum-developers">Google Launches Cloud Node Engine For Ethereum Developers&lt;/h1>
-&lt;p>Google is launching a cloud-based node engine service for Ethereum developers and projects, the tech company announced Thursday.&lt;/p>
-&lt;p>Officially called Blockchain Node Engine, Google’s offering is a “fully managed service,” meaning customers won’t have to hire their own teams to maintain or monitor their nodes. Instead, Google says it “actively monitors the nodes and restarts them if anything goes wrong.”&lt;/p>
-&lt;p>The Blockchain Node Engine also includes various security features like Google’s Cloud Armor, which is designed to prevent denial-of-service (DDos) attacks that spam and slow down networks.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Google Cloud Node on Ram&#39;s Website</title>
+    <link>http://localhost:1313/categories/google-cloud-node/</link>
+    <description>Recent content in Google Cloud Node on Ram&#39;s Website</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 30 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/google-cloud-node/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Google wants to become a key infrastructure provider for Web3</title>
+      <link>http://localhost:1313/2022/10/google-wants-to-become-a-key-infrastructure-provider-for-web3/</link>
+      <pubDate>Sun, 30 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2022/10/google-wants-to-become-a-key-infrastructure-provider-for-web3/</guid>
+      <description>&lt;h1 id=&#34;google-launches-cloud-node-engine-for-ethereum-developers&#34;&gt;Google Launches Cloud Node Engine For Ethereum Developers&lt;/h1&gt;&#xA;&lt;p&gt;Google is launching a cloud-based node engine service for Ethereum developers and projects, the tech company announced Thursday.&lt;/p&gt;&#xA;&lt;p&gt;Officially called Blockchain Node Engine, Google’s offering is a “fully managed service,” meaning customers won’t have to hire their own teams to maintain or monitor their nodes. Instead, Google says it “actively monitors the nodes and restarts them if anything goes wrong.”&lt;/p&gt;&#xA;&lt;p&gt;The Blockchain Node Engine also includes various security features like Google’s Cloud Armor, which is designed to prevent denial-of-service (DDos) attacks that spam and slow down networks.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

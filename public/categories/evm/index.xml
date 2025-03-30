@@ -1,2 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>EVM on Ram's Website</title><link>https://secretcoder.org/categories/evm/</link><description>Recent content in EVM on Ram's Website</description><generator>Hugo</generator><language>en</language><lastBuildDate>Mon, 10 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://secretcoder.org/categories/evm/index.xml" rel="self" type="application/rss+xml"/><item><title>The Rise of ZK-EVMs: How Ethereum's Multi-Client Philosophy Enables Continued Decentralization</title><link>https://secretcoder.org/2023/04/the-rise-of-zk-evms-how-ethereums-multi-client-philosophy-enables-continued-decentralization/</link><pubDate>Mon, 10 Apr 2023 00:00:00 +0000</pubDate><guid>https://secretcoder.org/2023/04/the-rise-of-zk-evms-how-ethereums-multi-client-philosophy-enables-continued-decentralization/</guid><description>&lt;h2 id="my-thoughts-on-evms-multi-client-repository">My thoughts on EVMs Multi Client repository&lt;/h2>
-&lt;p>One important aspect of Ethereum&amp;rsquo;s security and decentralization is its multi-client philosophy. Instead of relying on a single reference client, Ethereum has a specification written in Python and multiple independent implementations of the spec called clients. Each node runs a consensus client to validate blocks and an execution client to check state transitions. Currently, no single client makes up more than two-thirds of either category. This ensures that bugs in any one client will not cripple the network.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>EVM on Ram&#39;s Website</title>
+    <link>http://localhost:1313/categories/evm/</link>
+    <description>Recent content in EVM on Ram&#39;s Website</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 10 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/evm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Rise of ZK-EVMs: How Ethereum&#39;s Multi-Client Philosophy Enables Continued Decentralization</title>
+      <link>http://localhost:1313/2023/04/the-rise-of-zk-evms-how-ethereums-multi-client-philosophy-enables-continued-decentralization/</link>
+      <pubDate>Mon, 10 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2023/04/the-rise-of-zk-evms-how-ethereums-multi-client-philosophy-enables-continued-decentralization/</guid>
+      <description>&lt;h2 id=&#34;my-thoughts-on-evms-multi-client-repository&#34;&gt;My thoughts on EVMs Multi Client repository&lt;/h2&gt;&#xA;&lt;p&gt;One important aspect of Ethereum&amp;rsquo;s security and decentralization is its multi-client philosophy. Instead of relying on a single reference client, Ethereum has a specification written in Python and multiple independent implementations of the spec called clients. Each node runs a consensus client to validate blocks and an execution client to check state transitions. Currently, no single client makes up more than two-thirds of either category. This ensures that bugs in any one client will not cripple the network.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

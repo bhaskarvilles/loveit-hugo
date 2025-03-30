@@ -1,4 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Linux on Ram's Website</title><link>https://secretcoder.org/categories/linux/</link><description>Recent content in Linux on Ram's Website</description><generator>Hugo</generator><language>en</language><lastBuildDate>Fri, 19 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://secretcoder.org/categories/linux/index.xml" rel="self" type="application/rss+xml"/><item><title>Resilience in Custom Linux Distributions: A Solution to Microsoft Windows Outages</title><link>https://secretcoder.org/2024/07/resilience-in-custom-linux-distributions-a-solution-to-microsoft-windows-outages/</link><pubDate>Fri, 19 Jul 2024 00:00:00 +0000</pubDate><guid>https://secretcoder.org/2024/07/resilience-in-custom-linux-distributions-a-solution-to-microsoft-windows-outages/</guid><description>&lt;p>Microsoft Windows outages can be disruptive and costly, underscoring the need for more resilient alternatives. Custom Linux distributions offer robust solutions, tailored to specific needs, reducing the risk of widespread system failures.&lt;/p>
-&lt;p>&lt;img src="https://images.moneycontrol.com/static-mcnews/2024/07/20240719092012_windows.jpg" alt="Blue Screen Of Death">&lt;/p>
-&lt;h3 id="the-impact-of-microsoft-windows-outages">The Impact of Microsoft Windows Outages&lt;/h3>
-&lt;p>Microsoft Windows is widely used across various sectors, from personal computing to enterprise environments. However, its popularity also makes it a prime target for cyberattacks and system failures. Recent outages have shown that even minor disruptions can lead to significant productivity losses, highlighting the need for more robust and adaptable operating systems.&lt;/p></description></item><item><title>GNOME 43 Endless Part In Its Creation</title><link>https://secretcoder.org/2022/10/gnome-43-endless-part-in-its-creation/</link><pubDate>Wed, 12 Oct 2022 00:00:00 +0000</pubDate><guid>https://secretcoder.org/2022/10/gnome-43-endless-part-in-its-creation/</guid><description>&lt;p>GNOME 43 is out, and as always there is lots of good stuff in there. (Me circa 2014 would be delighted to see the continuous improvements in GNOME’s built-in RDP support.) During this cycle, the OS team at Endless OS Foundation spent a big chunk of our time on other initiatives, such as bringing Endless Key to more platforms and supporting the Endless Laptop programme. Even so, we made some notable contributions to this GNOME release. Here are a few of them!&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Linux on Ram&#39;s Website</title>
+    <link>http://localhost:1313/categories/linux/</link>
+    <description>Recent content in Linux on Ram&#39;s Website</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 19 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/linux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Resilience in Custom Linux Distributions: A Solution to Microsoft Windows Outages</title>
+      <link>http://localhost:1313/2024/07/resilience-in-custom-linux-distributions-a-solution-to-microsoft-windows-outages/</link>
+      <pubDate>Fri, 19 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2024/07/resilience-in-custom-linux-distributions-a-solution-to-microsoft-windows-outages/</guid>
+      <description>&lt;p&gt;Microsoft Windows outages can be disruptive and costly, underscoring the need for more resilient alternatives. Custom Linux distributions offer robust solutions, tailored to specific needs, reducing the risk of widespread system failures.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://images.moneycontrol.com/static-mcnews/2024/07/20240719092012_windows.jpg&#34; alt=&#34;Blue Screen Of Death&#34;&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;the-impact-of-microsoft-windows-outages&#34;&gt;The Impact of Microsoft Windows Outages&lt;/h3&gt;&#xA;&lt;p&gt;Microsoft Windows is widely used across various sectors, from personal computing to enterprise environments. However, its popularity also makes it a prime target for cyberattacks and system failures. Recent outages have shown that even minor disruptions can lead to significant productivity losses, highlighting the need for more robust and adaptable operating systems.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>GNOME 43 Endless Part In Its Creation</title>
+      <link>http://localhost:1313/2022/10/gnome-43-endless-part-in-its-creation/</link>
+      <pubDate>Wed, 12 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2022/10/gnome-43-endless-part-in-its-creation/</guid>
+      <description>&lt;p&gt;GNOME 43 is out, and as always there is lots of good stuff in there. (Me circa 2014 would be delighted to see the continuous improvements in GNOME’s built-in RDP support.) During this cycle, the OS team at Endless OS Foundation spent a big chunk of our time on other initiatives, such as bringing Endless Key to more platforms and supporting the Endless Laptop programme. Even so, we made some notable contributions to this GNOME release. Here are a few of them!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,7 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Chat GPT on Ram's Website</title><link>https://secretcoder.org/categories/chat-gpt/</link><description>Recent content in Chat GPT on Ram's Website</description><generator>Hugo</generator><language>en</language><lastBuildDate>Wed, 26 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://secretcoder.org/categories/chat-gpt/index.xml" rel="self" type="application/rss+xml"/><item><title>The Evolution of AI: Introducing GPT-3.5 With Live Browsing</title><link>https://secretcoder.org/2023/04/the-evolution-of-ai-introducing-gpt-3.5-with-live-browsing/</link><pubDate>Wed, 26 Apr 2023 00:00:00 +0000</pubDate><guid>https://secretcoder.org/2023/04/the-evolution-of-ai-introducing-gpt-3.5-with-live-browsing/</guid><description>&lt;blockquote>
-&lt;p>The Next Frontier in Language Models - Accessing Real-time Information&lt;/p>&lt;/blockquote>
-&lt;h1 id="introduction">Introduction&lt;/h1>
-&lt;p>In recent years, artificial intelligence (AI) and natural language processing (NLP) have made significant advancements with the help of powerful models like GPT-3. Now, OpenAI is taking a leap forward with the latest innovation: GPT-3.5 With Browsing, a model that not only understands natural language but can also access live information from the internet.&lt;/p>
-&lt;p>&lt;img src="https://raw.githubusercontent.com/bhaskarvilles/loveit-hugo/master/images/GPTSCREENSHOT.jpg" alt="GPT-3.5-with-Browsing-Screenshot">&lt;/p>
-&lt;h2 id="1-what-is-gpt-35-with-browsing">1. &lt;em>What is GPT-3.5 With Browsing?&lt;/em>&lt;/h2>
-&lt;p>GPT-3.5 With Browsing is a groundbreaking language model that combines the power of GPT-3.5&amp;rsquo;s natural language understanding with the ability to browse the internet for real-time information. This means that the model can access and incorporate up-to-date information to provide better, more accurate responses.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chat GPT on Ram&#39;s Website</title>
+    <link>http://localhost:1313/categories/chat-gpt/</link>
+    <description>Recent content in Chat GPT on Ram&#39;s Website</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 26 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/chat-gpt/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Evolution of AI: Introducing GPT-3.5 With Live Browsing</title>
+      <link>http://localhost:1313/2023/04/the-evolution-of-ai-introducing-gpt-3.5-with-live-browsing/</link>
+      <pubDate>Wed, 26 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2023/04/the-evolution-of-ai-introducing-gpt-3.5-with-live-browsing/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;The Next Frontier in Language Models - Accessing Real-time Information&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;&#xA;&lt;p&gt;In recent years, artificial intelligence (AI) and natural language processing (NLP) have made significant advancements with the help of powerful models like GPT-3. Now, OpenAI is taking a leap forward with the latest innovation: GPT-3.5 With Browsing, a model that not only understands natural language but can also access live information from the internet.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/bhaskarvilles/loveit-hugo/master/images/GPTSCREENSHOT.jpg&#34; alt=&#34;GPT-3.5-with-Browsing-Screenshot&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;1-what-is-gpt-35-with-browsing&#34;&gt;1. &lt;em&gt;What is GPT-3.5 With Browsing?&lt;/em&gt;&lt;/h2&gt;&#xA;&lt;p&gt;GPT-3.5 With Browsing is a groundbreaking language model that combines the power of GPT-3.5&amp;rsquo;s natural language understanding with the ability to browse the internet for real-time information. This means that the model can access and incorporate up-to-date information to provide better, more accurate responses.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

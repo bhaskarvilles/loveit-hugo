@@ -1,5 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Scappy on Ram's Website</title><link>https://secretcoder.org/categories/scappy/</link><description>Recent content in Scappy on Ram's Website</description><generator>Hugo</generator><language>en</language><lastBuildDate>Wed, 09 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://secretcoder.org/categories/scappy/index.xml" rel="self" type="application/rss+xml"/><item><title>Creating a Wi-Fi Scanner with Python and Scapy</title><link>https://secretcoder.org/2022/11/creating-a-wi-fi-scanner-with-python-and-scapy/</link><pubDate>Wed, 09 Nov 2022 00:00:00 +0000</pubDate><guid>https://secretcoder.org/2022/11/creating-a-wi-fi-scanner-with-python-and-scapy/</guid><description>&lt;h3 id="wi-fi-hacking-creating-a-wi-fi-scanner-with-python-and-scapy">Wi-Fi Hacking: Creating a Wi-Fi Scanner with Python and Scapy&lt;/h3>
-&lt;p>Although there are numerous tools to hack Wi-Fi (802.11), to create your own tools you will need to understand the Wi-Fi protocol. In a previous tutorial, I explained the various types of frames in Wi-Fi. Now we will use that information to crate our own Wi-Fi scanner very similar to the aircrack-ng suite&amp;rsquo;s airmon-ng or Kismet.&lt;/p>
-&lt;p>&lt;img src="https://rashahacks.com/content/images/2022/11/6a4a49_7a739a0a2f1d4d2aaadc442e2142fd44-mv2.webp" alt="alt">&lt;/p>
-&lt;p>To begin, we will need to understand a bit about scapy. Scapy was written in Python and can forge or decode packets, send them on the wire, capture them, and match requests and replies. It can also handle tasks like scanning, tracerouting, probing, unit tests, attacks, and network discovery. Scapy provides an interface to libpcap, the same library that Wireshark uses for packet capture and visualization. Scapy enables us then to grab packets and analyze for them for particular fields. So, for instance, if we were looking for beacon frames from an AP, we could filter for those with type 0 and subtype 8
-This frame includes a variety of information including;&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Scappy on Ram&#39;s Website</title>
+    <link>http://localhost:1313/categories/scappy/</link>
+    <description>Recent content in Scappy on Ram&#39;s Website</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 09 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/scappy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Creating a Wi-Fi Scanner with Python and Scapy</title>
+      <link>http://localhost:1313/2022/11/creating-a-wi-fi-scanner-with-python-and-scapy/</link>
+      <pubDate>Wed, 09 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2022/11/creating-a-wi-fi-scanner-with-python-and-scapy/</guid>
+      <description>&lt;h3 id=&#34;wi-fi-hacking-creating-a-wi-fi-scanner-with-python-and-scapy&#34;&gt;Wi-Fi Hacking: Creating a Wi-Fi Scanner with Python and Scapy&lt;/h3&gt;&#xA;&lt;p&gt;Although there are numerous tools to hack Wi-Fi (802.11), to create your own tools you will need to understand the Wi-Fi protocol. In a previous tutorial, I explained the various types of frames in Wi-Fi. Now we will use that information to crate our own Wi-Fi scanner very similar to the aircrack-ng suite&amp;rsquo;s airmon-ng or Kismet.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://rashahacks.com/content/images/2022/11/6a4a49_7a739a0a2f1d4d2aaadc442e2142fd44-mv2.webp&#34; alt=&#34;alt&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;To begin, we will need to understand a bit about scapy. Scapy was written in Python and can  forge or decode packets, send them on the wire, capture them, and match requests and replies. It can also handle tasks like scanning, tracerouting, probing, unit tests, attacks, and network discovery. Scapy provides an interface to libpcap, the same library that Wireshark uses for packet capture and visualization. Scapy enables us then to grab packets and analyze for them for particular fields. So, for instance, if we were looking for beacon frames from an AP, we could filter for those with type 0 and subtype 8&#xA;This frame includes a variety of information including;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

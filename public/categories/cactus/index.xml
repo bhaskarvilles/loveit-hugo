@@ -1,7 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cactus on Ram's Website</title><link>https://secretcoder.org/categories/cactus/</link><description>Recent content in Cactus on Ram's Website</description><generator>Hugo</generator><language>en</language><lastBuildDate>Sat, 05 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://secretcoder.org/categories/cactus/index.xml" rel="self" type="application/rss+xml"/><item><title>Hyperledger Cactus Project moved to Cacti</title><link>https://secretcoder.org/2022/11/hyperledger-cactus-project-moved-to-cacti/</link><pubDate>Sat, 05 Nov 2022 00:00:00 +0000</pubDate><guid>https://secretcoder.org/2022/11/hyperledger-cactus-project-moved-to-cacti/</guid><description>&lt;h1 id="tsc-approves-hyperledger-cactus-as-new-project">TSC Approves Hyperledger Cactus as New Project&lt;/h1>
-&lt;ul>
-&lt;li>By Michael Klein, Blockchain and Multiparty Systems Architecture Lead at Accenture, and Hart Montgomery, Fujitsu Laboratories.&lt;/li>
-&lt;/ul>
-&lt;p>&lt;img src="https://www.hyperledger.org/wp-content/uploads/2020/05/HL_Website_TwitterImages_Cactus.png" alt="alt">&lt;/p>
-&lt;h2 id="building-dlt-integration-protocol">Building DLT integration protocol&lt;/h2>
-&lt;p>We are thrilled to announce that the open source Blockchain Integration Framework that Accenture and Fujitsu jointly contributed to Hyperledger Labs has been welcomed as the latest Hyperledger project. With this, the project receives a formal name, Hyperledger Cactus, and also benefits from the resources and promise of longevity that come with inclusion in the Hyperledger Greenhouse.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cactus on Ram&#39;s Website</title>
+    <link>http://localhost:1313/categories/cactus/</link>
+    <description>Recent content in Cactus on Ram&#39;s Website</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 05 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/cactus/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hyperledger Cactus Project moved to Cacti</title>
+      <link>http://localhost:1313/2022/11/hyperledger-cactus-project-moved-to-cacti/</link>
+      <pubDate>Sat, 05 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2022/11/hyperledger-cactus-project-moved-to-cacti/</guid>
+      <description>&lt;h1 id=&#34;tsc-approves-hyperledger-cactus-as-new-project&#34;&gt;TSC Approves Hyperledger Cactus as New Project&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;By Michael Klein, Blockchain and Multiparty Systems Architecture Lead at Accenture, and Hart Montgomery, Fujitsu Laboratories.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://www.hyperledger.org/wp-content/uploads/2020/05/HL_Website_TwitterImages_Cactus.png&#34; alt=&#34;alt&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;building-dlt-integration-protocol&#34;&gt;Building DLT integration protocol&lt;/h2&gt;&#xA;&lt;p&gt;We are thrilled to announce that the open source Blockchain Integration Framework that Accenture and Fujitsu jointly contributed to Hyperledger Labs has been welcomed as the latest Hyperledger project. With this, the project receives a formal name, Hyperledger Cactus, and also benefits from the resources and promise of longevity that come with inclusion in the Hyperledger Greenhouse.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

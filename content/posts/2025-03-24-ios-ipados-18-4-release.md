@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "iOS and iPadOS 18.4: A Comprehensive Overview of the Latest Updates"
-date: 2024-03-18
-lastmod: 2024-03-18
+date: 2025-03-24
+lastmod: 2025-03-24
 author: "Bhaskar"
 authorlink: "https://linkedin.com/in/bhaskarvilles"
 categories: ["Technology", "Apple"]

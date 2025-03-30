@@ -1,10 +1,33 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hyperledger on Ram's Website</title><link>https://secretcoder.org/categories/hyperledger/</link><description>Recent content in Hyperledger on Ram's Website</description><generator>Hugo</generator><language>en</language><lastBuildDate>Sat, 05 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://secretcoder.org/categories/hyperledger/index.xml" rel="self" type="application/rss+xml"/><item><title>Hyperledger Cactus Project moved to Cacti</title><link>https://secretcoder.org/2022/11/hyperledger-cactus-project-moved-to-cacti/</link><pubDate>Sat, 05 Nov 2022 00:00:00 +0000</pubDate><guid>https://secretcoder.org/2022/11/hyperledger-cactus-project-moved-to-cacti/</guid><description>&lt;h1 id="tsc-approves-hyperledger-cactus-as-new-project">TSC Approves Hyperledger Cactus as New Project&lt;/h1>
-&lt;ul>
-&lt;li>By Michael Klein, Blockchain and Multiparty Systems Architecture Lead at Accenture, and Hart Montgomery, Fujitsu Laboratories.&lt;/li>
-&lt;/ul>
-&lt;p>&lt;img src="https://www.hyperledger.org/wp-content/uploads/2020/05/HL_Website_TwitterImages_Cactus.png" alt="alt">&lt;/p>
-&lt;h2 id="building-dlt-integration-protocol">Building DLT integration protocol&lt;/h2>
-&lt;p>We are thrilled to announce that the open source Blockchain Integration Framework that Accenture and Fujitsu jointly contributed to Hyperledger Labs has been welcomed as the latest Hyperledger project. With this, the project receives a formal name, Hyperledger Cactus, and also benefits from the resources and promise of longevity that come with inclusion in the Hyperledger Greenhouse.&lt;/p></description></item><item><title>Hyperledger Fabric Deployment — How We Aced it from Testing to Production</title><link>https://secretcoder.org/2022/09/hyperledger-fabric-deployment-how-we-aced-it-from-testing-to-production/</link><pubDate>Mon, 26 Sep 2022 00:00:00 +0000</pubDate><guid>https://secretcoder.org/2022/09/hyperledger-fabric-deployment-how-we-aced-it-from-testing-to-production/</guid><description>&lt;p>You’ve set up your Dev environment, developed your chaincode, designed some decent looking UIs, and passed all your tests to get everything up &amp;amp; running locally. Now what? Is that everything you ever wanted? Of course not! You shouldn’t be satisfied at all. You need to do more. Your next target ought to be to scale the network and stimulate a production-level environment. Added to that, you should also focus on adding multiple orderers, organizations with their own peers and CAs, and try testing it on multiple machines.&lt;/p></description></item><item><title>Hitachi Shifts to Paperless, Secure Procurement Contracts with Hyperledger Fabric</title><link>https://secretcoder.org/2022/09/hitachi-shifts-to-paperless-secure-procurement-contracts-with-hyperledger-fabric/</link><pubDate>Wed, 07 Sep 2022 11:30:00 +0000</pubDate><guid>https://secretcoder.org/2022/09/hitachi-shifts-to-paperless-secure-procurement-contracts-with-hyperledger-fabric/</guid><description>&lt;p>&lt;strong>Read the full case study &lt;a href="https://www.hyperledger.org/learn/publications/hitachi-case-study">here&lt;/a>.&lt;/strong>&lt;/p>
-&lt;p>Paper pushing. It’s synonymous with tedious, slow processes. Yet often, the pushed paper is vital to a company’s business. And contracts are especially important paper.&lt;/p>
-&lt;p>But digitizing a contract process isn’t as simple as it sounds. As the contract moves between parties, there’s a risk of tampering. Or mismanaging version control.&lt;/p>
-&lt;p>Many companies continue to use paper for their contracting processes to maintain security and trust. The procurement divisions of Hitachi, Ltd. were no different.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hyperledger on Ram&#39;s Website</title>
+    <link>http://localhost:1313/categories/hyperledger/</link>
+    <description>Recent content in Hyperledger on Ram&#39;s Website</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 05 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/hyperledger/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hyperledger Cactus Project moved to Cacti</title>
+      <link>http://localhost:1313/2022/11/hyperledger-cactus-project-moved-to-cacti/</link>
+      <pubDate>Sat, 05 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2022/11/hyperledger-cactus-project-moved-to-cacti/</guid>
+      <description>&lt;h1 id=&#34;tsc-approves-hyperledger-cactus-as-new-project&#34;&gt;TSC Approves Hyperledger Cactus as New Project&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;By Michael Klein, Blockchain and Multiparty Systems Architecture Lead at Accenture, and Hart Montgomery, Fujitsu Laboratories.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://www.hyperledger.org/wp-content/uploads/2020/05/HL_Website_TwitterImages_Cactus.png&#34; alt=&#34;alt&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;building-dlt-integration-protocol&#34;&gt;Building DLT integration protocol&lt;/h2&gt;&#xA;&lt;p&gt;We are thrilled to announce that the open source Blockchain Integration Framework that Accenture and Fujitsu jointly contributed to Hyperledger Labs has been welcomed as the latest Hyperledger project. With this, the project receives a formal name, Hyperledger Cactus, and also benefits from the resources and promise of longevity that come with inclusion in the Hyperledger Greenhouse.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Hyperledger Fabric Deployment — How We Aced it from Testing to Production</title>
+      <link>http://localhost:1313/2022/09/hyperledger-fabric-deployment-how-we-aced-it-from-testing-to-production/</link>
+      <pubDate>Mon, 26 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2022/09/hyperledger-fabric-deployment-how-we-aced-it-from-testing-to-production/</guid>
+      <description>&lt;p&gt;You’ve set up your Dev environment, developed your chaincode, designed some decent looking UIs, and passed all your tests to get everything up &amp;amp; running locally. Now what? Is that everything you ever wanted? Of course not! You shouldn’t be satisfied at all. You need to do more. Your next target ought to be to scale the network and stimulate a production-level environment. Added to that, you should also focus on adding multiple orderers, organizations with their own peers and CAs, and try testing it on multiple machines.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Hitachi Shifts to Paperless, Secure Procurement Contracts with Hyperledger Fabric</title>
+      <link>http://localhost:1313/2022/09/hitachi-shifts-to-paperless-secure-procurement-contracts-with-hyperledger-fabric/</link>
+      <pubDate>Wed, 07 Sep 2022 11:30:00 +0000</pubDate>
+      <guid>http://localhost:1313/2022/09/hitachi-shifts-to-paperless-secure-procurement-contracts-with-hyperledger-fabric/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Read the full case study &lt;a href=&#34;https://www.hyperledger.org/learn/publications/hitachi-case-study&#34;&gt;here&lt;/a&gt;.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Paper pushing. It’s synonymous with tedious, slow processes. Yet often, the pushed paper is vital to a company’s business. And contracts are especially important paper.&lt;/p&gt;&#xA;&lt;p&gt;But digitizing a contract process isn’t as simple as it sounds. As the contract moves between parties, there’s a risk of tampering. Or mismanaging version control.&lt;/p&gt;&#xA;&lt;p&gt;Many companies continue to use paper for their contracting processes to maintain security and trust. The procurement divisions of Hitachi, Ltd. were no different.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

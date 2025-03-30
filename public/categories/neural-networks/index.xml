@@ -1,6 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Neural Networks on Ram's Website</title><link>https://secretcoder.org/categories/neural-networks/</link><description>Recent content in Neural Networks on Ram's Website</description><generator>Hugo</generator><language>en</language><lastBuildDate>Mon, 29 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://secretcoder.org/categories/neural-networks/index.xml" rel="self" type="application/rss+xml"/><item><title>Understanding Artificial Neural Networks (ANNs) and Convolutional Neural Networks (CNNs)</title><link>https://secretcoder.org/2024/07/understanding-artificial-neural-networks-anns-and-convolutional-neural-networks-cnns/</link><pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate><guid>https://secretcoder.org/2024/07/understanding-artificial-neural-networks-anns-and-convolutional-neural-networks-cnns/</guid><description>&lt;h1 id="understanding-artificial-neural-networks-anns-and-convolutional-neural-networks-cnns">Understanding Artificial Neural Networks (ANNs) and Convolutional Neural Networks (CNNs)&lt;/h1>
-&lt;p>Neural networks have revolutionized the field of artificial intelligence and machine learning. Their ability to model complex patterns and relationships has led to significant advancements in various domains, from computer vision to natural language processing. Among the myriad types of neural networks, Artificial Neural Networks (ANNs) and Convolutional Neural Networks (CNNs) are two of the most prominent and widely used architectures.&lt;/p></description></item><item><title>OpenAI and ChatGPT</title><link>https://secretcoder.org/2022/12/openai-and-chatgpt/</link><pubDate>Wed, 21 Dec 2022 00:00:00 +0000</pubDate><guid>https://secretcoder.org/2022/12/openai-and-chatgpt/</guid><description>&lt;h2 id="introduction-to-openai">Introduction to OpenAI:&lt;/h2>
-&lt;p>OpenAI is a research organization that focuses on developing and promoting friendly artificial intelligence. It was founded in 2015 by a group of entrepreneurs, researchers, and philanthropists who wanted to ensure that AI could be aligned with human values and would be used for the benefit of all humanity.&lt;/p>
-&lt;p>&lt;img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/OpenAI_Logo.svg/1280px-OpenAI_Logo.svg.png" alt="alt">&lt;/p>
-&lt;h2 id="overview-of-chatgpt">Overview of ChatGPT:&lt;/h2>
-&lt;p>ChatGPT is a variant of the GPT (Generative Pre-training Transformer) language model developed by OpenAI. It is designed to generate human-like text in a conversational style, making it well-suited for tasks such as chatbots, dialog systems, and question answering systems. ChatGPT is trained on a large dataset of human conversations and can generate responses to a wide range of prompts, including open-ended questions and prompts that require the model to provide information or perform a specific task.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Neural Networks on Ram&#39;s Website</title>
+    <link>http://localhost:1313/categories/neural-networks/</link>
+    <description>Recent content in Neural Networks on Ram&#39;s Website</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 29 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/neural-networks/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Understanding Artificial Neural Networks (ANNs) and Convolutional Neural Networks (CNNs)</title>
+      <link>http://localhost:1313/2024/07/understanding-artificial-neural-networks-anns-and-convolutional-neural-networks-cnns/</link>
+      <pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2024/07/understanding-artificial-neural-networks-anns-and-convolutional-neural-networks-cnns/</guid>
+      <description>&lt;h1 id=&#34;understanding-artificial-neural-networks-anns-and-convolutional-neural-networks-cnns&#34;&gt;Understanding Artificial Neural Networks (ANNs) and Convolutional Neural Networks (CNNs)&lt;/h1&gt;&#xA;&lt;p&gt;Neural networks have revolutionized the field of artificial intelligence and machine learning. Their ability to model complex patterns and relationships has led to significant advancements in various domains, from computer vision to natural language processing. Among the myriad types of neural networks, Artificial Neural Networks (ANNs) and Convolutional Neural Networks (CNNs) are two of the most prominent and widely used architectures.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OpenAI and ChatGPT</title>
+      <link>http://localhost:1313/2022/12/openai-and-chatgpt/</link>
+      <pubDate>Wed, 21 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2022/12/openai-and-chatgpt/</guid>
+      <description>&lt;h2 id=&#34;introduction-to-openai&#34;&gt;Introduction to OpenAI:&lt;/h2&gt;&#xA;&lt;p&gt;OpenAI is a research organization that focuses on developing and promoting friendly artificial intelligence. It was founded in 2015 by a group of entrepreneurs, researchers, and philanthropists who wanted to ensure that AI could be aligned with human values and would be used for the benefit of all humanity.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/OpenAI_Logo.svg/1280px-OpenAI_Logo.svg.png&#34; alt=&#34;alt&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;overview-of-chatgpt&#34;&gt;Overview of ChatGPT:&lt;/h2&gt;&#xA;&lt;p&gt;ChatGPT is a variant of the GPT (Generative Pre-training Transformer) language model developed by OpenAI. It is designed to generate human-like text in a conversational style, making it well-suited for tasks such as chatbots, dialog systems, and question answering systems. ChatGPT is trained on a large dataset of human conversations and can generate responses to a wide range of prompts, including open-ended questions and prompts that require the model to provide information or perform a specific task.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

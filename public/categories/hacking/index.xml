@@ -1,25 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hacking on Ram's Website</title><link>https://secretcoder.org/categories/hacking/</link><description>Recent content in Hacking on Ram's Website</description><generator>Hugo</generator><language>en</language><lastBuildDate>Sat, 15 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://secretcoder.org/categories/hacking/index.xml" rel="self" type="application/rss+xml"/><item><title>Tools for reconnaissance and footprinting</title><link>https://secretcoder.org/2023/04/tools-for-reconnaissance-and-footprinting/</link><pubDate>Sat, 15 Apr 2023 00:00:00 +0000</pubDate><guid>https://secretcoder.org/2023/04/tools-for-reconnaissance-and-footprinting/</guid><description>&lt;h1 id="recon-tools">Recon Tools&lt;/h1>
-&lt;p>A compiled list of tools for reconnaissance and footprinting.&lt;/p>
-&lt;h2 id="contents">Contents&lt;/h2>
-&lt;ul>
-&lt;li>
-&lt;p>&lt;a href="#Domain-and-Network-Recon">Domain and Network Recon&lt;/a> - Tools for grabbing network related information.&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;a href="#Personal-Information-and-Email-Footprinting">Personal Information and Email Footprinting&lt;/a> - Tools for finding personal information such as social networks and emails as well as footprinting tools for mail.&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;a href="#Hacking-with-Google">Hacking with Google&lt;/a> - Use Google commands to your advantage&lt;/p>
-&lt;/li>
-&lt;/ul>
-&lt;h2 id="domain-and-network-recon">Domain and Network Recon&lt;/h2>
-&lt;blockquote>
-&lt;p>Robust tools for gathering domain and network information.&lt;/p>&lt;/blockquote>
-&lt;h3 id="programs-and-web-applications">Programs and Web Applications&lt;/h3>
-&lt;ul>
-&lt;li>
-&lt;p>&lt;a href="https://arin.net/about/welcom/region">ARIN Whois/RDAP&lt;/a> - A public resource that allows a user to retrieve information about IP number resources, organizations, and Points of Contact registered with ARIN.&lt;/p></description></item><item><title>New WhatsApp 0-Day Bug Let Hackers Execute a Code &amp; Take Full App Control Remotely</title><link>https://secretcoder.org/2022/09/new-whatsapp-0-day-bug-let-hackers-execute-a-code-take-full-app-control-remotely/</link><pubDate>Tue, 27 Sep 2022 00:00:00 +0000</pubDate><guid>https://secretcoder.org/2022/09/new-whatsapp-0-day-bug-let-hackers-execute-a-code-take-full-app-control-remotely/</guid><description>&lt;p>WhatsApp silently fixed two critical zero-day vulnerabilities that affect both Android &amp;amp; iOS versions allowing attackers to execute an arbitrary code remotely.&lt;/p>
-&lt;p>&lt;img src="https://i0.wp.com/blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyqCX58BbzMt4b6AorcIFMeo51MA8QTbY-UKNN2-xETgunEOyZMXjIZx95yi9szSSQPXA6PuDhvpqutIJ2AHIsmtrokxs6tt7_XuZugAnDq132gz7MCW-tsYQTXXNUzVhd7pD4d01D821IcyCN321Kko15fmlssSZQBAq89z6lw4yRej_6EPwdqwBzNQ/s16000/WhatsApp%200-Day%20Bug.png" alt="alt">&lt;/p>
-&lt;p>Facebook-owned messenger WhatsApp is one of the Top-ranked Messenger apps with more than Billion users around the world in both Android and iPhone.&lt;/p>
-&lt;p>Both vulnerabilities are marked under “critical” severity with a CVE Score of 10/10 and found by the WhatsApp internal security Team.&lt;/p>
-&lt;p>Simplifying these following vulnerabilities, Whatsapp could cause your device to be hacked by receiving a Video File or When on a Video call.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hacking on Ram&#39;s Website</title>
+    <link>http://localhost:1313/categories/hacking/</link>
+    <description>Recent content in Hacking on Ram&#39;s Website</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 15 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/hacking/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tools for reconnaissance and footprinting</title>
+      <link>http://localhost:1313/2023/04/tools-for-reconnaissance-and-footprinting/</link>
+      <pubDate>Sat, 15 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2023/04/tools-for-reconnaissance-and-footprinting/</guid>
+      <description>&lt;h1 id=&#34;recon-tools&#34;&gt;Recon Tools&lt;/h1&gt;&#xA;&lt;p&gt;A compiled list of tools for reconnaissance and footprinting.&lt;/p&gt;&#xA;&lt;h2 id=&#34;contents&#34;&gt;Contents&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;#Domain-and-Network-Recon&#34;&gt;Domain and Network Recon&lt;/a&gt; - Tools for grabbing network related information.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;#Personal-Information-and-Email-Footprinting&#34;&gt;Personal Information and Email Footprinting&lt;/a&gt; - Tools for finding personal information such as social networks and emails as well as footprinting tools for mail.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;#Hacking-with-Google&#34;&gt;Hacking with Google&lt;/a&gt; - Use Google commands to your advantage&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;domain-and-network-recon&#34;&gt;Domain and Network Recon&lt;/h2&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Robust tools for gathering domain and network information.&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;h3 id=&#34;programs-and-web-applications&#34;&gt;Programs and Web Applications&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://arin.net/about/welcom/region&#34;&gt;ARIN Whois/RDAP&lt;/a&gt; - A public resource that allows a user to retrieve information about IP number resources, organizations, and Points of Contact registered with ARIN.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>New WhatsApp 0-Day Bug Let Hackers Execute a Code &amp; Take Full App Control Remotely</title>
+      <link>http://localhost:1313/2022/09/new-whatsapp-0-day-bug-let-hackers-execute-a-code-take-full-app-control-remotely/</link>
+      <pubDate>Tue, 27 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2022/09/new-whatsapp-0-day-bug-let-hackers-execute-a-code-take-full-app-control-remotely/</guid>
+      <description>&lt;p&gt;WhatsApp silently fixed two critical zero-day vulnerabilities that affect both Android &amp;amp; iOS versions allowing attackers to execute an arbitrary code remotely.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://i0.wp.com/blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyqCX58BbzMt4b6AorcIFMeo51MA8QTbY-UKNN2-xETgunEOyZMXjIZx95yi9szSSQPXA6PuDhvpqutIJ2AHIsmtrokxs6tt7_XuZugAnDq132gz7MCW-tsYQTXXNUzVhd7pD4d01D821IcyCN321Kko15fmlssSZQBAq89z6lw4yRej_6EPwdqwBzNQ/s16000/WhatsApp%200-Day%20Bug.png&#34; alt=&#34;alt&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Facebook-owned messenger WhatsApp is one of the Top-ranked Messenger apps with more than Billion users around the world in both Android and iPhone.&lt;/p&gt;&#xA;&lt;p&gt;Both vulnerabilities are marked under “critical” severity with a CVE Score of 10/10 and found by the WhatsApp internal security Team.&lt;/p&gt;&#xA;&lt;p&gt;Simplifying these following vulnerabilities, Whatsapp could cause your device to be hacked by receiving a Video File or When on a Video call.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

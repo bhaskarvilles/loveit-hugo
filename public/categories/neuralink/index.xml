@@ -1,3 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Neuralink on Ram's Website</title><link>https://secretcoder.org/categories/neuralink/</link><description>Recent content in Neuralink on Ram's Website</description><generator>Hugo</generator><language>en</language><lastBuildDate>Mon, 24 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://secretcoder.org/categories/neuralink/index.xml" rel="self" type="application/rss+xml"/><item><title>Implantable Brain Machines: The Future of Human-Computer Interaction</title><link>https://secretcoder.org/2023/04/implantable-brain-machines-the-future-of-human-computer-interaction/</link><pubDate>Mon, 24 Apr 2023 00:00:00 +0000</pubDate><guid>https://secretcoder.org/2023/04/implantable-brain-machines-the-future-of-human-computer-interaction/</guid><description>&lt;h1 id="introduction">Introduction&lt;/h1>
-&lt;p>&lt;em>As technology continues to advance at an unprecedented rate, one area that has garnered significant interest is implantable brain machines. These devices have the potential to revolutionize the way we interact with computers, offering new possibilities in communication, education, and even healthcare. In this blog post, we will delve into the world of implantable brain machines, exploring their potential uses, benefits, and the ethical concerns surrounding their implementation.&lt;/em>&lt;/p>
-&lt;p>&lt;img src="https://mindmatters.ai/wp-content/uploads/sites/2/2021/05/human-brain-with-an-implanted-chip-stockpack-adobe-stock-scaled.jpg" alt="Neural Brain">&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Neuralink on Ram&#39;s Website</title>
+    <link>http://localhost:1313/categories/neuralink/</link>
+    <description>Recent content in Neuralink on Ram&#39;s Website</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 24 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/neuralink/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Implantable Brain Machines: The Future of Human-Computer Interaction</title>
+      <link>http://localhost:1313/2023/04/implantable-brain-machines-the-future-of-human-computer-interaction/</link>
+      <pubDate>Mon, 24 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2023/04/implantable-brain-machines-the-future-of-human-computer-interaction/</guid>
+      <description>&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;&#xA;&lt;p&gt;&lt;em&gt;As technology continues to advance at an unprecedented rate, one area that has garnered significant interest is implantable brain machines. These devices have the potential to revolutionize the way we interact with computers, offering new possibilities in communication, education, and even healthcare. In this blog post, we will delve into the world of implantable brain machines, exploring their potential uses, benefits, and the ethical concerns surrounding their implementation.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://mindmatters.ai/wp-content/uploads/sites/2/2021/05/human-brain-with-an-implanted-chip-stockpack-adobe-stock-scaled.jpg&#34; alt=&#34;Neural Brain&#34;&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

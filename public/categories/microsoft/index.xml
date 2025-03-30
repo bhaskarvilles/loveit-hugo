@@ -1,4 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Microsoft on Ram's Website</title><link>https://secretcoder.org/categories/microsoft/</link><description>Recent content in Microsoft on Ram's Website</description><generator>Hugo</generator><language>en</language><lastBuildDate>Sat, 05 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://secretcoder.org/categories/microsoft/index.xml" rel="self" type="application/rss+xml"/><item><title>Microsoft sued for open-source piracy through GitHub Copilot</title><link>https://secretcoder.org/2022/11/microsoft-sued-for-open-source-piracy-through-github-copilot/</link><pubDate>Sat, 05 Nov 2022 00:00:00 +0000</pubDate><guid>https://secretcoder.org/2022/11/microsoft-sued-for-open-source-piracy-through-github-copilot/</guid><description>&lt;p>&lt;img src="https://www.bleepstatic.com/content/hl-images/2021/05/10/GitHub-headpic.jpg" alt="alt">&lt;/p>
-&lt;p>Programmer and lawyer Matthew Butterick has sued Microsoft, GitHub, and OpenAI, alleging that GitHub&amp;rsquo;s Copilot violates the terms of open-source licenses and infringes the rights of programmers.&lt;/p>
-&lt;p>GitHub Copilot, released in June 2022, is an AI-based programming aid that uses OpenAI Codex to generate real-time source code and function recommendations in Visual Studio.&lt;/p>
-&lt;p>The tool was trained with machine learning using billions of lines of code from public repositories and can transform natural language into code snippets across dozens of programming languages.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Microsoft on Ram&#39;s Website</title>
+    <link>http://localhost:1313/categories/microsoft/</link>
+    <description>Recent content in Microsoft on Ram&#39;s Website</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 05 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/microsoft/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Microsoft sued for open-source piracy through GitHub Copilot</title>
+      <link>http://localhost:1313/2022/11/microsoft-sued-for-open-source-piracy-through-github-copilot/</link>
+      <pubDate>Sat, 05 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2022/11/microsoft-sued-for-open-source-piracy-through-github-copilot/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://www.bleepstatic.com/content/hl-images/2021/05/10/GitHub-headpic.jpg&#34; alt=&#34;alt&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Programmer and lawyer Matthew Butterick has sued Microsoft, GitHub, and OpenAI, alleging that GitHub&amp;rsquo;s Copilot violates the terms of open-source licenses and infringes the rights of programmers.&lt;/p&gt;&#xA;&lt;p&gt;GitHub Copilot, released in June 2022, is an AI-based programming aid that uses OpenAI Codex to generate real-time source code and function recommendations in Visual Studio.&lt;/p&gt;&#xA;&lt;p&gt;The tool was trained with machine learning using billions of lines of code from public repositories and can transform natural language into code snippets across dozens of programming languages.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
